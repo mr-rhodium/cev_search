@@ -1,0 +1,5262 @@
+[
+  {
+    "name": "libc6",
+    "version": "3",
+    "score": 0.9
+  },
+  {
+    "name": "libcrypt1",
+    "version": ">= 1:4.4.10-10ubuntu4",
+    "score": 1
+  },
+  {
+    "name": "libc6",
+    "version": ">= 2.25",
+    "score": 1
+  },
+  {
+    "name": "gcc-12-base",
+    "version": "= 12.1.0-2ubuntu1~22.04",
+    "score": 1
+  },
+  {
+    "name": "libc6",
+    "version": ">= 2.35",
+    "score": 1
+  },
+  {
+    "name": "libgles1",
+    "version": "1",
+    "score": 0.9
+  },
+  {
+    "name": "happycoders",
+    "version": "3",
+    "score": 0.9
+  },
+  {
+    "name": "libegl1",
+    "version": "1",
+    "score": 0.9
+  },
+  {
+    "name": "happycoders",
+    "version": "2",
+    "score": 0.9
+  },
+  {
+    "name": "libc6",
+    "version": ">= 2.14",
+    "score": 1
+  },
+  {
+    "name": "libglvnd0",
+    "version": "= 1.4.0-1",
+    "score": 1
+  },
+  {
+    "name": "libgcc-s1",
+    "version": ">= 3.0",
+    "score": 1
+  },
+  {
+    "name": "libc6",
+    "version": ">= 2.34",
+    "score": 1
+  },
+  {
+    "name": "gsettings-ubuntu-schemas",
+    "version": ">= 0.0.7+17.10.20170922",
+    "score": 1
+  },
+  {
+    "name": "libappstream-glib8",
+    "version": ">= 0.5.1",
+    "score": 1
+  },
+  {
+    "name": "libbamf3-2",
+    "version": ">= 0.5.3~bzr0+16.04.20160321",
+    "score": 1
+  },
+  {
+    "name": "libcairo2",
+    "version": ">= 1.14.0",
+    "score": 1
+  },
+  {
+    "name": "libdbusmenu-glib4",
+    "version": ">= 0.4.2",
+    "score": 1
+  },
+  {
+    "name": "libgtk-3-0",
+    "version": ">= 3.19.12",
+    "score": 1
+  },
+  {
+    "name": "libindicator3-7",
+    "version": ">= 0.4.90",
+    "score": 1
+  },
+  {
+    "name": "libnotify4",
+    "version": ">= 0.7.0",
+    "score": 1
+  },
+  {
+    "name": "libpam0g",
+    "version": ">= 0.99.7.1",
+    "score": 1
+  },
+  {
+    "name": "libunity-misc4",
+    "version": ">= 4.0.2",
+    "score": 1
+  },
+  {
+    "name": "libunity-protocol-private0",
+    "version": ">= 7.1.4+19.04.20190319",
+    "score": 1
+  },
+  {
+    "name": "libunity-settings-daemon1",
+    "version": ">= 14.04.0",
+    "score": 1
+  },
+  {
+    "name": "libx11-6",
+    "version": ">= 2:1.2.99.901",
+    "score": 1
+  },
+  {
+    "name": "libxfixes3",
+    "version": ">= 1:5.0.1-1",
+    "score": 1
+  },
+  {
+    "name": "libxi6",
+    "version": ">= 2:1.7.1.901",
+    "score": 1
+  },
+  {
+    "name": "unity-asset-pool",
+    "version": ">= 0.8.18",
+    "score": 1
+  },
+  {
+    "name": "unity-settings-daemon-schemas",
+    "version": ">= 15.04.1+19.10.20190921-0ubuntu3",
+    "score": 1
+  },
+  {
+    "name": "libbamf3-2",
+    "version": "= 0.5.6+22.04.20220217-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libdbusmenu-gtk3-4",
+    "version": ">= 0.4.2",
+    "score": 1
+  },
+  {
+    "name": "libgtk-3-0",
+    "version": ">= 3.9.10",
+    "score": 1
+  },
+  {
+    "name": "libstartup-notification0",
+    "version": ">= 0.11",
+    "score": 1
+  },
+  {
+    "name": "libwnck-3-0",
+    "version": ">= 3.4.7",
+    "score": 1
+  },
+  {
+    "name": "libc6",
+    "version": ">= 2.4",
+    "score": 1
+  },
+  {
+    "name": "libffi8",
+    "version": ">= 3.4",
+    "score": 1
+  },
+  {
+    "name": "libmount1",
+    "version": ">= 2.35.2-7~",
+    "score": 1
+  },
+  {
+    "name": "libselinux1",
+    "version": ">= 3.1~",
+    "score": 1
+  },
+  {
+    "name": "zlib1g",
+    "version": ">= 1:1.2.2",
+    "score": 1
+  },
+  {
+    "name": "libc6",
+    "version": ">= 2.27",
+    "score": 1
+  },
+  {
+    "name": "libblkid1",
+    "version": ">= 2.17.2",
+    "score": 1
+  },
+  {
+    "name": "libc6",
+    "version": ">= 2.33",
+    "score": 1
+  },
+  {
+    "name": "libpcre2-8-0",
+    "version": ">= 10.22",
+    "score": 1
+  },
+  {
+    "name": "libdbusmenu-glib4",
+    "version": ">= 0.5.90",
+    "score": 1
+  },
+  {
+    "name": "libjpeg8",
+    "version": ">= 8c",
+    "score": 1
+  },
+  {
+    "name": "libpng16-16",
+    "version": ">= 1.6.2-1",
+    "score": 1
+  },
+  {
+    "name": "libtiff5",
+    "version": ">= 4.0.3",
+    "score": 1
+  },
+  {
+    "name": "libjpeg-turbo8",
+    "version": ">= 1.1.90+svn722-1ubuntu6",
+    "score": 1
+  },
+  {
+    "name": "libc6",
+    "version": ">= 2.29",
+    "score": 1
+  },
+  {
+    "name": "zlib1g",
+    "version": ">= 1:1.2.11",
+    "score": 1
+  },
+  {
+    "name": "libdeflate0",
+    "version": ">= 1.0",
+    "score": 1
+  },
+  {
+    "name": "libjbig0",
+    "version": ">= 2.0",
+    "score": 1
+  },
+  {
+    "name": "liblzma5",
+    "version": ">= 5.1.1alpha+20120614",
+    "score": 1
+  },
+  {
+    "name": "libzstd1",
+    "version": ">= 1.4.0",
+    "score": 1
+  },
+  {
+    "name": "zlib1g",
+    "version": ">= 1:1.1.4",
+    "score": 1
+  },
+  {
+    "name": "libxml2",
+    "version": ">= 2.7.4",
+    "score": 1
+  },
+  {
+    "name": "libicu70",
+    "version": ">= 70.1-1~",
+    "score": 1
+  },
+  {
+    "name": "zlib1g",
+    "version": ">= 1:1.2.3.3",
+    "score": 1
+  },
+  {
+    "name": "libgcc-s1",
+    "version": ">= 3.3.1",
+    "score": 1
+  },
+  {
+    "name": "libgcc-s1",
+    "version": ">= 4.2",
+    "score": 1
+  },
+  {
+    "name": "fontconfig",
+    "version": ">= 2.13.0",
+    "score": 1
+  },
+  {
+    "name": "libfribidi0",
+    "version": ">= 1.0.6",
+    "score": 1
+  },
+  {
+    "name": "libharfbuzz0b",
+    "version": ">= 2.6.0",
+    "score": 1
+  },
+  {
+    "name": "libthai0",
+    "version": ">= 0.1.25",
+    "score": 1
+  },
+  {
+    "name": "libfontconfig1",
+    "version": ">= 2.13.0",
+    "score": 1
+  },
+  {
+    "name": "libfreetype6",
+    "version": ">= 2.8.1",
+    "score": 1
+  },
+  {
+    "name": "fontconfig-config",
+    "version": ">= 2.13.1-4.2ubuntu5",
+    "score": 1
+  },
+  {
+    "name": "ucf",
+    "version": ">= 0.29",
+    "score": 1
+  },
+  {
+    "name": "coreutils",
+    "version": ">= 5.91",
+    "score": 1
+  },
+  {
+    "name": "debconf",
+    "version": ">= 1.5.19",
+    "score": 1
+  },
+  {
+    "name": "libacl1",
+    "version": ">= 2.2.23",
+    "score": 1
+  },
+  {
+    "name": "libattr1",
+    "version": ">= 1:2.4.44",
+    "score": 1
+  },
+  {
+    "name": "libgmp10",
+    "version": ">= 2:6.2.1+dfsg",
+    "score": 1
+  },
+  {
+    "name": "perl-base",
+    "version": ">= 5.20.1-3~",
+    "score": 1
+  },
+  {
+    "name": "dpkg",
+    "version": ">= 1.17.17",
+    "score": 1
+  },
+  {
+    "name": "libcrypt1",
+    "version": ">= 1:4.1.0",
+    "score": 1
+  },
+  {
+    "name": "tar",
+    "version": ">= 1.28-1",
+    "score": 1
+  },
+  {
+    "name": "liblzma5",
+    "version": ">= 5.2.2",
+    "score": 1
+  },
+  {
+    "name": "libexpat1",
+    "version": ">= 2.0.1",
+    "score": 1
+  },
+  {
+    "name": "libfreetype6",
+    "version": ">= 2.9.1",
+    "score": 1
+  },
+  {
+    "name": "libuuid1",
+    "version": ">= 2.16",
+    "score": 1
+  },
+  {
+    "name": "libbrotli1",
+    "version": ">= 0.6.0",
+    "score": 1
+  },
+  {
+    "name": "libgraphite2-3",
+    "version": ">= 1.2.2",
+    "score": 1
+  },
+  {
+    "name": "libdatrie1",
+    "version": ">= 0.2.0",
+    "score": 1
+  },
+  {
+    "name": "libthai-data",
+    "version": ">= 0.1.10",
+    "score": 1
+  },
+  {
+    "name": "libcairo-gobject2",
+    "version": ">= 1.14.0",
+    "score": 1
+  },
+  {
+    "name": "libcolord2",
+    "version": ">= 0.1.10",
+    "score": 1
+  },
+  {
+    "name": "libcups2",
+    "version": ">= 2.3~b6",
+    "score": 1
+  },
+  {
+    "name": "libepoxy0",
+    "version": ">= 1.4.3",
+    "score": 1
+  },
+  {
+    "name": "libfontconfig1",
+    "version": ">= 2.12.6",
+    "score": 1
+  },
+  {
+    "name": "libfribidi0",
+    "version": ">= 0.19.7",
+    "score": 1
+  },
+  {
+    "name": "libgtk-3-common",
+    "version": ">= 3.24.33-1ubuntu2",
+    "score": 1
+  },
+  {
+    "name": "libharfbuzz0b",
+    "version": ">= 2.2.0",
+    "score": 1
+  },
+  {
+    "name": "libwayland-client0",
+    "version": ">= 1.20.0",
+    "score": 1
+  },
+  {
+    "name": "libwayland-cursor0",
+    "version": ">= 1.14.91",
+    "score": 1
+  },
+  {
+    "name": "libwayland-egl1",
+    "version": ">= 1.15.0",
+    "score": 1
+  },
+  {
+    "name": "libx11-6",
+    "version": ">= 2:1.4.99.1",
+    "score": 1
+  },
+  {
+    "name": "libxcomposite1",
+    "version": ">= 1:0.4.5",
+    "score": 1
+  },
+  {
+    "name": "libxcursor1",
+    "version": ">> 1.1.2",
+    "score": 1
+  },
+  {
+    "name": "libxdamage1",
+    "version": ">= 1:1.1",
+    "score": 1
+  },
+  {
+    "name": "libxi6",
+    "version": ">= 2:1.2.99.4",
+    "score": 1
+  },
+  {
+    "name": "libxinerama1",
+    "version": ">= 2:1.1.4",
+    "score": 1
+  },
+  {
+    "name": "libxkbcommon0",
+    "version": ">= 0.5.0",
+    "score": 1
+  },
+  {
+    "name": "libxrandr2",
+    "version": ">= 2:1.5.0",
+    "score": 1
+  },
+  {
+    "name": "adwaita-icon-theme",
+    "version": "= 41.0-1ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libc6",
+    "version": ">= 2.7",
+    "score": 1
+  },
+  {
+    "name": "libdbus-1-3",
+    "version": ">= 1.9.14",
+    "score": 1
+  },
+  {
+    "name": "libsystemd0",
+    "version": "= 249.11-0ubuntu3.6",
+    "score": 1
+  },
+  {
+    "name": "libcap2",
+    "version": ">= 1:2.24-9~",
+    "score": 1
+  },
+  {
+    "name": "libgcrypt20",
+    "version": ">= 1.9.0",
+    "score": 1
+  },
+  {
+    "name": "liblz4-1",
+    "version": ">= 0.0~r122",
+    "score": 1
+  },
+  {
+    "name": "libgpg-error0",
+    "version": ">= 1.27",
+    "score": 1
+  },
+  {
+    "name": "libxcb1",
+    "version": ">= 1.11.1",
+    "score": 1
+  },
+  {
+    "name": "libxau6",
+    "version": ">= 1:1.0.9",
+    "score": 1
+  },
+  {
+    "name": "libbsd0",
+    "version": ">= 0.2.0",
+    "score": 1
+  },
+  {
+    "name": "libmd0",
+    "version": ">= 1.0.3-2",
+    "score": 1
+  },
+  {
+    "name": "libx11-6",
+    "version": ">= 2:1.6.0",
+    "score": 1
+  },
+  {
+    "name": "libxext6",
+    "version": ">= 2:1.3.0",
+    "score": 1
+  },
+  {
+    "name": "libcairo2",
+    "version": "= 1.16.0-5ubuntu2",
+    "score": 1
+  },
+  {
+    "name": "libpixman-1-0",
+    "version": ">= 0.30.0",
+    "score": 1
+  },
+  {
+    "name": "libxcb1",
+    "version": ">= 1.6",
+    "score": 1
+  },
+  {
+    "name": "libxcb1",
+    "version": ">= 1.8",
+    "score": 1
+  },
+  {
+    "name": "libxcb1",
+    "version": ">= 1.12",
+    "score": 1
+  },
+  {
+    "name": "liblcms2-2",
+    "version": ">= 2.6",
+    "score": 1
+  },
+  {
+    "name": "libudev1",
+    "version": ">= 196",
+    "score": 1
+  },
+  {
+    "name": "libavahi-client3",
+    "version": ">= 0.6.16",
+    "score": 1
+  },
+  {
+    "name": "libavahi-common3",
+    "version": ">= 0.6.16",
+    "score": 1
+  },
+  {
+    "name": "libgnutls30",
+    "version": ">= 3.7.2",
+    "score": 1
+  },
+  {
+    "name": "libgssapi-krb5-2",
+    "version": ">= 1.17",
+    "score": 1
+  },
+  {
+    "name": "zlib1g",
+    "version": ">= 1:1.2.0",
+    "score": 1
+  },
+  {
+    "name": "libavahi-common3",
+    "version": "= 0.8-5ubuntu5",
+    "score": 1
+  },
+  {
+    "name": "libavahi-common-data",
+    "version": "= 0.8-5ubuntu5",
+    "score": 1
+  },
+  {
+    "name": "libhogweed6",
+    "version": ">= 3.6",
+    "score": 1
+  },
+  {
+    "name": "libidn2-0",
+    "version": ">= 2.0.0",
+    "score": 1
+  },
+  {
+    "name": "libnettle8",
+    "version": ">= 3.7~",
+    "score": 1
+  },
+  {
+    "name": "libp11-kit0",
+    "version": ">= 0.23.18.1",
+    "score": 1
+  },
+  {
+    "name": "libtasn1-6",
+    "version": ">= 4.14",
+    "score": 1
+  },
+  {
+    "name": "libunistring2",
+    "version": ">= 0.9.7",
+    "score": 1
+  },
+  {
+    "name": "libc6",
+    "version": ">= 2.17",
+    "score": 1
+  },
+  {
+    "name": "libcom-err2",
+    "version": ">= 1.43.9",
+    "score": 1
+  },
+  {
+    "name": "libk5crypto3",
+    "version": ">= 1.16",
+    "score": 1
+  },
+  {
+    "name": "libkrb5-3",
+    "version": "= 1.19.2-2",
+    "score": 1
+  },
+  {
+    "name": "libkrb5support0",
+    "version": ">= 1.15~beta1",
+    "score": 1
+  },
+  {
+    "name": "libkrb5support0",
+    "version": ">= 1.16",
+    "score": 1
+  },
+  {
+    "name": "libk5crypto3",
+    "version": ">= 1.15~beta1",
+    "score": 1
+  },
+  {
+    "name": "libkeyutils1",
+    "version": ">= 1.5.9",
+    "score": 1
+  },
+  {
+    "name": "libkrb5support0",
+    "version": "= 1.19.2-2",
+    "score": 1
+  },
+  {
+    "name": "libssl3",
+    "version": ">= 3.0.0~~alpha1",
+    "score": 1
+  },
+  {
+    "name": "debconf",
+    "version": ">= 0.5",
+    "score": 1
+  },
+  {
+    "name": "dconf-service",
+    "version": ">= 0.40.0-3",
+    "score": 1
+  },
+  {
+    "name": "libdconf1",
+    "version": "= 0.40.0-3",
+    "score": 1
+  },
+  {
+    "name": "libcairo2",
+    "version": ">= 1.12.10",
+    "score": 1
+  },
+  {
+    "name": "libfreetype6",
+    "version": ">= 2.2.1",
+    "score": 1
+  },
+  {
+    "name": "libc6",
+    "version": ">= 2.28",
+    "score": 1
+  },
+  {
+    "name": "libc6",
+    "version": ">= 2.2.5",
+    "score": 1
+  },
+  {
+    "name": "xkb-data",
+    "version": ">= 0.8",
+    "score": 1
+  },
+  {
+    "name": "libgtop2-common",
+    "version": ">= 2.40.0-2build3",
+    "score": 1
+  },
+  {
+    "name": "libx11-xcb1",
+    "version": ">= 2:1.7.2",
+    "score": 1
+  },
+  {
+    "name": "libxcb-util1",
+    "version": ">= 0.4.0",
+    "score": 1
+  },
+  {
+    "name": "libx11-6",
+    "version": "= 2:1.7.5-1",
+    "score": 1
+  },
+  {
+    "name": "libc6",
+    "version": ">= 2.8",
+    "score": 1
+  },
+  {
+    "name": "libcairo2",
+    "version": ">= 1.2.4",
+    "score": 1
+  },
+  {
+    "name": "libgtk-3-0",
+    "version": ">= 3.22.0",
+    "score": 1
+  },
+  {
+    "name": "libstartup-notification0",
+    "version": ">= 0.4",
+    "score": 1
+  },
+  {
+    "name": "libxres1",
+    "version": ">= 2:1.2.1",
+    "score": 1
+  },
+  {
+    "name": "compiz-core",
+    "version": ">= 1:0.9.14.1+22.04.20220820-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "compiz-plugins-default",
+    "version": ">= 1:0.9.14.1+22.04.20220820-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libice6",
+    "version": ">= 1:1.0.0",
+    "score": 1
+  },
+  {
+    "name": "libstartup-notification0",
+    "version": ">= 0.7",
+    "score": 1
+  },
+  {
+    "name": "libc6",
+    "version": ">= 2.32",
+    "score": 1
+  },
+  {
+    "name": "lsb-base",
+    "version": ">= 1.3-9ubuntu2",
+    "score": 1
+  },
+  {
+    "name": "compiz-plugins-default",
+    "version": "= 1:0.9.14.1+22.04.20220820-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "gnome-settings-daemon-common",
+    "version": ">= 3.4.2-0ubuntu9",
+    "score": 1
+  },
+  {
+    "name": "libdecoration0",
+    "version": ">= 1:0.9.8.2",
+    "score": 1
+  },
+  {
+    "name": "libmetacity3",
+    "version": ">= 1:3.22.0",
+    "score": 1
+  },
+  {
+    "name": "libwnck-3-0",
+    "version": ">= 2.91.6",
+    "score": 1
+  },
+  {
+    "name": "compiz-core",
+    "version": "= 1:0.9.14.1+22.04.20220820-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libdecoration0",
+    "version": "= 1:0.9.14.1+22.04.20220820-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libxfixes3",
+    "version": ">= 1:4.0.1",
+    "score": 1
+  },
+  {
+    "name": "libxrandr2",
+    "version": ">= 4.3",
+    "score": 1
+  },
+  {
+    "name": "libglx0",
+    "version": "= 1.4.0-1",
+    "score": 1
+  },
+  {
+    "name": "libdrm2",
+    "version": ">= 2.4.75",
+    "score": 1
+  },
+  {
+    "name": "libglapi-mesa",
+    "version": "= 22.0.5-0ubuntu0.1",
+    "score": 1
+  },
+  {
+    "name": "libx11-xcb1",
+    "version": ">= 2:1.7.5",
+    "score": 1
+  },
+  {
+    "name": "libxcb-dri2-0",
+    "version": ">= 1.8",
+    "score": 1
+  },
+  {
+    "name": "libxcb-dri3-0",
+    "version": ">= 1.13",
+    "score": 1
+  },
+  {
+    "name": "libxcb-glx0",
+    "version": ">= 1.8",
+    "score": 1
+  },
+  {
+    "name": "libxcb1",
+    "version": ">= 1.9.2",
+    "score": 1
+  },
+  {
+    "name": "libdrm-common",
+    "version": ">= 2.4.110-1ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libdrm-amdgpu1",
+    "version": ">= 2.4.105",
+    "score": 1
+  },
+  {
+    "name": "libdrm-nouveau2",
+    "version": ">= 2.4.66",
+    "score": 1
+  },
+  {
+    "name": "libdrm-radeon1",
+    "version": ">= 2.4.31",
+    "score": 1
+  },
+  {
+    "name": "libelf1",
+    "version": ">= 0.142",
+    "score": 1
+  },
+  {
+    "name": "libgcc-s1",
+    "version": ">= 3.4",
+    "score": 1
+  },
+  {
+    "name": "libsensors5",
+    "version": ">= 1:3.5.0",
+    "score": 1
+  },
+  {
+    "name": "libvulkan1",
+    "version": ">= 1.2.131.2",
+    "score": 1
+  },
+  {
+    "name": "libdrm2",
+    "version": ">= 2.4.108",
+    "score": 1
+  },
+  {
+    "name": "libedit2",
+    "version": ">= 2.11-20080614-0",
+    "score": 1
+  },
+  {
+    "name": "libgcc-s1",
+    "version": ">= 3.3",
+    "score": 1
+  },
+  {
+    "name": "libtinfo6",
+    "version": ">= 6",
+    "score": 1
+  },
+  {
+    "name": "libbsd0",
+    "version": ">= 0.1.3",
+    "score": 1
+  },
+  {
+    "name": "gsettings-desktop-schemas",
+    "version": ">= 3.27.0",
+    "score": 1
+  },
+  {
+    "name": "init-system-helpers",
+    "version": ">= 1.52",
+    "score": 1
+  },
+  {
+    "name": "perl-base",
+    "version": ">= 5.20.1-3",
+    "score": 1
+  },
+  {
+    "name": "libprotobuf23",
+    "version": ">= 3.12.4",
+    "score": 1
+  },
+  {
+    "name": "libgtk-3-0",
+    "version": ">= 3.24.6",
+    "score": 1
+  },
+  {
+    "name": "metacity-common",
+    "version": "= 1:3.44.0-1",
+    "score": 1
+  },
+  {
+    "name": "python3",
+    "version": ">= 3.10~",
+    "score": 1
+  },
+  {
+    "name": "libpython3-stdlib",
+    "version": "= 3.10.6-1~22.04",
+    "score": 1
+  },
+  {
+    "name": "python3-minimal",
+    "version": "= 3.10.6-1~22.04",
+    "score": 1
+  },
+  {
+    "name": "libncursesw6",
+    "version": ">= 6.1",
+    "score": 1
+  },
+  {
+    "name": "libnsl2",
+    "version": ">= 1.0",
+    "score": 1
+  },
+  {
+    "name": "libreadline8",
+    "version": ">= 7.0~beta",
+    "score": 1
+  },
+  {
+    "name": "libsqlite3-0",
+    "version": ">= 3.14.0",
+    "score": 1
+  },
+  {
+    "name": "libtirpc3",
+    "version": ">= 1.0.2",
+    "score": 1
+  },
+  {
+    "name": "libuuid1",
+    "version": ">= 2.20.1",
+    "score": 1
+  },
+  {
+    "name": "libtinfo6",
+    "version": "= 6.3-2",
+    "score": 1
+  },
+  {
+    "name": "libtirpc-common",
+    "version": ">= 1.3.2-2ubuntu0.1",
+    "score": 1
+  },
+  {
+    "name": "dpkg",
+    "version": ">= 1.15.4",
+    "score": 1
+  },
+  {
+    "name": "dpkg",
+    "version": ">= 1.16.1",
+    "score": 1
+  },
+  {
+    "name": "perl-base",
+    "version": "= 5.34.0-3ubuntu1.1",
+    "score": 1
+  },
+  {
+    "name": "libgdbm-compat4",
+    "version": ">= 1.18-3",
+    "score": 1
+  },
+  {
+    "name": "libgdbm6",
+    "version": ">= 1.18-3",
+    "score": 1
+  },
+  {
+    "name": "zlib1g",
+    "version": ">= 1:1.2.2.3",
+    "score": 1
+  },
+  {
+    "name": "libgdbm6",
+    "version": ">= 1.16",
+    "score": 1
+  },
+  {
+    "name": "perl-base",
+    "version": ">= 5.34.0-1",
+    "score": 1
+  },
+  {
+    "name": "libexpat1",
+    "version": ">= 2.1~beta3",
+    "score": 1
+  },
+  {
+    "name": "dpkg",
+    "version": ">= 1.13.20",
+    "score": 1
+  },
+  {
+    "name": "libarchive13",
+    "version": ">= 3.0.4",
+    "score": 1
+  },
+  {
+    "name": "libstemmer0d",
+    "version": ">= 0+svn527",
+    "score": 1
+  },
+  {
+    "name": "liblz4-1",
+    "version": ">= 0.0~r130",
+    "score": 1
+  },
+  {
+    "name": "glib-networking",
+    "version": ">= 2.32.0",
+    "score": 1
+  },
+  {
+    "name": "libpsl5",
+    "version": ">= 0.20",
+    "score": 1
+  },
+  {
+    "name": "libsqlite3-0",
+    "version": ">= 3.5.9",
+    "score": 1
+  },
+  {
+    "name": "glib-networking-common",
+    "version": ">= 2.72.0-1",
+    "score": 1
+  },
+  {
+    "name": "glib-networking-services",
+    "version": "<< 2.72.0-1.1~",
+    "score": 1
+  },
+  {
+    "name": "libgnutls30",
+    "version": ">= 3.7.3",
+    "score": 1
+  },
+  {
+    "name": "libproxy1v5",
+    "version": ">= 0.4.17",
+    "score": 1
+  },
+  {
+    "name": "libidn2-0",
+    "version": ">= 0.16",
+    "score": 1
+  },
+  {
+    "name": "libgtk-3-0",
+    "version": ">= 3.5.18",
+    "score": 1
+  },
+  {
+    "name": "libcairo2",
+    "version": ">= 1.9.14",
+    "score": 1
+  },
+  {
+    "name": "libgeis1",
+    "version": ">= 2.2.10",
+    "score": 1
+  },
+  {
+    "name": "libc6",
+    "version": ">= 2.15",
+    "score": 1
+  },
+  {
+    "name": "libframe6",
+    "version": ">= 2.2.4",
+    "score": 1
+  },
+  {
+    "name": "libgrail6",
+    "version": ">= 3.0.8",
+    "score": 1
+  },
+  {
+    "name": "libxi6",
+    "version": ">= 2:1.5.99.2",
+    "score": 1
+  },
+  {
+    "name": "libframe6",
+    "version": ">= 2.5.0",
+    "score": 1
+  },
+  {
+    "name": "libaudit1",
+    "version": ">= 1:2.2.1",
+    "score": 1
+  },
+  {
+    "name": "libaudit-common",
+    "version": ">= 1:3.0.7-1build1",
+    "score": 1
+  },
+  {
+    "name": "libcap-ng0",
+    "version": ">= 0.7.9",
+    "score": 1
+  },
+  {
+    "name": "unity-schemas",
+    "version": "= 7.5.1+22.04.20211026.2-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "unity-services",
+    "version": "= 7.5.1+22.04.20211026.2-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libgtk-3-0",
+    "version": ">= 3.8.2-0ubuntu2",
+    "score": 1
+  },
+  {
+    "name": "libgtk-3-0",
+    "version": ">= 3.0.0",
+    "score": 1
+  },
+  {
+    "name": "libgnome-desktop-3-19",
+    "version": ">= 3.17.92",
+    "score": 1
+  },
+  {
+    "name": "libxrandr2",
+    "version": ">= 2:1.2.99.3",
+    "score": 1
+  },
+  {
+    "name": "gnome-desktop3-data",
+    "version": "<< 43~",
+    "score": 1
+  },
+  {
+    "name": "libseccomp2",
+    "version": ">= 1.0.1",
+    "score": 1
+  },
+  {
+    "name": "libxkbregistry0",
+    "version": ">= 1.0.0",
+    "score": 1
+  },
+  {
+    "name": "libcap2",
+    "version": ">= 1:2.10",
+    "score": 1
+  },
+  {
+    "name": "libxkbcommon0",
+    "version": "= 1.4.0-1",
+    "score": 1
+  },
+  {
+    "name": "libpci3",
+    "version": ">= 1:3.5.1",
+    "score": 1
+  },
+  {
+    "name": "libcairo-gobject2",
+    "version": ">= 1.10.0",
+    "score": 1
+  },
+  {
+    "name": "libcanberra0",
+    "version": ">= 0.2",
+    "score": 1
+  },
+  {
+    "name": "libgtk-3-0",
+    "version": ">= 3.16.2",
+    "score": 1
+  },
+  {
+    "name": "liblightdm-gobject-1-0",
+    "version": ">= 1.15.2",
+    "score": 1
+  },
+  {
+    "name": "unity-settings-daemon",
+    "version": ">= 15.04.1+19.10.20190921-0ubuntu3",
+    "score": 1
+  },
+  {
+    "name": "libasound2",
+    "version": ">= 1.0.16",
+    "score": 1
+  },
+  {
+    "name": "libltdl7",
+    "version": ">= 2.4.6",
+    "score": 1
+  },
+  {
+    "name": "libtdb1",
+    "version": ">= 1.2.7+git20101214",
+    "score": 1
+  },
+  {
+    "name": "libvorbisfile3",
+    "version": ">= 1.1.2",
+    "score": 1
+  },
+  {
+    "name": "libasound2-data",
+    "version": ">= 1.2.6.1-1ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libogg0",
+    "version": ">= 1.1.0",
+    "score": 1
+  },
+  {
+    "name": "libvorbis0a",
+    "version": "= 1.3.7-1build2",
+    "score": 1
+  },
+  {
+    "name": "libxklavier16",
+    "version": ">= 5.0",
+    "score": 1
+  },
+  {
+    "name": "libxi6",
+    "version": ">= 2:1.1.2",
+    "score": 1
+  },
+  {
+    "name": "libxkbfile1",
+    "version": ">= 1:1.1.0",
+    "score": 1
+  },
+  {
+    "name": "libxaw7",
+    "version": ">= 2:1.0.14",
+    "score": 1
+  },
+  {
+    "name": "libxmu6",
+    "version": ">= 2:1.1.3",
+    "score": 1
+  },
+  {
+    "name": "libapparmor1",
+    "version": ">= 2.13",
+    "score": 1
+  },
+  {
+    "name": "libcrypt1",
+    "version": ">= 1:4.4.0",
+    "score": 1
+  },
+  {
+    "name": "libcryptsetup12",
+    "version": ">= 2:2.4",
+    "score": 1
+  },
+  {
+    "name": "libgpg-error0",
+    "version": ">= 1.14",
+    "score": 1
+  },
+  {
+    "name": "libip4tc2",
+    "version": ">= 1.8.3",
+    "score": 1
+  },
+  {
+    "name": "libkmod2",
+    "version": ">= 5~",
+    "score": 1
+  },
+  {
+    "name": "libmount1",
+    "version": ">= 2.30",
+    "score": 1
+  },
+  {
+    "name": "libseccomp2",
+    "version": ">= 2.4.1",
+    "score": 1
+  },
+  {
+    "name": "mount",
+    "version": ">= 2.26",
+    "score": 1
+  },
+  {
+    "name": "util-linux",
+    "version": ">= 2.27.1",
+    "score": 1
+  },
+  {
+    "name": "libblkid1",
+    "version": ">= 2.24",
+    "score": 1
+  },
+  {
+    "name": "libsemanage2",
+    "version": ">= 2.0.3",
+    "score": 1
+  },
+  {
+    "name": "libcrypt1",
+    "version": ">= 1:4.3.0",
+    "score": 1
+  },
+  {
+    "name": "libpam-modules-bin",
+    "version": "= 1.4.0-11ubuntu2",
+    "score": 1
+  },
+  {
+    "name": "libpam0g",
+    "version": ">= 1.3.2",
+    "score": 1
+  },
+  {
+    "name": "libselinux1",
+    "version": ">= 3.3",
+    "score": 1
+  },
+  {
+    "name": "libsemanage-common",
+    "version": ">= 3.3-1build2",
+    "score": 1
+  },
+  {
+    "name": "libsepol2",
+    "version": ">= 3.3",
+    "score": 1
+  },
+  {
+    "name": "libargon2-1",
+    "version": ">= 0~20171227",
+    "score": 1
+  },
+  {
+    "name": "libjson-c5",
+    "version": ">= 0.15",
+    "score": 1
+  },
+  {
+    "name": "libudev1",
+    "version": ">= 183",
+    "score": 1
+  },
+  {
+    "name": "libmount1",
+    "version": ">= 2.37.2",
+    "score": 1
+  },
+  {
+    "name": "libsmartcols1",
+    "version": ">= 2.33",
+    "score": 1
+  },
+  {
+    "name": "libblkid1",
+    "version": ">= 2.37.2",
+    "score": 1
+  },
+  {
+    "name": "libsmartcols1",
+    "version": ">= 2.34",
+    "score": 1
+  },
+  {
+    "name": "accountsservice",
+    "version": ">= 0.6.34",
+    "score": 1
+  },
+  {
+    "name": "gsettings-desktop-schemas",
+    "version": ">= 3.15.4",
+    "score": 1
+  },
+  {
+    "name": "gsettings-ubuntu-schemas",
+    "version": ">= 0.0.7+21.10.20210712-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libaccountsservice0",
+    "version": ">= 0.6.40",
+    "score": 1
+  },
+  {
+    "name": "libcairo2",
+    "version": ">= 1.10.0",
+    "score": 1
+  },
+  {
+    "name": "libcanberra-gtk3-0",
+    "version": ">= 0.25",
+    "score": 1
+  },
+  {
+    "name": "libcolord2",
+    "version": ">= 1.4.3",
+    "score": 1
+  },
+  {
+    "name": "libfcitx-config4",
+    "version": ">= 4.2.7",
+    "score": 1
+  },
+  {
+    "name": "libfcitx-gclient1",
+    "version": ">= 1:4.2.9.5",
+    "score": 1
+  },
+  {
+    "name": "libfcitx-utils0",
+    "version": ">= 4.2.7",
+    "score": 1
+  },
+  {
+    "name": "liblcms2-2",
+    "version": ">= 2.2+git20110628",
+    "score": 1
+  },
+  {
+    "name": "libnm0",
+    "version": ">= 1.0.0",
+    "score": 1
+  },
+  {
+    "name": "libnotify4",
+    "version": ">= 0.7.3",
+    "score": 1
+  },
+  {
+    "name": "libpulse-mainloop-glib0",
+    "version": ">= 1:2.0",
+    "score": 1
+  },
+  {
+    "name": "libpulse0",
+    "version": ">= 1:2.0",
+    "score": 1
+  },
+  {
+    "name": "librsvg2-2",
+    "version": ">= 2.36.2",
+    "score": 1
+  },
+  {
+    "name": "libunity-settings-daemon1",
+    "version": ">= 14.10",
+    "score": 1
+  },
+  {
+    "name": "libupower-glib3",
+    "version": ">= 0.99.1",
+    "score": 1
+  },
+  {
+    "name": "libwacom9",
+    "version": ">= 2.0.0",
+    "score": 1
+  },
+  {
+    "name": "nautilus-data",
+    "version": ">= 2.91.3-1",
+    "score": 1
+  },
+  {
+    "name": "unity-settings-daemon-schemas",
+    "version": ">= 15.04.1+21.10.20220207-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "dbus",
+    "version": ">= 1.9.18",
+    "score": 1
+  },
+  {
+    "name": "libaccountsservice0",
+    "version": "= 22.07.5-2ubuntu1.3",
+    "score": 1
+  },
+  {
+    "name": "libpolkit-gobject-1-0",
+    "version": ">= 0.99",
+    "score": 1
+  },
+  {
+    "name": "libapparmor1",
+    "version": ">= 2.8.94",
+    "score": 1
+  },
+  {
+    "name": "libdbus-1-3",
+    "version": "= 1.12.20-2ubuntu4.1",
+    "score": 1
+  },
+  {
+    "name": "libsystemd0",
+    "version": ">= 209",
+    "score": 1
+  },
+  {
+    "name": "libsystemd0",
+    "version": ">= 213",
+    "score": 1
+  },
+  {
+    "name": "libcanberra0",
+    "version": ">= 0.12",
+    "score": 1
+  },
+  {
+    "name": "libudev1",
+    "version": ">= 199",
+    "score": 1
+  },
+  {
+    "name": "libpulse0",
+    "version": "= 1:15.99.1+dfsg1-1ubuntu2",
+    "score": 1
+  },
+  {
+    "name": "libapparmor1",
+    "version": ">= 2.7.0~beta1+bzr1772",
+    "score": 1
+  },
+  {
+    "name": "libasyncns0",
+    "version": ">= 0.3",
+    "score": 1
+  },
+  {
+    "name": "libsndfile1",
+    "version": ">= 1.0.20",
+    "score": 1
+  },
+  {
+    "name": "libflac8",
+    "version": ">= 1.3.0",
+    "score": 1
+  },
+  {
+    "name": "libogg0",
+    "version": ">= 1.3.0",
+    "score": 1
+  },
+  {
+    "name": "libopus0",
+    "version": ">= 1.1",
+    "score": 1
+  },
+  {
+    "name": "libvorbis0a",
+    "version": ">= 1.2.3",
+    "score": 1
+  },
+  {
+    "name": "libvorbisenc2",
+    "version": ">= 1.2.3",
+    "score": 1
+  },
+  {
+    "name": "libogg0",
+    "version": ">= 1.0rc3",
+    "score": 1
+  },
+  {
+    "name": "libcairo2",
+    "version": ">= 1.15.12",
+    "score": 1
+  },
+  {
+    "name": "libxml2",
+    "version": ">= 2.9.0",
+    "score": 1
+  },
+  {
+    "name": "libwacom-common",
+    "version": "= 2.2.0-1",
+    "score": 1
+  },
+  {
+    "name": "libunity9",
+    "version": ">= 7.1.3+14.04.20131029.1",
+    "score": 1
+  },
+  {
+    "name": "libunity-protocol-private0",
+    "version": "= 7.1.4+19.04.20190319-6build1",
+    "score": 1
+  },
+  {
+    "name": "libunity-scopes-json-def-desktop",
+    "version": ">= 7.1.4+19.04.20190319-6build1",
+    "score": 1
+  },
+  {
+    "name": "libdrm2",
+    "version": ">= 2.4.109",
+    "score": 1
+  },
+  {
+    "name": "libgbm1",
+    "version": "= 22.0.5-0ubuntu0.1",
+    "score": 1
+  },
+  {
+    "name": "libwayland-server0",
+    "version": ">= 1.15.0",
+    "score": 1
+  },
+  {
+    "name": "OpenGLES",
+    "version": "1.1",
+    "score": 0.3
+  },
+  {
+    "name": "HTTP",
+    "version": "1.1",
+    "score": 0.3
+  },
+  {
+    "name": "UIEPlayer",
+    "version": "2.1",
+    "score": 0.3
+  },
+  {
+    "name": "libasound2",
+    "version": "2",
+    "score": 0.9
+  },
+  {
+    "name": "VERSION",
+    "version": "6.5.0",
+    "score": 0.3
+  },
+  {
+    "name": "libcpp",
+    "version": "NAME=libcpp.so\nDESCRIPTION=C++ Runtime Library\nDATE=2010/07/09-13:02:27-EDT\nSTATE=stable\nHOST=mainbuild\nUSER=builder\nVERSION=6.5.0\nTAGID=89\n",
+    "score": 0.1
+  },
+  {
+    "name": "libc6",
+    "version": "2",
+    "score": 0.9
+  },
+  {
+    "name": "zlib1g",
+    "version": "2",
+    "score": 0.9
+  },
+  {
+    "name": "daemon",
+    "version": "NAME=enum-devices\nDESCRIPTION=Master device enumerator daemon\nDATE=2012/06/20-13:46:34-EDT\nSTATE=stable\nHOST=gusbuild4\nUSER=builder\nVERSION=6.5.0\nTAGID=650SP1-166\n%-enum-devices\n\n%C - enumerate hardware devices and start drivers for them\n\n%C\t -c <config> -e <enumerator> -n -v\n\nOptions:\n -c <config>    Look in the <config> directory/file for configuration info.\n -D             Dump device lookup table.\n -e <enumerator> Start the <enumerator> program.\n -E <enumerator> Start the second pass <enumerator> program.\n -i <prefix>    Ignore config files in directories that start with <prefix>.\n -I <suffix>    Ignore config files in directories that end with <suffix>.\n -n             Don't actually start drivers.\n -v             Operate verbosely.\n",
+    "score": 0.1
+  },
+  {
+    "name": "libgles2",
+    "version": "1",
+    "score": 0.9
+  },
+  {
+    "name": "libxml2",
+    "version": "1",
+    "score": 0.9
+  },
+  {
+    "name": "inflate",
+    "version": "1.2.6",
+    "score": 0.3
+  },
+  {
+    "name": "deflate",
+    "version": "1.2.6",
+    "score": 0.3
+  },
+  {
+    "name": "copyright",
+    "version": " 1.2.6 ",
+    "score": 0.2
+  },
+  {
+    "name": "golang-doc",
+    "version": ">= 2:1.18~0ubuntu2",
+    "score": 1
+  },
+  {
+    "name": "golang-go",
+    "version": ">= 2:1.18~0ubuntu2",
+    "score": 1
+  },
+  {
+    "name": "golang-src",
+    "version": ">= 2:1.18~0ubuntu2",
+    "score": 1
+  },
+  {
+    "name": "Version",
+    "version": "2.0",
+    "score": 0.3
+  },
+  {
+    "name": "libstdc++6",
+    "version": "6",
+    "score": 0.9
+  },
+  {
+    "name": "libcfitsio9",
+    "version": ">= 3.480~",
+    "score": 1
+  },
+  {
+    "name": "libcurl4",
+    "version": ">= 7.16.2",
+    "score": 1
+  },
+  {
+    "name": "libreadline8",
+    "version": ">= 6.0",
+    "score": 1
+  },
+  {
+    "name": "libcurl3-gnutls",
+    "version": ">= 7.16.2",
+    "score": 1
+  },
+  {
+    "name": "libidn2-0",
+    "version": ">= 0.6",
+    "score": 1
+  },
+  {
+    "name": "libnghttp2-14",
+    "version": ">= 1.12.0",
+    "score": 1
+  },
+  {
+    "name": "libpsl5",
+    "version": ">= 0.16.0",
+    "score": 1
+  },
+  {
+    "name": "librtmp1",
+    "version": ">= 2.4+20131018.git79459a2-3~",
+    "score": 1
+  },
+  {
+    "name": "libssh-4",
+    "version": ">= 0.9.0",
+    "score": 1
+  },
+  {
+    "name": "libsasl2-2",
+    "version": ">= 2.1.27+dfsg2",
+    "score": 1
+  },
+  {
+    "name": "libsasl2-modules-db",
+    "version": ">= 2.1.27+dfsg2-3ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "cpp",
+    "version": "= 4:11.2.0-1ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "gcc-11",
+    "version": ">= 11.2.0-1~",
+    "score": 1
+  },
+  {
+    "name": "cpp-11",
+    "version": ">= 11.2.0-1~",
+    "score": 1
+  },
+  {
+    "name": "gcc-11-base",
+    "version": "= 11.3.0-1ubuntu1~22.04",
+    "score": 1
+  },
+  {
+    "name": "libisl23",
+    "version": ">= 0.15",
+    "score": 1
+  },
+  {
+    "name": "libmpc3",
+    "version": ">= 1.1.0",
+    "score": 1
+  },
+  {
+    "name": "libmpfr6",
+    "version": ">= 3.1.3",
+    "score": 1
+  },
+  {
+    "name": "libmpfr6",
+    "version": ">= 4.0.0",
+    "score": 1
+  },
+  {
+    "name": "binutils",
+    "version": ">= 2.38",
+    "score": 1
+  },
+  {
+    "name": "cpp-11",
+    "version": "= 11.3.0-1ubuntu1~22.04",
+    "score": 1
+  },
+  {
+    "name": "libcc1-0",
+    "version": ">= 11.3.0-1ubuntu1~22.04",
+    "score": 1
+  },
+  {
+    "name": "libgcc-11-dev",
+    "version": "= 11.3.0-1ubuntu1~22.04",
+    "score": 1
+  },
+  {
+    "name": "binutils-common",
+    "version": "= 2.38-4ubuntu2",
+    "score": 1
+  },
+  {
+    "name": "binutils-x86-64-linux-gnu",
+    "version": "= 2.38-4ubuntu2",
+    "score": 1
+  },
+  {
+    "name": "libbinutils",
+    "version": "= 2.38-4ubuntu2",
+    "score": 1
+  },
+  {
+    "name": "libctf-nobfd0",
+    "version": ">= 2.36",
+    "score": 1
+  },
+  {
+    "name": "libctf0",
+    "version": ">= 2.36",
+    "score": 1
+  },
+  {
+    "name": "libasan6",
+    "version": ">= 11.3.0-1ubuntu1~22.04",
+    "score": 1
+  },
+  {
+    "name": "libatomic1",
+    "version": ">= 11.3.0-1ubuntu1~22.04",
+    "score": 1
+  },
+  {
+    "name": "libgcc-s1",
+    "version": ">= 11.3.0-1ubuntu1~22.04",
+    "score": 1
+  },
+  {
+    "name": "libgomp1",
+    "version": ">= 11.3.0-1ubuntu1~22.04",
+    "score": 1
+  },
+  {
+    "name": "libitm1",
+    "version": ">= 11.3.0-1ubuntu1~22.04",
+    "score": 1
+  },
+  {
+    "name": "liblsan0",
+    "version": ">= 11.3.0-1ubuntu1~22.04",
+    "score": 1
+  },
+  {
+    "name": "libquadmath0",
+    "version": ">= 11.3.0-1ubuntu1~22.04",
+    "score": 1
+  },
+  {
+    "name": "libtsan0",
+    "version": ">= 11.3.0-1ubuntu1~22.04",
+    "score": 1
+  },
+  {
+    "name": "libubsan1",
+    "version": ">= 11.3.0-1ubuntu1~22.04",
+    "score": 1
+  },
+  {
+    "name": "libc6",
+    "version": ">= 2.23",
+    "score": 1
+  },
+  {
+    "name": "gcc-10",
+    "version": ">= 10",
+    "score": 1
+  },
+  {
+    "name": "gcc-10-base",
+    "version": "= 10.4.0-4ubuntu1~22.04",
+    "score": 1
+  },
+  {
+    "name": "libc6-dev",
+    "version": ">= 2.13-0ubuntu6",
+    "score": 1
+  },
+  {
+    "name": "libgnat-10",
+    "version": ">= 10.4.0-4ubuntu1~22.04",
+    "score": 1
+  },
+  {
+    "name": "libgnat-util10",
+    "version": ">= 10.4.0-4ubuntu1~22.04",
+    "score": 1
+  },
+  {
+    "name": "cpp-10",
+    "version": "= 10.4.0-4ubuntu1~22.04",
+    "score": 1
+  },
+  {
+    "name": "libcc1-0",
+    "version": ">= 10.4.0-4ubuntu1~22.04",
+    "score": 1
+  },
+  {
+    "name": "libgcc-10-dev",
+    "version": "= 10.4.0-4ubuntu1~22.04",
+    "score": 1
+  },
+  {
+    "name": "libasan6",
+    "version": ">= 10.4.0-4ubuntu1~22.04",
+    "score": 1
+  },
+  {
+    "name": "libatomic1",
+    "version": ">= 10.4.0-4ubuntu1~22.04",
+    "score": 1
+  },
+  {
+    "name": "libgcc-s1",
+    "version": ">= 10.4.0-4ubuntu1~22.04",
+    "score": 1
+  },
+  {
+    "name": "libgomp1",
+    "version": ">= 10.4.0-4ubuntu1~22.04",
+    "score": 1
+  },
+  {
+    "name": "libitm1",
+    "version": ">= 10.4.0-4ubuntu1~22.04",
+    "score": 1
+  },
+  {
+    "name": "liblsan0",
+    "version": ">= 10.4.0-4ubuntu1~22.04",
+    "score": 1
+  },
+  {
+    "name": "libquadmath0",
+    "version": ">= 10.4.0-4ubuntu1~22.04",
+    "score": 1
+  },
+  {
+    "name": "libtsan0",
+    "version": ">= 10.4.0-4ubuntu1~22.04",
+    "score": 1
+  },
+  {
+    "name": "libubsan1",
+    "version": ">= 10.4.0-4ubuntu1~22.04",
+    "score": 1
+  },
+  {
+    "name": "libc-dev-bin",
+    "version": "= 2.35-0ubuntu3.1",
+    "score": 1
+  },
+  {
+    "name": "libc6",
+    "version": "= 2.35-0ubuntu3.1",
+    "score": 1
+  },
+  {
+    "name": "libc6",
+    "version": "<< 2.36",
+    "score": 1
+  },
+  {
+    "name": "libcrypt1",
+    "version": "= 1:4.4.27-1",
+    "score": 1
+  },
+  {
+    "name": "libnsl2",
+    "version": "= 1.3.0-2build2",
+    "score": 1
+  },
+  {
+    "name": "libtirpc3",
+    "version": "= 1.3.2-2ubuntu0.1",
+    "score": 1
+  },
+  {
+    "name": "libgnat-10",
+    "version": "= 10.4.0-4ubuntu1~22.04",
+    "score": 1
+  },
+  {
+    "name": "util-linux",
+    "version": "<< 2.29.2-3~",
+    "score": 1
+  },
+  {
+    "name": "libattr1",
+    "version": "= 1:2.5.1-1build1",
+    "score": 1
+  },
+  {
+    "name": "libblkid1",
+    "version": ">= 2.36",
+    "score": 1
+  },
+  {
+    "name": "libext2fs2",
+    "version": "= 1.46.5-2ubuntu1.1",
+    "score": 1
+  },
+  {
+    "name": "libss2",
+    "version": ">= 1.38",
+    "score": 1
+  },
+  {
+    "name": "libmnl0",
+    "version": ">= 1.0.3-4~",
+    "score": 1
+  },
+  {
+    "name": "libfdisk1",
+    "version": ">= 2.36",
+    "score": 1
+  },
+  {
+    "name": "libmount1",
+    "version": ">= 2.24.2",
+    "score": 1
+  },
+  {
+    "name": "libncursesw6",
+    "version": ">= 6",
+    "score": 1
+  },
+  {
+    "name": "libsmartcols1",
+    "version": ">= 2.28~rc1",
+    "score": 1
+  },
+  {
+    "name": "libblkid1",
+    "version": ">= 2.24.2",
+    "score": 1
+  },
+  {
+    "name": "libsigsegv2",
+    "version": ">= 2.9",
+    "score": 1
+  },
+  {
+    "name": "libbpf0",
+    "version": ">= 1:0.2",
+    "score": 1
+  },
+  {
+    "name": "libbsd0",
+    "version": ">= 0.0",
+    "score": 1
+  },
+  {
+    "name": "libelf1",
+    "version": ">= 0.131",
+    "score": 1
+  },
+  {
+    "name": "libxtables12",
+    "version": ">= 1.6.0+snapshot20161117",
+    "score": 1
+  },
+  {
+    "name": "libc6",
+    "version": ">= 2.22",
+    "score": 1
+  },
+  {
+    "name": "libcap2",
+    "version": ">= 1:2.33",
+    "score": 1
+  },
+  {
+    "name": "kbd",
+    "version": ">= 0.99-12",
+    "score": 1
+  },
+  {
+    "name": "keyboard-configuration",
+    "version": "= 1.205ubuntu3",
+    "score": 1
+  },
+  {
+    "name": "xkb-data",
+    "version": ">= 0.9",
+    "score": 1
+  },
+  {
+    "name": "debconf",
+    "version": ">= 1.5.34",
+    "score": 1
+  },
+  {
+    "name": "console-tools",
+    "version": ">= 1:0.2.3-16",
+    "score": 1
+  },
+  {
+    "name": "init-system-helpers",
+    "version": ">= 1.29~",
+    "score": 1
+  },
+  {
+    "name": "libssl3",
+    "version": ">= 3.0.2-0ubuntu1.2",
+    "score": 1
+  },
+  {
+    "name": "libparted2",
+    "version": "= 3.4-2build1",
+    "score": 1
+  },
+  {
+    "name": "libburn4",
+    "version": ">= 1.4.8",
+    "score": 1
+  },
+  {
+    "name": "libisoburn1",
+    "version": "= 1.5.4-2",
+    "score": 1
+  },
+  {
+    "name": "libisofs6",
+    "version": ">= 1.4.8",
+    "score": 1
+  },
+  {
+    "name": "libburn4",
+    "version": ">= 1.5.4",
+    "score": 1
+  },
+  {
+    "name": "libisofs6",
+    "version": ">= 1.5.4",
+    "score": 1
+  },
+  {
+    "name": "lsb-base",
+    "version": ">= 3.0-6",
+    "score": 1
+  },
+  {
+    "name": "liblockfile-bin",
+    "version": ">= 1.17-1build2",
+    "score": 1
+  },
+  {
+    "name": "silent",
+    "version": "0.5",
+    "score": 0.3
+  },
+  {
+    "name": "SSFT",
+    "version": "1.0",
+    "score": 0.3
+  },
+  {
+    "name": "NUAN",
+    "version": "1.0",
+    "score": 0.3
+  },
+  {
+    "name": "LIST",
+    "version": "2.1",
+    "score": 0.3
+  },
+  {
+    "name": "libsqlite3",
+    "version": "1",
+    "score": 0.9
+  },
+  {
+    "name": "VERSION",
+    "version": "1.0",
+    "score": 0.3
+  },
+  {
+    "name": "VERSION",
+    "version": "20.26.24.2.1",
+    "score": 0.3
+  },
+  {
+    "name": "Engine",
+    "version": "1.3",
+    "score": 0.3
+  },
+  {
+    "name": "libcurl4",
+    "version": "2",
+    "score": 0.9
+  },
+  {
+    "name": "filter",
+    "version": "NAME=ia_wma_decoder.so\nDESCRIPTION=Ittiam WMA decoder filter\nDATE=2013/10/03-09:52:02-EDT\nSTATE=stable\nHOST=ccbuild\nUSER=builder\nVERSION=20.26.24.2.1\nTAGID=5291@722233M\n",
+    "score": 0.1
+  },
+  {
+    "name": "ccbuild",
+    "version": "NAME=queue_filter.so\nDESCRIPTION=Queue filter.\nDATE=2013/10/03-09:52:34-EDT\nSTATE=stable\nHOST=ccbuild\nUSER=builder\nVERSION=20.26.24.2.1\nTAGID=5291@722233M\n",
+    "score": 0.1
+  },
+  {
+    "name": "filter",
+    "version": "NAME=queue_filter.so\nDESCRIPTION=Queue filter.\nDATE=2013/10/03-09:52:34-EDT\nSTATE=stable\nHOST=ccbuild\nUSER=builder\nVERSION=20.26.24.2.1\nTAGID=5291@722233M\n",
+    "score": 0.1
+  },
+  {
+    "name": "filter",
+    "version": "NAME=asf_parser.so\nDESCRIPTION=Parser filter for the Window Media Asf file format.\nDATE=2013/10/03-09:52:12-EDT\nSTATE=stable\nHOST=ccbuild\nUSER=builder\nVERSION=20.26.24.2.1\nTAGID=5291@722233M\n",
+    "score": 0.1
+  },
+  {
+    "name": "filter",
+    "version": "NAME=mpega_parser.so\nDESCRIPTION=Parser filter for the mpeg-1 audio format.\nDATE=2013/10/03-09:52:22-EDT\nSTATE=stable\nHOST=ccbuild\nUSER=builder\nVERSION=20.26.24.2.1\nTAGID=5291@722233M\n",
+    "score": 0.1
+  },
+  {
+    "name": "filter",
+    "version": "NAME=mp4_parser.so\nDESCRIPTION=Parser filter for the mpeg-4/ISO container format.\nDATE=2013/10/03-09:52:21-EDT\nSTATE=stable\nHOST=ccbuild\nUSER=builder\nVERSION=20.26.24.2.1\nTAGID=5291@722233M\n",
+    "score": 0.1
+  },
+  {
+    "name": "filter",
+    "version": "NAME=stream_reader.so\nDESCRIPTION=Reader filter for reading raw streams.\nDATE=2013/10/03-09:52:31-EDT\nSTATE=stable\nHOST=ccbuild\nUSER=builder\nVERSION=20.26.24.2.1\nTAGID=5291@722233M\n",
+    "score": 0.1
+  },
+  {
+    "name": "filter",
+    "version": "NAME=ia_mp3_decoder.so\nDESCRIPTION=Ittiam MP3 decoder filter\nDATE=2013/10/03-09:52:02-EDT\nSTATE=stable\nHOST=ccbuild\nUSER=builder\nVERSION=20.26.24.2.1\nTAGID=5291@722233M\n",
+    "score": 0.1
+  },
+  {
+    "name": "filter",
+    "version": "NAME=wavfile_writer.so\nDESCRIPTION=Writer filter for writing raw audio to a wav file.\nDATE=2013/10/03-09:52:42-EDT\nSTATE=stable\nHOST=ccbuild\nUSER=builder\nVERSION=20.26.24.2.1\nTAGID=5291@722233M\n",
+    "score": 0.1
+  },
+  {
+    "name": "filter",
+    "version": "NAME=audio_writer.so\nDESCRIPTION=Writer filter for audio output.\nDATE=2013/10/03-09:52:35-EDT\nSTATE=stable\nHOST=ccbuild\nUSER=builder\nVERSION=20.26.24.2.1\nTAGID=5291@722233M\n",
+    "score": 0.1
+  },
+  {
+    "name": "filter",
+    "version": "NAME=ia_enhaacplus_decoder.so\nDESCRIPTION=Ittiam Enhanced aacPlus decoder filter\nDATE=2013/10/03-09:52:02-EDT\nSTATE=stable\nHOST=ccbuild\nUSER=builder\nVERSION=20.26.24.2.1\nTAGID=5291@722233M\n",
+    "score": 0.1
+  },
+  {
+    "name": "filter",
+    "version": "NAME=wav_parser.so\nDESCRIPTION=Parser filter for the wav file format.\nDATE=2013/10/03-09:52:27-EDT\nSTATE=stable\nHOST=ccbuild\nUSER=builder\nVERSION=20.26.24.2.1\nTAGID=5291@722233M\n",
+    "score": 0.1
+  },
+  {
+    "name": "libexif12",
+    "version": "1",
+    "score": 0.9
+  },
+  {
+    "name": "ccbuild",
+    "version": "NAME=mdp-exif.so\nDESCRIPTION=EXIF MetaData Plug-in\nDATE=2013/10/03-09:54:33-EDT\nSTATE=stable\nHOST=ccbuild\nUSER=builder\nVERSION=20.26.24.2.1\nTAGID=5291@722233M\n",
+    "score": 0.1
+  },
+  {
+    "name": "Version",
+    "version": "1.0",
+    "score": 0.3
+  },
+  {
+    "name": "Version",
+    "version": "1.01",
+    "score": 0.3
+  },
+  {
+    "name": "from",
+    "version": "0.00",
+    "score": 0.3
+  },
+  {
+    "name": "section",
+    "version": "2.8.1",
+    "score": 0.3
+  },
+  {
+    "name": "section",
+    "version": "3.6.3",
+    "score": 0.3
+  },
+  {
+    "name": "multimedia",
+    "version": "NAME=libmmedia.so\nDESCRIPTION=Core library for multimedia apps.\nDATE=2013/10/03-09:48:16-EDT\nSTATE=stable\nHOST=ccbuild\nUSER=builder\nVERSION=20.26.24.2.1\nTAGID=5291@722233M\n",
+    "score": 0.1
+  },
+  {
+    "name": "system",
+    "version": "NAME=libaoi.so\nDESCRIPTION=libaoi addon interface system\nDATE=2013/10/03-09:44:52-EDT\nSTATE=stable\nHOST=ccbuild\nUSER=builder\nVERSION=20.26.24.2.1\nTAGID=5291@722233M\n",
+    "score": 0.1
+  },
+  {
+    "name": "ccbuild",
+    "version": "NAME=libmme.so\nDESCRIPTION=MME Client library\nDATE=2013/10/03-09:54:26-EDT\nSTATE=stable\nHOST=ccbuild\nUSER=builder\nVERSION=20.26.24.2.1\nTAGID=5291@722233M\n",
+    "score": 0.1
+  },
+  {
+    "name": "filters",
+    "version": "NAME=libmmfilter.so\nDESCRIPTION=Support library for multimedia filters.\nDATE=2013/10/03-09:48:19-EDT\nSTATE=stable\nHOST=ccbuild\nUSER=builder\nVERSION=20.26.24.2.1\nTAGID=5291@722233M\n",
+    "score": 0.1
+  },
+  {
+    "name": "multimedia",
+    "version": "NAME=libmmfilter.so\nDESCRIPTION=Support library for multimedia filters.\nDATE=2013/10/03-09:48:19-EDT\nSTATE=stable\nHOST=ccbuild\nUSER=builder\nVERSION=20.26.24.2.1\nTAGID=5291@722233M\n",
+    "score": 0.1
+  },
+  {
+    "name": "ccbuild",
+    "version": "NAME=fileset\nDESCRIPTION=fileset\nDATE=2013/10/03-09:54:58-EDT\nSTATE=stable\nHOST=ccbuild\nUSER=builder\nVERSION=20.26.24.2.1\nTAGID=5291@722233M\n%-fileset\nfileset [options] save   prmdir tmpdir\nfileset [options] load   prmdir tmpdir\nfileset [options] test   prmdir tmpdir\n\nOptions:\n -b dir      Use this dir as a backup on load if check file is bad/missing\n -c fname    Use fname for check file (default: _FILESET_).\n -m          Create any necessary directories.\n -p pattern  Patterns (up to 16 -p\\'s) to define a file set (default: \\\"*\\\").\n -t time     When saving, use time for access and modification time.\n -v          Be verbose. Each v increases verbosity.\n -x          Check for file changes before saving.  Default is always copy.\n -6          Limit DMA so it does not cross a 64K boundary.\n\n",
+    "score": 0.1
+  },
+  {
+    "name": "ccbuild",
+    "version": "NAME=io-fs-media\nDESCRIPTION=Media IOFS Filesystem\nDATE=2013/10/03-09:53:55-EDT\nSTATE=stable\nHOST=ccbuild\nUSER=builder\nVERSION=20.26.24.2.1\nTAGID=5291@722233M\n%C options\nOptions:\n\n -a                       Always start all built-in drivers.\n\n -b                       Do not run detach to background. Great for\n                          debugging.\n\n -c TYPE=num              Set cache size for\n                            TYPE\n                            attrs   - Number of attributes      (default: 32)\n                            maps    - Number of extent mappings (default: 512)\n                            files   - Number of files           (default: 1M)\n                            mcache  - Sizeof meta cache         (default: 16K)\n                            pages   - Number of 4K clusters     (default: 256)\n                            bundles - Number of 64K bundles     (default: 2)\n                            wads    - Number of 256K wads       (default: 0)\n                            throngs - Number of 1M throngs      (default: 0)\n\n -d driver,opts           Start driver (suppresses automatically starting\n                          built-in drivers). \n\n -o fsys[=blkpat],[+]opts Override automount options for fsys. (\"+\" appends\n                          options)\n\n -s                       Cause rename/unlink/chmod/chown/chmod to be\n                          synchronous.\n\n -t                       Print built-in tables and exit.\n\n -v                       Add verbose option to all mounted filesystems\n\nlt fsys options:\n        -o lt[=blkpat],use,format[=maxfile:maxmap],sync=sec,notrans\n\ncd fsys options:\n        -o cd[=device],use,nojoliet,noudf\n\nExamples:\n        io-fs -b\n                Do not put into the back ground so you can kill it with a\n                keyboard break. Great for debugging.\n\n        io-fs -b -olt,format\n                Always format auto-mounted ltfs partitions.\n\n\n",
+    "score": 0.1
+  },
+  {
+    "name": "media",
+    "version": "NAME=io-fs-media\nDESCRIPTION=Media IOFS Filesystem\nDATE=2013/10/03-09:53:55-EDT\nSTATE=stable\nHOST=ccbuild\nUSER=builder\nVERSION=20.26.24.2.1\nTAGID=5291@722233M\n%C options\nOptions:\n\n -a                       Always start all built-in drivers.\n\n -b                       Do not run detach to background. Great for\n                          debugging.\n\n -c TYPE=num              Set cache size for\n                            TYPE\n                            attrs   - Number of attributes      (default: 32)\n                            maps    - Number of extent mappings (default: 512)\n                            files   - Number of files           (default: 1M)\n                            mcache  - Sizeof meta cache         (default: 16K)\n                            pages   - Number of 4K clusters     (default: 256)\n                            bundles - Number of 64K bundles     (default: 2)\n                            wads    - Number of 256K wads       (default: 0)\n                            throngs - Number of 1M throngs      (default: 0)\n\n -d driver,opts           Start driver (suppresses automatically starting\n                          built-in drivers). \n\n -o fsys[=blkpat],[+]opts Override automount options for fsys. (\"+\" appends\n                          options)\n\n -s                       Cause rename/unlink/chmod/chown/chmod to be\n                          synchronous.\n\n -t                       Print built-in tables and exit.\n\n -v                       Add verbose option to all mounted filesystems\n\nlt fsys options:\n        -o lt[=blkpat],use,format[=maxfile:maxmap],sync=sec,notrans\n\ncd fsys options:\n        -o cd[=device],use,nojoliet,noudf\n\nExamples:\n        io-fs -b\n                Do not put into the back ground so you can kill it with a\n                keyboard break. Great for debugging.\n\n        io-fs -b -olt,format\n                Always format auto-mounted ltfs partitions.\n\n\n",
+    "score": 0.1
+  },
+  {
+    "name": "call",
+    "version": "1.0",
+    "score": 0.3
+  },
+  {
+    "name": "call",
+    "version": "1.1",
+    "score": 0.3
+  },
+  {
+    "name": "system",
+    "version": "NAME=io-media-generic\nDESCRIPTION=Generic io-media system\nDATE=2013/10/03-09:54:06-EDT\nSTATE=stable\nHOST=ccbuild\nUSER=builder\nVERSION=20.26.24.2.1\nTAGID=5291@722233M\n%C options\nOptions:\n -B                      Do not detach to background\n -S                      Log to stderr instead of slogger\n -G <graph>,<setting>    Apply the <setting> to <graph>\n -M <module>,<setting>   Apply the <setting> to <module>\n -o <setting>            Apply the <setting> to global options\n -D                      Log more debug info\n -q                      Log less info\n -c file                 Use that config file instead of the builtin defaults\n -C                      Print out the builtin default configuration and then exit\n\n<setting> can be one of:\n\n  <attribute>=<value>    Set the <attribute> to <value>\n  <attribute>=           Delete the <attribute>\n  <attribute>            Set the <attribute> to 1\n\n\nOptions for graph module \"cdda_trackplayer\":\n\n -M cdda_trackplayer,skip-on-error = <skip>[,<grow>,<max>]\n -M cdda_trackplayer,queue-size = <N>\t\t  Set amount of data queued to N buffers.\n -M cdda_trackplayer,queue-time = <N>\t\t  Set amount of time queued to N ms.\n -M cdda_trackplayer,prefetch=<mode>          Change prefetch behaviour.\n -M cdda_trackplayer,dts_writer=<filter>  \t  Use <filter> as the dts writer\n\nOptions for graph module \"sapi_discplayer\":\n\n -M sapi_discplayer,dvda-server=<device-path>  Set DVD-Audio server device path\n\n\nOptions for graph module \"mmf_graphbuilder\":\n\n -M mmf_graphbuilder,audio_writer=<filter>  Use <filter> as the audio writer\n                                            (overrides -Mmmf,audio_writer=...)\n -M mmf_graphbuilder,queue1-size=<N>        Set the queue filter size in buffers\n -M mmf_graphbuilder,queue1-pre-hw=<N>      Set the queue high watermark in percent\n \t\t\t\t\t\t\t\t\t\t\tof queue1-time.\n -M mmf_graphbuilder,queue1-pre-lw=<N>      Set the queue low watermark in percent\n \t\t\t\t\t\t\t\t\t\t\tof queue1-time.\n -M mmf_graphbuilder,queue1-time=<N>        Set the queue filter size in milliseconds.\n \t\t\t\t\t\t\t\t\t\t\t(if size in buffers is big enough)\n -M mmf_graphbuilder,queue2-size=<N>        Set the queue filter size in buffers\n -M mmf_graphbuilder,queue2-pre-hw=<N>      Set the queue high watermark in percent\n  \t\t\t\t\t\t\t\t\t\t\tof queue2-time.\n -M mmf_graphbuilder,queue2-pre-lw=<N>      Set the queue low watermark in percent\n  \t\t\t\t\t\t\t\t\t\t\tof queue2-time.\n -M mmf_graphbuilder,queue2-time=<N>        Set the queue filter size in milliseconds.\n  \t\t\t\t\t\t\t\t\t\t\t(if size in buffers is big enough)\n -M mmf_graphbuilder,pre-buffer=<mode>      Set pre-buffering mode\n -M mmf_graphbuilder,transition=<mode>      Set transition mode\n\nOptions for graph module \"mmf_trackplayer\":\n\n -M mmf_trackplayer,skip-on-error=<skip>[,<grow>,<max>]\n -M mmf_trackplayer,prefetch=<mode>                    Change prefetch behaviour.\n\nOptions for module \"mmf\":\n\n -M mmf,dlldir=<directory>              Search <directory> for filter DLLs\n -M mmf,keepdlls=none|used|all          Keep DLLs in memory when not in use\n -M mmf,audio_writer=<filter>           Use <filter> as the audio writer\n",
+    "score": 0.1
+  },
+  {
+    "name": "VERSION",
+    "version": "20.26.18.0.1",
+    "score": 0.3
+  },
+  {
+    "name": "generator",
+    "version": "NAME=plss-gnplp.so\nDESCRIPTION=Gracenote Playlist Plus More like this generator\nDATE=2013/07/11-08:22:18-EDT\nSTATE=stable\nHOST=ccbuild\nUSER=builder\nVERSION=20.26.18.0.1\nTAGID=5288@713318M\n",
+    "score": 0.1
+  },
+  {
+    "name": "deflate",
+    "version": "1.1.4",
+    "score": 0.3
+  },
+  {
+    "name": "inflate",
+    "version": "1.1.4",
+    "score": 0.3
+  },
+  {
+    "name": "copyright",
+    "version": " 1.1.4 ",
+    "score": 0.2
+  },
+  {
+    "name": "HTTP",
+    "version": "1.0",
+    "score": 0.3
+  },
+  {
+    "name": "speex",
+    "version": "1.2",
+    "score": 0.3
+  },
+  {
+    "name": "libcurl",
+    "version": "7.21.1",
+    "score": 0.3
+  },
+  {
+    "name": "XHTML",
+    "version": "1.0",
+    "score": 0.3
+  },
+  {
+    "name": "Voco",
+    "version": "2.6",
+    "score": 0.3
+  },
+  {
+    "name": "inflate",
+    "version": "1.2.3",
+    "score": 0.3
+  },
+  {
+    "name": "couter",
+    "version": "107.7",
+    "score": 0.3
+  },
+  {
+    "name": "Core",
+    "version": "5.2.0",
+    "score": 0.3
+  },
+  {
+    "name": "RTSP",
+    "version": "1.0",
+    "score": 0.3
+  },
+  {
+    "name": "copyright",
+    "version": " 1.2.3 ",
+    "score": 0.2
+  },
+  {
+    "name": "ascii",
+    "version": "IP address is 0.0.0.0\n",
+    "score": 0.1
+  },
+  {
+    "name": "libkf5configcore5",
+    "version": ">= 4.98.0",
+    "score": 1
+  },
+  {
+    "name": "libkf5configgui5",
+    "version": ">= 4.97.0",
+    "score": 1
+  },
+  {
+    "name": "libkf5configwidgets5",
+    "version": ">= 4.96.0",
+    "score": 1
+  },
+  {
+    "name": "libkf5coreaddons5",
+    "version": ">= 5.7.0~",
+    "score": 1
+  },
+  {
+    "name": "libkf5crash5",
+    "version": ">= 5.7.0~",
+    "score": 1
+  },
+  {
+    "name": "libkf5i18n5",
+    "version": ">= 5.7.0~",
+    "score": 1
+  },
+  {
+    "name": "libkf5kiowidgets5",
+    "version": ">= 5.7.0~",
+    "score": 1
+  },
+  {
+    "name": "libkf5parts5",
+    "version": ">= 5.7.0~",
+    "score": 1
+  },
+  {
+    "name": "libkf5widgetsaddons5",
+    "version": ">= 4.96.0",
+    "score": 1
+  },
+  {
+    "name": "libkf5xmlgui5",
+    "version": ">= 4.98.0",
+    "score": 1
+  },
+  {
+    "name": "libmarblewidget-qt5-28",
+    "version": "= 4:21.12.3-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libqt5core5a",
+    "version": ">= 5.15.1",
+    "score": 1
+  },
+  {
+    "name": "libqt5dbus5",
+    "version": ">= 5.7.0~",
+    "score": 1
+  },
+  {
+    "name": "libqt5gui5",
+    "version": ">= 5.7.0",
+    "score": 1
+  },
+  {
+    "name": "libqt5gui5-gles",
+    "version": ">= 5.7.0",
+    "score": 1
+  },
+  {
+    "name": "libqt5network5",
+    "version": ">= 5.7.0~",
+    "score": 1
+  },
+  {
+    "name": "libqt5printsupport5",
+    "version": ">= 5.7.0~",
+    "score": 1
+  },
+  {
+    "name": "libqt5widgets5",
+    "version": ">= 5.7.0~",
+    "score": 1
+  },
+  {
+    "name": "libqt5xml5",
+    "version": ">= 5.7.0~",
+    "score": 1
+  },
+  {
+    "name": "marble-data",
+    "version": ">= 4:21.12.3-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "marble-plugins",
+    "version": "= 4:21.12.3-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libkf5archive5",
+    "version": ">= 5.92.0~",
+    "score": 1
+  },
+  {
+    "name": "libkf5authcore5",
+    "version": ">= 5.92.0~",
+    "score": 1
+  },
+  {
+    "name": "libkf5codecs5",
+    "version": ">= 4.96.0",
+    "score": 1
+  },
+  {
+    "name": "libkf5configcore5",
+    "version": ">= 5.92.0~",
+    "score": 1
+  },
+  {
+    "name": "libkf5configwidgets5",
+    "version": ">= 5.92.0~",
+    "score": 1
+  },
+  {
+    "name": "libkf5coreaddons5",
+    "version": ">= 5.92.0~",
+    "score": 1
+  },
+  {
+    "name": "libkf5dbusaddons5",
+    "version": ">= 5.92.0~",
+    "score": 1
+  },
+  {
+    "name": "libkf5doctools5",
+    "version": ">= 5.92.0~",
+    "score": 1
+  },
+  {
+    "name": "libkf5i18n5",
+    "version": ">= 5.92.0~",
+    "score": 1
+  },
+  {
+    "name": "libkf5itemviews5",
+    "version": ">= 5.92.0~",
+    "score": 1
+  },
+  {
+    "name": "libkf5kiocore5",
+    "version": ">= 5.83.0",
+    "score": 1
+  },
+  {
+    "name": "libkf5kiogui5",
+    "version": ">= 5.69.0",
+    "score": 1
+  },
+  {
+    "name": "libkf5kiontlm5",
+    "version": ">= 4.96.0",
+    "score": 1
+  },
+  {
+    "name": "libkf5kiowidgets5",
+    "version": ">= 4.96.0",
+    "score": 1
+  },
+  {
+    "name": "libkf5notifications5",
+    "version": ">= 5.92.0~",
+    "score": 1
+  },
+  {
+    "name": "libkf5service5",
+    "version": ">= 5.92.0~",
+    "score": 1
+  },
+  {
+    "name": "libkf5solid5",
+    "version": ">= 5.92.0~",
+    "score": 1
+  },
+  {
+    "name": "libkf5textwidgets5",
+    "version": ">= 5.92.0~",
+    "score": 1
+  },
+  {
+    "name": "libkf5wallet5",
+    "version": ">= 5.92.0~",
+    "score": 1
+  },
+  {
+    "name": "libkf5widgetsaddons5",
+    "version": ">= 5.92.0~",
+    "score": 1
+  },
+  {
+    "name": "libkf5windowsystem5",
+    "version": ">= 5.92.0~",
+    "score": 1
+  },
+  {
+    "name": "libqt5core5a",
+    "version": ">= 5.15.2~",
+    "score": 1
+  },
+  {
+    "name": "libqt5dbus5",
+    "version": ">= 5.15.2~",
+    "score": 1
+  },
+  {
+    "name": "libqt5gui5",
+    "version": ">= 5.15.2~",
+    "score": 1
+  },
+  {
+    "name": "libqt5gui5-gles",
+    "version": ">= 5.15.2~",
+    "score": 1
+  },
+  {
+    "name": "libqt5network5",
+    "version": ">= 5.15.2~",
+    "score": 1
+  },
+  {
+    "name": "libqt5qml5",
+    "version": ">= 5.15.2~",
+    "score": 1
+  },
+  {
+    "name": "libqt5widgets5",
+    "version": ">= 5.15.2~",
+    "score": 1
+  },
+  {
+    "name": "libqt5x11extras5",
+    "version": ">= 5.15.2~",
+    "score": 1
+  },
+  {
+    "name": "libqt5xml5",
+    "version": ">= 5.15.2~",
+    "score": 1
+  },
+  {
+    "name": "libkf5crash5",
+    "version": ">= 5.92.0~",
+    "score": 1
+  },
+  {
+    "name": "libkf5config-data",
+    "version": "= 5.92.0-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libdouble-conversion3",
+    "version": ">= 2.0.0",
+    "score": 1
+  },
+  {
+    "name": "libpcre2-16-0",
+    "version": ">= 10.22",
+    "score": 1
+  },
+  {
+    "name": "shared-mime-info",
+    "version": ">= 1.3",
+    "score": 1
+  },
+  {
+    "name": "libkf5coreaddons-data",
+    "version": "= 5.92.0-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libgamin0",
+    "version": "= 0.1.10-6",
+    "score": 1
+  },
+  {
+    "name": "libkf5windowsystem-data",
+    "version": "= 5.92.0-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libxcb-keysyms1",
+    "version": ">= 0.4.0",
+    "score": 1
+  },
+  {
+    "name": "libxcb-res0",
+    "version": ">= 1.10",
+    "score": 1
+  },
+  {
+    "name": "libdrm2",
+    "version": ">= 2.4.62",
+    "score": 1
+  },
+  {
+    "name": "libfreetype6",
+    "version": ">= 2.6",
+    "score": 1
+  },
+  {
+    "name": "libgbm1",
+    "version": ">= 8.1~0",
+    "score": 1
+  },
+  {
+    "name": "libharfbuzz0b",
+    "version": ">= 1.6.0",
+    "score": 1
+  },
+  {
+    "name": "libinput10",
+    "version": ">= 0.15.0",
+    "score": 1
+  },
+  {
+    "name": "libmd4c0",
+    "version": ">= 0.2.7",
+    "score": 1
+  },
+  {
+    "name": "libmtdev1",
+    "version": ">= 1.0.8",
+    "score": 1
+  },
+  {
+    "name": "libqt5dbus5",
+    "version": ">= 5.14.1",
+    "score": 1
+  },
+  {
+    "name": "libqt5network5",
+    "version": ">= 5.0.2",
+    "score": 1
+  },
+  {
+    "name": "libxcb-icccm4",
+    "version": ">= 0.4.1",
+    "score": 1
+  },
+  {
+    "name": "libxcb-image0",
+    "version": ">= 0.2.1",
+    "score": 1
+  },
+  {
+    "name": "libxcb-randr0",
+    "version": ">= 1.3",
+    "score": 1
+  },
+  {
+    "name": "libxcb-shm0",
+    "version": ">= 1.10",
+    "score": 1
+  },
+  {
+    "name": "libxcb-xinput0",
+    "version": ">= 1.14",
+    "score": 1
+  },
+  {
+    "name": "libxkbcommon-x11-0",
+    "version": ">= 0.5.0",
+    "score": 1
+  },
+  {
+    "name": "libxfixes3",
+    "version": ">= 1:5.0",
+    "score": 1
+  },
+  {
+    "name": "libevdev2",
+    "version": ">= 1.10.0",
+    "score": 1
+  },
+  {
+    "name": "libinput-bin",
+    "version": ">= 1.20.0-1ubuntu0.1",
+    "score": 1
+  },
+  {
+    "name": "libmtdev1",
+    "version": ">= 1.1.0",
+    "score": 1
+  },
+  {
+    "name": "libqt5gui5",
+    "version": ">= 5.15.1",
+    "score": 1
+  },
+  {
+    "name": "libqt5gui5-gles",
+    "version": ">= 5.15.1",
+    "score": 1
+  },
+  {
+    "name": "libqt5core5a",
+    "version": ">= 5.15.3+dfsg~",
+    "score": 1
+  },
+  {
+    "name": "libqt5gui5",
+    "version": ">= 5.15.3+dfsg~",
+    "score": 1
+  },
+  {
+    "name": "libqt5gui5-gles",
+    "version": ">= 5.15.3+dfsg~",
+    "score": 1
+  },
+  {
+    "name": "libkf5dbusaddons-data",
+    "version": "= 5.92.0-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libkf5service5",
+    "version": ">= 5.61.0",
+    "score": 1
+  },
+  {
+    "name": "libkf5i18n-data",
+    "version": "= 5.92.0-0ubuntu2",
+    "score": 1
+  },
+  {
+    "name": "libqt5network5",
+    "version": ">= 5.14.1",
+    "score": 1
+  },
+  {
+    "name": "libkf5service-data",
+    "version": "= 5.92.0-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libkf5auth-data",
+    "version": "= 5.92.0-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libpolkit-qt5-1-1",
+    "version": ">= 0.113.0",
+    "score": 1
+  },
+  {
+    "name": "libpolkit-agent-1-0",
+    "version": ">= 0.99",
+    "score": 1
+  },
+  {
+    "name": "libpolkit-gobject-1-0",
+    "version": ">= 0.105-12~",
+    "score": 1
+  },
+  {
+    "name": "libqt5dbus5",
+    "version": ">= 5.5.0~",
+    "score": 1
+  },
+  {
+    "name": "libqt5gui5",
+    "version": ">= 5.5.0~",
+    "score": 1
+  },
+  {
+    "name": "libqt5gui5-gles",
+    "version": ">= 5.5.0~",
+    "score": 1
+  },
+  {
+    "name": "libqt5widgets5",
+    "version": ">= 5.5.0~",
+    "score": 1
+  },
+  {
+    "name": "libpolkit-gobject-1-0",
+    "version": "= 0.105-33",
+    "score": 1
+  },
+  {
+    "name": "libkf5codecs-data",
+    "version": "= 5.92.0-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libkf5codecs5",
+    "version": ">= 5.92.0~",
+    "score": 1
+  },
+  {
+    "name": "libkf5configgui5",
+    "version": ">= 5.92.0~",
+    "score": 1
+  },
+  {
+    "name": "libkf5configwidgets-data",
+    "version": "= 5.92.0-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libkf5guiaddons5",
+    "version": ">= 5.92.0~",
+    "score": 1
+  },
+  {
+    "name": "libkf5configcore5",
+    "version": ">= 5.74.0",
+    "score": 1
+  },
+  {
+    "name": "libkf5guiaddons-data",
+    "version": "= 5.92.0-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libqt5waylandclient5",
+    "version": ">= 5.15.2~",
+    "score": 1
+  },
+  {
+    "name": "libqt5dbus5",
+    "version": ">= 5.15.3+dfsg~",
+    "score": 1
+  },
+  {
+    "name": "libwayland-cursor0",
+    "version": ">= 1.8.1",
+    "score": 1
+  },
+  {
+    "name": "libkf5widgetsaddons-data",
+    "version": "= 5.92.0-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libkf5itemviews-data",
+    "version": "= 5.92.0-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libkf5kiocore5",
+    "version": ">= 5.80.0",
+    "score": 1
+  },
+  {
+    "name": "libkf5completion5",
+    "version": ">= 5.92.0~",
+    "score": 1
+  },
+  {
+    "name": "libkf5iconthemes5",
+    "version": ">= 5.92.0~",
+    "score": 1
+  },
+  {
+    "name": "libkf5jobwidgets5",
+    "version": ">= 5.92.0~",
+    "score": 1
+  },
+  {
+    "name": "libkf5kiocore5",
+    "version": ">= 5.92.0",
+    "score": 1
+  },
+  {
+    "name": "libkf5kiogui5",
+    "version": ">= 5.78.0",
+    "score": 1
+  },
+  {
+    "name": "libkf5completion-data",
+    "version": "= 5.92.0-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libkf5configcore5",
+    "version": ">= 4.97.0",
+    "score": 1
+  },
+  {
+    "name": "libkf5iconthemes-data",
+    "version": "= 5.92.0-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libqt5svg5",
+    "version": ">= 5.15.2~",
+    "score": 1
+  },
+  {
+    "name": "libqt5widgets5",
+    "version": ">= 5.15.3+dfsg~",
+    "score": 1
+  },
+  {
+    "name": "dpkg",
+    "version": ">= 1.15.6~",
+    "score": 1
+  },
+  {
+    "name": "libkf5jobwidgets-data",
+    "version": "= 5.92.0-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libimobiledevice6",
+    "version": ">= 1.3.0",
+    "score": 1
+  },
+  {
+    "name": "libkf5solid5-data",
+    "version": "= 5.92.0-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libmount1",
+    "version": ">= 2.19.1",
+    "score": 1
+  },
+  {
+    "name": "libplist3",
+    "version": ">= 2.2.0",
+    "score": 1
+  },
+  {
+    "name": "libusbmuxd6",
+    "version": ">= 2.0.2",
+    "score": 1
+  },
+  {
+    "name": "libdbusmenu-qt5-2",
+    "version": ">= 0.3.2",
+    "score": 1
+  },
+  {
+    "name": "libkf5notifications-data",
+    "version": "= 5.92.0-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libqt5texttospeech5",
+    "version": ">= 5.8.0~alpha",
+    "score": 1
+  },
+  {
+    "name": "libqt5core5a",
+    "version": ">= 5.12.2",
+    "score": 1
+  },
+  {
+    "name": "libqt5dbus5",
+    "version": ">= 5.0.2",
+    "score": 1
+  },
+  {
+    "name": "libqt5gui5",
+    "version": ">= 5.0.2",
+    "score": 1
+  },
+  {
+    "name": "libqt5gui5-gles",
+    "version": ">= 5.0.2",
+    "score": 1
+  },
+  {
+    "name": "libqt5widgets5",
+    "version": ">= 5.0.2",
+    "score": 1
+  },
+  {
+    "name": "libkf5sonnetcore5",
+    "version": ">= 5.92.0~",
+    "score": 1
+  },
+  {
+    "name": "libkf5sonnetui5",
+    "version": ">= 5.92.0~",
+    "score": 1
+  },
+  {
+    "name": "libkf5textwidgets-data",
+    "version": "= 5.92.0-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libkf5sonnet5-data",
+    "version": "= 5.92.0-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libkf5sonnetcore5",
+    "version": ">= 5.69.0",
+    "score": 1
+  },
+  {
+    "name": "libgpgmepp6",
+    "version": ">= 1.16.0",
+    "score": 1
+  },
+  {
+    "name": "libkf5wallet-data",
+    "version": "= 5.92.0-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libkf5wallet5",
+    "version": ">= 4.96.0",
+    "score": 1
+  },
+  {
+    "name": "libkwalletbackend5-5",
+    "version": ">= 5.72.0",
+    "score": 1
+  },
+  {
+    "name": "libgpgme11",
+    "version": ">= 1.15.0",
+    "score": 1
+  },
+  {
+    "name": "gnupg",
+    "version": ">= 2.1.21-4",
+    "score": 1
+  },
+  {
+    "name": "libassuan0",
+    "version": ">= 2.4.2",
+    "score": 1
+  },
+  {
+    "name": "libgpg-error0",
+    "version": ">= 1.36",
+    "score": 1
+  },
+  {
+    "name": "dirmngr",
+    "version": ">= 2.2.27-3ubuntu2.1",
+    "score": 1
+  },
+  {
+    "name": "gnupg-l10n",
+    "version": "= 2.2.27-3ubuntu2.1",
+    "score": 1
+  },
+  {
+    "name": "gnupg-utils",
+    "version": ">= 2.2.27-3ubuntu2.1",
+    "score": 1
+  },
+  {
+    "name": "gpg",
+    "version": ">= 2.2.27-3ubuntu2.1",
+    "score": 1
+  },
+  {
+    "name": "gpg-agent",
+    "version": ">= 2.2.27-3ubuntu2.1",
+    "score": 1
+  },
+  {
+    "name": "gpg-wks-client",
+    "version": ">= 2.2.27-3ubuntu2.1",
+    "score": 1
+  },
+  {
+    "name": "gpg-wks-server",
+    "version": ">= 2.2.27-3ubuntu2.1",
+    "score": 1
+  },
+  {
+    "name": "gpgsm",
+    "version": ">= 2.2.27-3ubuntu2.1",
+    "score": 1
+  },
+  {
+    "name": "gpgv",
+    "version": ">= 2.2.27-3ubuntu2.1",
+    "score": 1
+  },
+  {
+    "name": "gpgconf",
+    "version": "= 2.2.27-3ubuntu2.1",
+    "score": 1
+  },
+  {
+    "name": "libassuan0",
+    "version": ">= 2.5.0",
+    "score": 1
+  },
+  {
+    "name": "libgpg-error0",
+    "version": ">= 1.42",
+    "score": 1
+  },
+  {
+    "name": "libksba8",
+    "version": ">= 1.3.5",
+    "score": 1
+  },
+  {
+    "name": "libnpth0",
+    "version": ">= 0.90",
+    "score": 1
+  },
+  {
+    "name": "lsb-base",
+    "version": ">= 3.2-13",
+    "score": 1
+  },
+  {
+    "name": "libgpg-error0",
+    "version": ">= 1.33",
+    "score": 1
+  },
+  {
+    "name": "libsqlite3-0",
+    "version": ">= 3.7.15",
+    "score": 1
+  },
+  {
+    "name": "libassuan0",
+    "version": ">= 2.5.1",
+    "score": 1
+  },
+  {
+    "name": "libassuan0",
+    "version": ">= 2.1.0",
+    "score": 1
+  },
+  {
+    "name": "libgpg-error0",
+    "version": ">= 1.16",
+    "score": 1
+  },
+  {
+    "name": "dirmngr",
+    "version": "= 2.2.27-3ubuntu2.1",
+    "score": 1
+  },
+  {
+    "name": "gpg",
+    "version": "= 2.2.27-3ubuntu2.1",
+    "score": 1
+  },
+  {
+    "name": "gpg-agent",
+    "version": "= 2.2.27-3ubuntu2.1",
+    "score": 1
+  },
+  {
+    "name": "libksba8",
+    "version": ">= 1.6.0",
+    "score": 1
+  },
+  {
+    "name": "libkwalletbackend5-5",
+    "version": "= 5.92.0-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libkf5kiocore5",
+    "version": ">= 5.92.0~",
+    "score": 1
+  },
+  {
+    "name": "libkf5kiogui5",
+    "version": ">= 5.92.0~",
+    "score": 1
+  },
+  {
+    "name": "libkf5kiowidgets5",
+    "version": ">= 5.92.0~",
+    "score": 1
+  },
+  {
+    "name": "libkf5parts-data",
+    "version": "= 5.92.0-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libkf5xmlgui5",
+    "version": ">= 5.92.0~",
+    "score": 1
+  },
+  {
+    "name": "libkf5globalaccel5",
+    "version": ">= 5.92.0~",
+    "score": 1
+  },
+  {
+    "name": "libkf5xmlgui-data",
+    "version": "= 5.92.0-0ubuntu2",
+    "score": 1
+  },
+  {
+    "name": "libqt5printsupport5",
+    "version": ">= 5.15.2~",
+    "score": 1
+  },
+  {
+    "name": "libkf5globalaccel-data",
+    "version": "= 5.92.0-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libkf5globalaccelprivate5",
+    "version": ">= 5.11.0+git",
+    "score": 1
+  },
+  {
+    "name": "libkf5globalaccel5",
+    "version": ">= 5.90.0",
+    "score": 1
+  },
+  {
+    "name": "libcups2",
+    "version": ">= 1.4.0",
+    "score": 1
+  },
+  {
+    "name": "libqt5gui5",
+    "version": ">= 5.14.1",
+    "score": 1
+  },
+  {
+    "name": "libqt5gui5-gles",
+    "version": ">= 5.14.1",
+    "score": 1
+  },
+  {
+    "name": "libqt5widgets5",
+    "version": ">= 5.7.0",
+    "score": 1
+  },
+  {
+    "name": "libastro1",
+    "version": "= 4:21.12.3-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libphonon4qt5-4",
+    "version": ">= 4:4.8.0",
+    "score": 1
+  },
+  {
+    "name": "libqt5svg5",
+    "version": ">= 5.7.0~",
+    "score": 1
+  },
+  {
+    "name": "libqt5webchannel5",
+    "version": ">= 5.6.1",
+    "score": 1
+  },
+  {
+    "name": "libqt5webenginewidgets5",
+    "version": ">= 5.14.1",
+    "score": 1
+  },
+  {
+    "name": "marble-qt-data",
+    "version": ">= 4:21.12.3-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libphonon4qt5-data",
+    "version": ">= 4:4.11.1-4",
+    "score": 1
+  },
+  {
+    "name": "libpulse-mainloop-glib0",
+    "version": ">= 0.99.1",
+    "score": 1
+  },
+  {
+    "name": "libpulse0",
+    "version": ">= 0.99.1",
+    "score": 1
+  },
+  {
+    "name": "libqt5qml5",
+    "version": ">= 5.15.3+dfsg~",
+    "score": 1
+  },
+  {
+    "name": "libqt5network5",
+    "version": ">= 5.15.3+dfsg~",
+    "score": 1
+  },
+  {
+    "name": "libqt5printsupport5",
+    "version": ">= 5.15.3+dfsg~",
+    "score": 1
+  },
+  {
+    "name": "libqt5quick5",
+    "version": ">= 5.15.3+dfsg~",
+    "score": 1
+  },
+  {
+    "name": "libqt5quick5-gles",
+    "version": ">= 5.15.3+dfsg~",
+    "score": 1
+  },
+  {
+    "name": "libqt5quickwidgets5",
+    "version": ">= 5.15.3+dfsg~",
+    "score": 1
+  },
+  {
+    "name": "libqt5webengine-data",
+    "version": "= 5.15.9+dfsg-1",
+    "score": 1
+  },
+  {
+    "name": "libqt5webenginecore5",
+    "version": ">= 5.15.8",
+    "score": 1
+  },
+  {
+    "name": "libqt5network5",
+    "version": ">= 5.15.1",
+    "score": 1
+  },
+  {
+    "name": "libqt5qml5",
+    "version": ">= 5.15.1",
+    "score": 1
+  },
+  {
+    "name": "libqt5qmlmodels5",
+    "version": ">= 5.15.1",
+    "score": 1
+  },
+  {
+    "name": "libqt5gui5",
+    "version": ">= 5.10.0",
+    "score": 1
+  },
+  {
+    "name": "libqt5gui5-gles",
+    "version": ">= 5.10.0",
+    "score": 1
+  },
+  {
+    "name": "libqt5qml5",
+    "version": ">= 5.6.0~beta",
+    "score": 1
+  },
+  {
+    "name": "libqt5quick5",
+    "version": ">= 5.15.1",
+    "score": 1
+  },
+  {
+    "name": "libqt5quick5-gles",
+    "version": ">= 5.15.1",
+    "score": 1
+  },
+  {
+    "name": "libqt5widgets5",
+    "version": ">= 5.14.1",
+    "score": 1
+  },
+  {
+    "name": "libavcodec58",
+    "version": ">= 7:4.4",
+    "score": 1
+  },
+  {
+    "name": "libavformat58",
+    "version": ">= 7:4.4",
+    "score": 1
+  },
+  {
+    "name": "libavutil56",
+    "version": ">= 7:4.4",
+    "score": 1
+  },
+  {
+    "name": "libfreetype6",
+    "version": ">= 2.10.1",
+    "score": 1
+  },
+  {
+    "name": "libgcc-s1",
+    "version": ">= 4.0",
+    "score": 1
+  },
+  {
+    "name": "libminizip1",
+    "version": ">= 1.1",
+    "score": 1
+  },
+  {
+    "name": "libnspr4",
+    "version": ">= 2:4.9-2~",
+    "score": 1
+  },
+  {
+    "name": "libnss3",
+    "version": ">= 2:3.22",
+    "score": 1
+  },
+  {
+    "name": "libqt5positioning5",
+    "version": ">= 5.15.3+dfsg~",
+    "score": 1
+  },
+  {
+    "name": "libqt5webchannel5",
+    "version": ">= 5.15.3~",
+    "score": 1
+  },
+  {
+    "name": "libre2-9",
+    "version": ">= 20201101+dfsg",
+    "score": 1
+  },
+  {
+    "name": "libsnappy1v5",
+    "version": ">= 1.1.8",
+    "score": 1
+  },
+  {
+    "name": "libvpx7",
+    "version": ">= 1.10.0",
+    "score": 1
+  },
+  {
+    "name": "libaom3",
+    "version": ">= 3.2.0",
+    "score": 1
+  },
+  {
+    "name": "libavutil56",
+    "version": "= 7:4.4.2-0ubuntu0.22.04.1",
+    "score": 1
+  },
+  {
+    "name": "libdav1d5",
+    "version": ">= 0.2.1",
+    "score": 1
+  },
+  {
+    "name": "libgsm1",
+    "version": ">= 1.0.18",
+    "score": 1
+  },
+  {
+    "name": "libmfx1",
+    "version": ">= 18.4.0",
+    "score": 1
+  },
+  {
+    "name": "libmp3lame0",
+    "version": ">= 3.100",
+    "score": 1
+  },
+  {
+    "name": "libopenjp2-7",
+    "version": ">= 2.0.0",
+    "score": 1
+  },
+  {
+    "name": "librsvg2-2",
+    "version": ">= 2.14.4",
+    "score": 1
+  },
+  {
+    "name": "libshine3",
+    "version": ">= 3.1.0",
+    "score": 1
+  },
+  {
+    "name": "libspeex1",
+    "version": ">= 1.2~beta3-1",
+    "score": 1
+  },
+  {
+    "name": "libswresample3",
+    "version": "= 7:4.4.2-0ubuntu0.22.04.1",
+    "score": 1
+  },
+  {
+    "name": "libtheora0",
+    "version": ">= 1.0",
+    "score": 1
+  },
+  {
+    "name": "libtwolame0",
+    "version": ">= 0.3.10",
+    "score": 1
+  },
+  {
+    "name": "libva2",
+    "version": ">= 2.2.0",
+    "score": 1
+  },
+  {
+    "name": "libvorbis0a",
+    "version": ">= 1.1.2",
+    "score": 1
+  },
+  {
+    "name": "libvorbisenc2",
+    "version": ">= 1.1.2",
+    "score": 1
+  },
+  {
+    "name": "libx264-163",
+    "version": ">= 2:0.163.3060+git5db6aa6",
+    "score": 1
+  },
+  {
+    "name": "libx265-199",
+    "version": ">= 3.5",
+    "score": 1
+  },
+  {
+    "name": "libxvidcore4",
+    "version": ">= 1.2.2",
+    "score": 1
+  },
+  {
+    "name": "libzvbi0",
+    "version": ">= 0.2.35",
+    "score": 1
+  },
+  {
+    "name": "libdrm2",
+    "version": ">= 2.4.60",
+    "score": 1
+  },
+  {
+    "name": "libva-drm2",
+    "version": ">= 1.3",
+    "score": 1
+  },
+  {
+    "name": "libva-x11-2",
+    "version": ">= 1.3",
+    "score": 1
+  },
+  {
+    "name": "libva2",
+    "version": ">= 2.1.0",
+    "score": 1
+  },
+  {
+    "name": "libvdpau1",
+    "version": ">= 0.2",
+    "score": 1
+  },
+  {
+    "name": "ocl-icd-libopencl1",
+    "version": ">= 1.0",
+    "score": 1
+  },
+  {
+    "name": "libva2",
+    "version": ">= 2.9.0",
+    "score": 1
+  },
+  {
+    "name": "libdrm2",
+    "version": ">= 2.4.16",
+    "score": 1
+  },
+  {
+    "name": "libva2",
+    "version": "<< 2.14.0.1",
+    "score": 1
+  },
+  {
+    "name": "libdrm2",
+    "version": ">= 2.3.1",
+    "score": 1
+  },
+  {
+    "name": "libsoxr0",
+    "version": ">= 0.1.0",
+    "score": 1
+  },
+  {
+    "name": "libgomp1",
+    "version": ">= 4.9",
+    "score": 1
+  },
+  {
+    "name": "libnuma1",
+    "version": ">= 2.0.11",
+    "score": 1
+  },
+  {
+    "name": "libzvbi-common",
+    "version": "= 0.2.35-19",
+    "score": 1
+  },
+  {
+    "name": "libavcodec58",
+    "version": "= 7:4.4.2-0ubuntu0.22.04.1",
+    "score": 1
+  },
+  {
+    "name": "libbluray2",
+    "version": ">= 1:0.2.2",
+    "score": 1
+  },
+  {
+    "name": "libchromaprint1",
+    "version": ">= 1.3.2",
+    "score": 1
+  },
+  {
+    "name": "libgme0",
+    "version": ">= 0.5.5",
+    "score": 1
+  },
+  {
+    "name": "libopenmpt0",
+    "version": ">= 0.3.0",
+    "score": 1
+  },
+  {
+    "name": "librabbitmq4",
+    "version": ">= 0.6.0",
+    "score": 1
+  },
+  {
+    "name": "libssh-gcrypt-4",
+    "version": ">= 0.8.0",
+    "score": 1
+  },
+  {
+    "name": "libzmq5",
+    "version": ">= 4.0.1+dfsg",
+    "score": 1
+  },
+  {
+    "name": "zlib1g",
+    "version": ">= 1:1.2.0.2",
+    "score": 1
+  },
+  {
+    "name": "libudfread0",
+    "version": ">= 1.1.1",
+    "score": 1
+  },
+  {
+    "name": "libmpg123-0",
+    "version": ">= 1.28.0",
+    "score": 1
+  },
+  {
+    "name": "libgnutls30",
+    "version": ">= 3.7.0",
+    "score": 1
+  },
+  {
+    "name": "libnorm1",
+    "version": ">= 1.5r6",
+    "score": 1
+  },
+  {
+    "name": "libsodium23",
+    "version": ">= 1.0.3",
+    "score": 1
+  },
+  {
+    "name": "libnspr4",
+    "version": ">= 2:4.24",
+    "score": 1
+  },
+  {
+    "name": "libphonon4qt5-4",
+    "version": ">= 4:4.11.1-4",
+    "score": 1
+  },
+  {
+    "name": "libphonon4qt5-4",
+    "version": ">= 4:4.10.60~",
+    "score": 1
+  },
+  {
+    "name": "libvlc5",
+    "version": ">= 3.0.0",
+    "score": 1
+  },
+  {
+    "name": "libvlccore9",
+    "version": ">= 2.1.0",
+    "score": 1
+  },
+  {
+    "name": "libvlccore9",
+    "version": ">= 3.0.16",
+    "score": 1
+  },
+  {
+    "name": "libidn12",
+    "version": ">= 1.13",
+    "score": 1
+  },
+  {
+    "name": "libarchive13",
+    "version": ">= 3.1.2",
+    "score": 1
+  },
+  {
+    "name": "libaribb24-0",
+    "version": ">= 1.0.3",
+    "score": 1
+  },
+  {
+    "name": "libasound2",
+    "version": ">= 1.0.27",
+    "score": 1
+  },
+  {
+    "name": "libass9",
+    "version": ">= 1:0.13.6",
+    "score": 1
+  },
+  {
+    "name": "libavc1394-0",
+    "version": ">= 0.5.3",
+    "score": 1
+  },
+  {
+    "name": "libbluray2",
+    "version": ">= 1:1.0.0",
+    "score": 1
+  },
+  {
+    "name": "libcairo2",
+    "version": ">= 1.13.1",
+    "score": 1
+  },
+  {
+    "name": "libcddb2",
+    "version": ">= 1.3.2",
+    "score": 1
+  },
+  {
+    "name": "libdav1d5",
+    "version": ">= 0.1.0",
+    "score": 1
+  },
+  {
+    "name": "libdc1394-25",
+    "version": ">= 2.2.6",
+    "score": 1
+  },
+  {
+    "name": "libdca0",
+    "version": ">= 0.0.5",
+    "score": 1
+  },
+  {
+    "name": "libdvbpsi10",
+    "version": ">= 1.3.0",
+    "score": 1
+  },
+  {
+    "name": "libdvdnav4",
+    "version": ">= 6.1.0",
+    "score": 1
+  },
+  {
+    "name": "libdvdread8",
+    "version": ">= 6.1.0",
+    "score": 1
+  },
+  {
+    "name": "libebml5",
+    "version": ">= 1.4.2",
+    "score": 1
+  },
+  {
+    "name": "libfaad2",
+    "version": ">= 2.7",
+    "score": 1
+  },
+  {
+    "name": "libfribidi0",
+    "version": ">= 1.0.0",
+    "score": 1
+  },
+  {
+    "name": "libharfbuzz0b",
+    "version": ">= 0.9.4",
+    "score": 1
+  },
+  {
+    "name": "libixml10",
+    "version": ">= 1:1.8.0",
+    "score": 1
+  },
+  {
+    "name": "libkate1",
+    "version": ">= 0.3.0",
+    "score": 1
+  },
+  {
+    "name": "libmad0",
+    "version": ">= 0.15.1b-3",
+    "score": 1
+  },
+  {
+    "name": "libmatroska7",
+    "version": ">= 1.6.3",
+    "score": 1
+  },
+  {
+    "name": "libmpcdec6",
+    "version": ">= 1:0.1~r435",
+    "score": 1
+  },
+  {
+    "name": "libmpeg2-4",
+    "version": ">= 0.5.1",
+    "score": 1
+  },
+  {
+    "name": "libmtp9",
+    "version": ">= 1.1.0",
+    "score": 1
+  },
+  {
+    "name": "libnfs13",
+    "version": ">= 1.9.7",
+    "score": 1
+  },
+  {
+    "name": "libopenmpt-modplug1",
+    "version": ">= 0.2.7386~beta20.3",
+    "score": 1
+  },
+  {
+    "name": "libpostproc55",
+    "version": ">= 7:4.4",
+    "score": 1
+  },
+  {
+    "name": "libprotobuf-lite23",
+    "version": ">= 3.12.4",
+    "score": 1
+  },
+  {
+    "name": "libpulse0",
+    "version": ">= 1.0",
+    "score": 1
+  },
+  {
+    "name": "libraw1394-11",
+    "version": ">= 2.1.2",
+    "score": 1
+  },
+  {
+    "name": "libsamplerate0",
+    "version": ">= 0.1.7",
+    "score": 1
+  },
+  {
+    "name": "libsecret-1-0",
+    "version": ">= 0.7",
+    "score": 1
+  },
+  {
+    "name": "libshout3",
+    "version": ">= 2.2.2",
+    "score": 1
+  },
+  {
+    "name": "libsoxr0",
+    "version": ">= 0.1.2",
+    "score": 1
+  },
+  {
+    "name": "libspatialaudio0",
+    "version": ">= 0.3.0+git20180730+dfsg1",
+    "score": 1
+  },
+  {
+    "name": "libspeexdsp1",
+    "version": ">= 1.2~beta3.2-1",
+    "score": 1
+  },
+  {
+    "name": "libssh2-1",
+    "version": ">= 1.2.3",
+    "score": 1
+  },
+  {
+    "name": "libswscale5",
+    "version": ">= 7:4.4",
+    "score": 1
+  },
+  {
+    "name": "libtag1v5",
+    "version": ">= 1.9.1-2.2~",
+    "score": 1
+  },
+  {
+    "name": "libtwolame0",
+    "version": ">= 0.3.6",
+    "score": 1
+  },
+  {
+    "name": "libupnp13",
+    "version": ">= 1:1.8.3",
+    "score": 1
+  },
+  {
+    "name": "libva-drm2",
+    "version": ">= 1.1.0",
+    "score": 1
+  },
+  {
+    "name": "vlc-data",
+    "version": "= 3.0.16-1build7",
+    "score": 1
+  },
+  {
+    "name": "libfreetype6",
+    "version": ">= 2.3.5",
+    "score": 1
+  },
+  {
+    "name": "libharfbuzz0b",
+    "version": ">= 1.2.6",
+    "score": 1
+  },
+  {
+    "name": "libebml5",
+    "version": ">= 1.3.4-2~",
+    "score": 1
+  },
+  {
+    "name": "libcaca0",
+    "version": ">= 0.99.beta17-1",
+    "score": 1
+  },
+  {
+    "name": "libslang2",
+    "version": ">= 2.2.4",
+    "score": 1
+  },
+  {
+    "name": "libtheora0",
+    "version": ">= 0.0.0.alpha7.dfsg",
+    "score": 1
+  },
+  {
+    "name": "libasound2",
+    "version": ">= 1.0.17",
+    "score": 1
+  },
+  {
+    "name": "libmysofa1",
+    "version": ">= 0.6~",
+    "score": 1
+  },
+  {
+    "name": "libtag1v5-vanilla",
+    "version": "= 1.11.1+dfsg.1-3ubuntu3",
+    "score": 1
+  },
+  {
+    "name": "libaa1",
+    "version": ">= 1.4p5",
+    "score": 1
+  },
+  {
+    "name": "libplacebo192",
+    "version": ">= 4.157.0",
+    "score": 1
+  },
+  {
+    "name": "libva-wayland2",
+    "version": ">= 1.3.0",
+    "score": 1
+  },
+  {
+    "name": "libva-x11-2",
+    "version": ">= 1.0.3",
+    "score": 1
+  },
+  {
+    "name": "libxcb-xv0",
+    "version": ">= 1.2",
+    "score": 1
+  },
+  {
+    "name": "libgpm2",
+    "version": ">= 1.20.7",
+    "score": 1
+  },
+  {
+    "name": "libncurses6",
+    "version": ">= 6",
+    "score": 1
+  },
+  {
+    "name": "marble-qt-data",
+    "version": "= 4:21.12.3-0ubuntu1",
+    "score": 1
+  },
+  {
+    "name": "libgps28",
+    "version": ">= 3.3",
+    "score": 1
+  },
+  {
+    "name": "libqt5positioning5",
+    "version": ">= 5.7.0~",
+    "score": 1
+  },
+  {
+    "name": "libqt5qml5",
+    "version": ">= 5.7.0~",
+    "score": 1
+  },
+  {
+    "name": "libqt5quick5",
+    "version": ">= 5.7.0~",
+    "score": 1
+  },
+  {
+    "name": "libqt5quick5-gles",
+    "version": ">= 5.7.0~",
+    "score": 1
+  },
+  {
+    "name": "libqt5serialport5",
+    "version": ">= 5.6.0",
+    "score": 1
+  },
+  {
+    "name": "libqt5sql5",
+    "version": ">= 5.7.0~",
+    "score": 1
+  },
+  {
+    "name": "libqt5webenginewidgets5",
+    "version": ">= 5.7.1",
+    "score": 1
+  },
+  {
+    "name": "libshp2",
+    "version": ">= 1.3.0",
+    "score": 1
+  },
+  {
+    "name": "yorick-data",
+    "version": "= 2.2.04+dfsg1-12",
+    "score": 1
+  },
+  {
+    "name": "colobot-common",
+    "version": ">= 0.2.0-2build2",
+    "score": 1
+  },
+  {
+    "name": "colobot-common-sounds",
+    "version": ">= 0.2.0-2build2",
+    "score": 1
+  },
+  {
+    "name": "colobot-common-textures",
+    "version": ">= 0.2.0-2build2",
+    "score": 1
+  },
+  {
+    "name": "libopenal1",
+    "version": ">= 1.14",
+    "score": 1
+  },
+  {
+    "name": "libphysfs1",
+    "version": ">= 3.0.2",
+    "score": 1
+  },
+  {
+    "name": "libopenal-data",
+    "version": "= 1:1.19.1-2build3",
+    "score": 1
+  },
+  {
+    "name": "libdecor-0-0",
+    "version": ">= 0.1.0",
+    "score": 1
+  },
+  {
+    "name": "libdrm2",
+    "version": ">= 2.4.46",
+    "score": 1
+  },
+  {
+    "name": "libwayland-cursor0",
+    "version": ">= 1.0.2",
+    "score": 1
+  },
+  {
+    "name": "libc6",
+    "version": ">= 2.11",
+    "score": 1
+  },
+  {
+    "name": "libharfbuzz0b",
+    "version": ">= 2.3.1",
+    "score": 1
+  },
+  {
+    "name": "over",
+    "version": "0.5",
+    "score": 0.3
+  },
+  {
+    "name": "FKNRTUUTSOKGA",
+    "version": "4.9",
+    "score": 0.3
+  },
+  {
+    "name": "copyright",
+    "version": " 5.2.1 ",
+    "score": 0.2
+  },
+  {
+    "name": "create",
+    "version": "NAME=passwd\nDESCRIPTION=Change the login password or create new user names\nDATE=2010/07/09-14:59:57-EDT\nSTATE=stable\nHOST=mainbuild\nUSER=builder\nVERSION=6.5.0\nTAGID=89\n%C\t[username ...]\nWhere:\n username is either an existing user, to change their password\n or a new user to create an account for\n",
+    "score": 0.1
+  },
+  {
+    "name": "login",
+    "version": "NAME=passwd\nDESCRIPTION=Change the login password or create new user names\nDATE=2010/07/09-14:59:57-EDT\nSTATE=stable\nHOST=mainbuild\nUSER=builder\nVERSION=6.5.0\nTAGID=89\n%C\t[username ...]\nWhere:\n username is either an existing user, to change their password\n or a new user to create an account for\n",
+    "score": 0.1
+  },
+  {
+    "name": "passwd",
+    "version": "NAME=passwd\nDESCRIPTION=Change the login password or create new user names\nDATE=2010/07/09-14:59:57-EDT\nSTATE=stable\nHOST=mainbuild\nUSER=builder\nVERSION=6.5.0\nTAGID=89\n%C\t[username ...]\nWhere:\n username is either an existing user, to change their password\n or a new user to create an account for\n",
+    "score": 0.1
+  },
+  {
+    "name": "password",
+    "version": "NAME=passwd\nDESCRIPTION=Change the login password or create new user names\nDATE=2010/07/09-14:59:57-EDT\nSTATE=stable\nHOST=mainbuild\nUSER=builder\nVERSION=6.5.0\nTAGID=89\n%C\t[username ...]\nWhere:\n username is either an existing user, to change their password\n or a new user to create an account for\n",
+    "score": 0.1
+  },
+  {
+    "name": "module",
+    "version": "NAME=lsm-pf-v4.so\nDESCRIPTION=Packet Filter loadable stack module.\nDATE=2012/06/20-13:38:08-EDT\nSTATE=stable\nHOST=gusbuild4\nUSER=builder\nVERSION=6.5.0\nTAGID=650SP1-166\n%C - PF/NAT filter module\n\nThis module is loaded by tcpip stack and provides pf/NAT support.\n\nSyntax:\nmount -Ttcpip lsm-pf.so\n\n   If the prefix option is specified on the io-pkt-v[4,4-hc,6] \n   command line (for example \"-p tcpip prefix=<path>\") \n   lsm-pf-v<x>.so will inherit this prefix automatically and\n   register its resource manager as \"<path>/dev/pf\". This \n   pathname can then be passed to the pfctl -p option to \n   override the default of /dev/pf. \n\n",
+    "score": 0.1
+  },
+  {
+    "name": "Country",
+    "version": "2.4",
+    "score": 0.3
+  },
+  {
+    "name": "module",
+    "version": "NAME=screen-gles2.so\nDESCRIPTION=Screen Composition Manager GLES 2.X module\nDATE=2014/10/08-03:35:52-EDT\nSTATE=Experimental\nHOST=slave3\nUSER=builder\nVERSION=Screen-service-moonraker--QNX6.5.0-SP1\nTAGID=B634\n",
+    "score": 0.1
+  },
+  {
+    "name": "screen",
+    "version": "NAME=screen-gles2.so\nDESCRIPTION=Screen Composition Manager GLES 2.X module\nDATE=2014/10/08-03:35:52-EDT\nSTATE=Experimental\nHOST=slave3\nUSER=builder\nVERSION=Screen-service-moonraker--QNX6.5.0-SP1\nTAGID=B634\n",
+    "score": 0.1
+  },
+  {
+    "name": "module",
+    "version": "NAME=screen-gles2blt.so\nDESCRIPTION=Screen Composition Manager software module\nDATE=2014/10/08-03:35:53-EDT\nSTATE=Experimental\nHOST=slave3\nUSER=builder\nVERSION=Screen-service-moonraker--QNX6.5.0-SP1\nTAGID=B634\n",
+    "score": 0.1
+  },
+  {
+    "name": "screen",
+    "version": "NAME=screen-gles2blt.so\nDESCRIPTION=Screen Composition Manager software module\nDATE=2014/10/08-03:35:53-EDT\nSTATE=Experimental\nHOST=slave3\nUSER=builder\nVERSION=Screen-service-moonraker--QNX6.5.0-SP1\nTAGID=B634\n",
+    "score": 0.1
+  },
+  {
+    "name": "software",
+    "version": "NAME=screen-gles2blt.so\nDESCRIPTION=Screen Composition Manager software module\nDATE=2014/10/08-03:35:53-EDT\nSTATE=Experimental\nHOST=slave3\nUSER=builder\nVERSION=Screen-service-moonraker--QNX6.5.0-SP1\nTAGID=B634\n",
+    "score": 0.1
+  },
+  {
+    "name": "module",
+    "version": "NAME=screen-gles1.so\nDESCRIPTION=Screen Composition Manager GLES 1.X module\nDATE=2014/10/08-03:35:51-EDT\nSTATE=Experimental\nHOST=slave3\nUSER=builder\nVERSION=Screen-service-moonraker--QNX6.5.0-SP1\nTAGID=B634\n",
+    "score": 0.1
+  },
+  {
+    "name": "screen",
+    "version": "NAME=screen-gles1.so\nDESCRIPTION=Screen Composition Manager GLES 1.X module\nDATE=2014/10/08-03:35:51-EDT\nSTATE=Experimental\nHOST=slave3\nUSER=builder\nVERSION=Screen-service-moonraker--QNX6.5.0-SP1\nTAGID=B634\n",
+    "score": 0.1
+  },
+  {
+    "name": "android",
+    "version": "2",
+    "score": 0.9
+  },
+  {
+    "name": "libcurl",
+    "version": "7.19.6",
+    "score": 0.3
+  },
+  {
+    "name": "default",
+    "version": "CLIENT libcurl 7.19.6\r\nMATCH %s %s %s\r\nQUIT\r\n",
+    "score": 0.1
+  },
+  {
+    "name": "libxml2",
+    "version": "NAME=libxml2.so\nDESCRIPTION=libxml2 Library\nDATE=2010/07/09-13:25:00-EDT\nSTATE=stable\nHOST=mainbuild\nUSER=builder\nVERSION=6.5.0\nTAGID=89\n",
+    "score": 0.1
+  },
+  {
+    "name": "libcapture",
+    "version": "NAME=libcapture.so\nDESCRIPTION=Stub version of QNX video capture library\nDATE=2014/10/08-03:12:55-EDT\nSTATE=Experimental\nHOST=slave3\nUSER=builder\nVERSION=Screen-service-moonraker--QNX6.5.0-SP1\nTAGID=B634\n",
+    "score": 0.1
+  },
+  {
+    "name": "libcapture",
+    "version": "NAME=libcapture-board-j6-no-decoder.so\nDESCRIPTION=Generic video capture library for \"j6\" SOC\nDATE=2014/10/08-03:12:58-EDT\nSTATE=Experimental\nHOST=slave3\nUSER=builder\nVERSION=Screen-service-moonraker--QNX6.5.0-SP1\nTAGID=B634\n",
+    "score": 0.1
+  },
+  {
+    "name": "OpenSSL",
+    "version": "1.0.0",
+    "score": 0.3
+  },
+  {
+    "name": "libcapture",
+    "version": "NAME=libcapture-soc-j6.so\nDESCRIPTION=QNX Video Capture/De-Interlacing driver for Jacinto6\nDATE=2014/10/08-03:34:42-EDT\nSTATE=Experimental\nHOST=slave3\nUSER=builder\nVERSION=Screen-service-moonraker--QNX6.5.0-SP1\nTAGID=B634\n%C - QNX Video Capture/De-Interlacing driver for Jacinto6\n",
+    "score": 0.1
+  },
+  {
+    "name": "sinfo",
+    "version": "2",
+    "score": 0.9
+  },
+  {
+    "name": "librpc",
+    "version": "NAME=librpc.so\nDESCRIPTION=Remote Proceedure Call library\nDATE=2010/07/09-13:21:36-EDT\nSTATE=stable\nHOST=mainbuild\nUSER=builder\nVERSION=6.5.0\nTAGID=89\n",
+    "score": 0.1
+  },
+  {
+    "name": "build",
+    "version": "1.9",
+    "score": 0.3
+  },
+  {
+    "name": "with",
+    "version": "1.0",
+    "score": 0.3
+  },
+  {
+    "name": "IEEE",
+    "version": "802.1",
+    "score": 0.3
+  },
+  {
+    "name": "version",
+    "version": "2.0.5",
+    "score": 0.3
+  },
+  {
+    "name": "libkshark2",
+    "version": ">= 2.0.2",
+    "score": 1
+  },
+  {
+    "name": "libqt5gui5",
+    "version": ">= 5.11.0~rc1",
+    "score": 1
+  },
+  {
+    "name": "libqt5gui5-gles",
+    "version": ">= 5.11.0~rc1",
+    "score": 1
+  },
+  {
+    "name": "libqt5widgets5",
+    "version": ">= 5.2.0~alpha1",
+    "score": 1
+  },
+  {
+    "name": "libtraceevent1",
+    "version": ">= 5.4",
+    "score": 1
+  },
+  {
+    "name": "trace-cmd",
+    "version": ">= 2.9.3",
+    "score": 1
+  },
+  {
+    "name": "freeglut3",
+    "version": ">= 2.8.1",
+    "score": 1
+  },
+  {
+    "name": "libqt5widgets5",
+    "version": ">= 5.15.1",
+    "score": 1
+  },
+  {
+    "name": "libtracecmd0",
+    "version": ">= 2.9.6",
+    "score": 1
+  },
+  {
+    "name": "libtraceevent1",
+    "version": ">= 5.9~rc1",
+    "score": 1
+  },
+  {
+    "name": "libtracefs1",
+    "version": ">= 0.0~git20201221.74d7273",
+    "score": 1
+  },
+  {
+    "name": "libtraceevent1",
+    "version": ">= 1:1.3.0",
+    "score": 1
+  },
+  {
+    "name": "libtraceevent1",
+    "version": "= 1:1.3.3-1",
+    "score": 1
+  },
+  {
+    "name": "daemon",
+    "version": "NAME=telnetd\nDESCRIPTION=Telnet service daemon\nDATE=2012/06/20-13:35:27-EDT\nSTATE=stable\nHOST=gusbuild4\nUSER=builder\nVERSION=6.5.0\nTAGID=650SP1-166\ntelnetd [-debug] [-D (options|report|netstat|ptydata)] [-h] [-n] [-U]\n        [-46] [port]\n\nOptions:\n\n -debug   Block on port waiting for connection.\n -D       Used for debugging purposes.\n -h       Disables the printing of host-specific information before\n          login has been completed.\n -n       Turn off use of keep alive.\n -U       Refuse connections from addresses that cannot be mapped back\n          into a symbolic name.\n -4 or -6 Specifies the address family to be used for -debug mode.\n port     port to use in -debug mode (must come last).\n",
+    "score": 0.1
+  },
+  {
+    "name": "service",
+    "version": "NAME=telnetd\nDESCRIPTION=Telnet service daemon\nDATE=2012/06/20-13:35:27-EDT\nSTATE=stable\nHOST=gusbuild4\nUSER=builder\nVERSION=6.5.0\nTAGID=650SP1-166\ntelnetd [-debug] [-D (options|report|netstat|ptydata)] [-h] [-n] [-U]\n        [-46] [port]\n\nOptions:\n\n -debug   Block on port waiting for connection.\n -D       Used for debugging purposes.\n -h       Disables the printing of host-specific information before\n          login has been completed.\n -n       Turn off use of keep alive.\n -U       Refuse connections from addresses that cannot be mapped back\n          into a symbolic name.\n -4 or -6 Specifies the address family to be used for -debug mode.\n port     port to use in -debug mode (must come last).\n",
+    "score": 0.1
+  },
+  {
+    "name": "unknown",
+    "version": "MCP-3.3.0.45_Release",
+    "score": 0.1
+  },
+  {
+    "name": "version",
+    "version": "0.9.8",
+    "score": 0.3
+  },
+  {
+    "name": "ARCserv",
+    "version": "4.0",
+    "score": 0.3
+  },
+  {
+    "name": "Ethernet",
+    "version": "802.3",
+    "score": 0.3
+  },
+  {
+    "name": "ring",
+    "version": "802.11",
+    "score": 0.3
+  },
+  {
+    "name": "BtrieveVA",
+    "version": "4.11",
+    "score": 0.3
+  },
+  {
+    "name": "IEEE",
+    "version": "802.11",
+    "score": 0.3
+  },
+  {
+    "name": "ARCserv",
+    "version": "5.0",
+    "score": 0.3
+  },
+  {
+    "name": "ARCserv",
+    "version": "5.01",
+    "score": 0.3
+  },
+  {
+    "name": "ARCserv",
+    "version": "3.0",
+    "score": 0.3
+  },
+  {
+    "name": "IEEE",
+    "version": "02.11",
+    "score": 0.3
+  },
+  {
+    "name": "PRESPE",
+    "version": "2.0",
+    "score": 0.3
+  },
+  {
+    "name": "unknown",
+    "version": "802.11",
+    "score": 0.3
+  },
+  {
+    "name": "LANspoo",
+    "version": "3.5",
+    "score": 0.3
+  },
+  {
+    "name": "tcpdump",
+    "version": "NAME=tcpdump\nDESCRIPTION=Packet capture utility\nDATE=2012/06/20-13:38:54-EDT\nSTATE=stable\nHOST=gusbuild4\nUSER=builder\nVERSION=6.5.0\nTAGID=650SP1-166\n%C [ -AdDeflLnNOpqRStuUvxX ] [ -c count ]\n               [ -C file_size ] [ -F file ]\n               [ -i interface ] [ -m module ] [ -M secret ]\n               [ -r file ] [ -s snaplen ] [ -T type ] [ -w file ]\n               [ -W filecount ]\n               [ -E spi@ipaddr algo:secret,...  ]\n               [ -y datalinktype ] [ -Z user ]\n               [ expression ]\n\nOptions:\n -A    Print each packet (minus its link level header) in ASCII.\n -c    Exit after receiving count packets.\n -C    Max size of a savefile (if reached opens new file)\n -d    Dump compiled packet-matching code in a human readable and stop.\n -dd   Dump packet-matching code as a C program fragment.\n -ddd  Dump packet-matching code as decimal numbers (preceded with a count).\n -D    List the network interfaces available on the system.\n -e    Print the link-level header on each dump line.\n -f    Print `foreign' IPv4 addresses numerically rather than symbolically.\n -F    Use file as input for the filter expression.\n -i    Listen on interface. If unspecified first non-loopback interface used.\n -l    Make stdout line buffered (see the data while capturing).\n -L    List the known data link types for the interface and exit.\n -m    Load SMI MIB module definitions from file module.\n -n    Don't convert addresses (host addresses, port numbers, etc.) to names.\n -N    Don't print domain name qualification of host names.\n -O    Do not run the packet-matching code optimizer.\n -p    Don't put the interface into promiscuous mode.\n -q    Quick output. Print less protocol information, shortens output lines.\n -R    Assume ESP/AH packets to be based on old specification (RFC 1825-1829)\n -r    Read packets from file (which was created with the -w option).\n -S    Print absolute, rather than relative, TCP sequence numbers.\n -s    Snarf snaplen bytes of data from each packet rather than the default.\n -T    Force packets chosen by \"expression\" to be interpreted the spec. type.\n -t    Don't print a timestamp on each dump line.\n -tt   Print an unformatted timestamp on each dump line.\n -ttt  Print a delta (in micro-secs) between current and previous dump line.\n -tttt Print timestamp in default format proceeded by date on each dump line.\n -u    Print undecoded NFS handles.\n -U    Make output saved via the -w option packet-buffered.\n -v    When parsing and printing, produce (slightly more) verbose output.\n -vv   Even more verbose output.\n -vvv  Even more verbose output.\n -w    Write the raw packets to file rather than parsing and printing them.\n -W    Used in conjunction with the -C option limits # of files created.\n -x    Print each packet (minus its link level header) in hex.\n -xx   Print each packet, including its link level header, in hex.\n -X    Print each packet (minus its link level header) in hex and ASCII.\n -XX   Print each packet, including its link level header, in hex and ASCII.\n -y    Set the data link type to use while capturing packets to datalinktype.\n -Z    Drops privileges (if root).\n",
+    "score": 0.1
+  },
+  {
+    "name": "openssl",
+    "version": ">= 0.9.8g-9",
+    "score": 1
+  },
+  {
+    "name": "libpam-modules",
+    "version": ">= 1.0.1-6",
+    "score": 1
+  },
+  {
+    "name": "debconf",
+    "version": ">= 1.2.0",
+    "score": 1
+  },
+  {
+    "name": "cdebconf",
+    "version": ">= 0.39",
+    "score": 1
+  },
+  {
+    "name": "exim4-base",
+    "version": ">= 4.95-4ubuntu2.1",
+    "score": 1
+  },
+  {
+    "name": "exim4-daemon-custom",
+    "version": ">= 4.95-4ubuntu2.1",
+    "score": 1
+  },
+  {
+    "name": "exim4-daemon-heavy",
+    "version": ">= 4.95-4ubuntu2.1",
+    "score": 1
+  },
+  {
+    "name": "exim4-daemon-light",
+    "version": ">= 4.95-4ubuntu2.1",
+    "score": 1
+  },
+  {
+    "name": "libdebian-installer4",
+    "version": ">= 0.122ubuntu3",
+    "score": 1
+  },
+  {
+    "name": "libtextwrap1",
+    "version": ">= 0.1",
+    "score": 1
+  },
+  {
+    "name": "exim4-config",
+    "version": ">= 4.94",
+    "score": 1
+  },
+  {
+    "name": "adduser",
+    "version": ">= 3.48",
+    "score": 1
+  },
+  {
+    "name": "lsb-base",
+    "version": ">= 3.0-10",
+    "score": 1
+  },
+  {
+    "name": "debianutils",
+    "version": ">= 1.7",
+    "score": 1
+  },
+  {
+    "name": "libpam-runtime",
+    "version": ">= 1.0.1-11",
+    "score": 1
+  },
+  {
+    "name": "init-system-helpers",
+    "version": ">= 1.54~",
+    "score": 1
+  },
+  {
+    "name": "systemd",
+    "version": "= 249.11-0ubuntu3.6",
+    "score": 1
+  },
+  {
+    "name": "exim4-base",
+    "version": ">= 4.95",
+    "score": 1
+  },
+  {
+    "name": "libgnutls-dane0",
+    "version": ">= 3.7.0",
+    "score": 1
+  },
+  {
+    "name": "libmysqlclient21",
+    "version": ">= 8.0.11",
+    "score": 1
+  },
+  {
+    "name": "libgnutls30",
+    "version": "= 3.7.3-4ubuntu1.1",
+    "score": 1
+  },
+  {
+    "name": "libunbound8",
+    "version": ">= 1.8.0",
+    "score": 1
+  },
+  {
+    "name": "mysql-common",
+    "version": ">= 5.5",
+    "score": 1
+  },
+  {
+    "name": "dpkg",
+    "version": ">= 1.8.3",
+    "score": 1
+  },
+  {
+    "name": "sendmail-base",
+    "version": "= 8.15.2-22ubuntu3",
+    "score": 1
+  },
+  {
+    "name": "liblockfile1",
+    "version": ">= 1.0",
+    "score": 1
+  },
+  {
+    "name": "libwrap0",
+    "version": ">= 7.6-4~",
+    "score": 1
+  },
+  {
+    "name": "sendmail-cf",
+    "version": "= 8.15.2-22ubuntu3",
+    "score": 1
+  },
+  {
+    "name": "libprocps8",
+    "version": ">= 2:3.3.16-1",
+    "score": 1
+  },
+  {
+    "name": "courier-authlib",
+    "version": ">= 0.66.4-5~",
+    "score": 1
+  },
+  {
+    "name": "libcourier-unicode4",
+    "version": ">= 1.4",
+    "score": 1
+  },
+  {
+    "name": "ruby",
+    "version": ">= 1:3.0~0",
+    "score": 1
+  },
+  {
+    "name": "libblkid1",
+    "version": ">= 2.16",
+    "score": 1
+  },
+  {
+    "name": "rubygems-integration",
+    "version": ">= 1.17.1~",
+    "score": 1
+  },
+  {
+    "name": "libedit2",
+    "version": ">= 3.1-20130611-0",
+    "score": 1
+  },
+  {
+    "name": "libgdbm-compat4",
+    "version": ">= 1.16",
+    "score": 1
+  },
+  {
+    "name": "rake",
+    "version": ">= 10.4.2",
+    "score": 1
+  },
+  {
+    "name": "ruby-net-telnet",
+    "version": ">= 0.1.1",
+    "score": 1
+  },
+  {
+    "name": "ruby-xmlrpc",
+    "version": ">= 0.3.0~",
+    "score": 1
+  },
+  {
+    "name": "openssl",
+    "version": ">= 1.1.1",
+    "score": 1
+  },
+  {
+    "name": "ruby",
+    "version": "<< 1:3.1~",
+    "score": 1
+  },
+  {
+    "name": "libaugeas0",
+    "version": ">= 1.0.0",
+    "score": 1
+  },
+  {
+    "name": "OpenSSH",
+    "version": "2.3.0",
+    "score": 0.3
+  },
+  {
+    "name": "protocol",
+    "version": "1.3",
+    "score": 0.3
+  },
+  {
+    "name": "FORMAT",
+    "version": "1.1",
+    "score": 0.3
+  },
+  {
+    "name": "OpenSSH",
+    "version": "2.5.0",
+    "score": 0.3
+  },
+  {
+    "name": "protocol",
+    "version": "2.0",
+    "score": 0.3
+  },
+  {
+    "name": "OpenSSH",
+    "version": "5.2",
+    "score": 0.3
+  },
+  {
+    "name": "OpenSSH",
+    "version": "2.5.3",
+    "score": 0.3
+  },
+  {
+    "name": "proto",
+    "version": "1.3",
+    "score": 0.3
+  },
+  {
+    "name": "OpenSSH",
+    "version": "2.0",
+    "score": 0.3
+  },
+  {
+    "name": "OpenSSH",
+    "version": "2.3",
+    "score": 0.3
+  },
+  {
+    "name": "Version",
+    "version": "2.1",
+    "score": 0.3
+  },
+  {
+    "name": "Invalid",
+    "version": "802.1",
+    "score": 0.3
+  },
+  {
+    "name": "daemon",
+    "version": "NAME=inetd\nDESCRIPTION=Internet \"super\" server daemon\nDATE=2012/06/20-13:34:57-EDT\nSTATE=stable\nHOST=gusbuild4\nUSER=builder\nVERSION=6.5.0\nTAGID=650SP1-166\n%C [-d] [configuration file]\n\nOption:\n -d\t     Turns on debugging.\n -D\t     use procmgr_daemon() to daemonize.\n",
+    "score": 0.1
+  },
+  {
+    "name": "super",
+    "version": "NAME=inetd\nDESCRIPTION=Internet \"super\" server daemon\nDATE=2012/06/20-13:34:57-EDT\nSTATE=stable\nHOST=gusbuild4\nUSER=builder\nVERSION=6.5.0\nTAGID=650SP1-166\n%C [-d] [configuration file]\n\nOption:\n -d\t     Turns on debugging.\n -D\t     use procmgr_daemon() to daemonize.\n",
+    "score": 0.1
+  },
+  {
+    "name": "filter",
+    "version": "NAME=pfctl\nDESCRIPTION=Control the packet filter and network address translation device\nDATE=2012/06/20-13:38:43-EDT\nSTATE=stable\nHOST=gusbuild4\nUSER=builder\nVERSION=6.5.0\nTAGID=650SP1-166\nPFCTL(8)                                                              PFCTL(8)\n\nNAME\n     pfctl -- control the packet filter (PF) and network address translation\n     (NAT) device\n\nSYNOPSIS\n     pfctl [-AdeghNnOoqRrvz] [-a anchor] [-D macro=value] [-F modifier]\n           [-f file] [-i interface] [-k host] [-p device] [-s modifier] [-t\n           table -T command [address ...]] [-x level]\n\nDESCRIPTION\n     The pfctl utility communicates with the packet filter device using the\n     ioctl interface described in pf(4).  It allows ruleset and parameter con-\n     figuration and retrieval of status information from the packet filter.\n\n     Packet filtering restricts the types of packets that pass through network\n     interfaces entering or leaving the host based on filter rules as\n     described in pf.conf(5).  The packet filter can also replace addresses\n     and ports of packets.  Replacing source addresses and ports of outgoing\n     packets is called NAT (Network Address Translation) and is used to con-\n     nect an internal network (usually reserved address space) to an external\n     one (the Internet) by making all connections to external hosts appear to\n     come from the gateway.  Replacing destination addresses and ports of\n     incoming packets is used to redirect connections to different hosts\n     and/or ports.  A combination of both translations, bidirectional NAT, is\n     also supported.  Translation rules are described in pf.conf(5).\n\n     When the variable pf is set to YES in rc.conf.local(8), the rule file\n     specified with the variable pf_rules is loaded automatically by the rc(8)\n     scripts and the packet filter is enabled.\n\n     The packet filter does not itself forward packets between interfaces.\n     Forwarding can be enabled by setting the sysctl(8) variables\n     net.inet.ip.forwarding and/or net.inet6.ip6.forwarding to 1.  Set them\n     permanently in sysctl.conf(5).\n\n     The pfctl utility provides several commands.  The options are as follows:\n\n     -A      Load only the queue rules present in the rule file.  Other rules\n             and options are ignored.\n\n     -a anchor\n             Apply flags -f, -F, and -s only to the rules in the specified\n             anchor.  In addition to the main ruleset, pfctl can load and\n             manipulate additional rulesets by name, called anchors.  The main\n             ruleset is the default anchor.\n\n             Anchors are referenced by name and may be nested, with the vari-\n             ous components of the anchor path separated by `/' characters,\n             similar to how file system hierarchies are laid out.  The last\n             component of the anchor path is where ruleset operations are per-\n             formed.\n\n             Evaluation of anchor rules from the main ruleset is described in\n             pf.conf(5).\n\n             Private tables can also be put inside anchors, either by having\n             table statements in the pf.conf(5) file that is loaded in the\n             anchor, or by using regular table commands, as in:\n\n                   # pfctl -a foo/bar -t mytable -T add 1.2.3.4 5.6.7.8\n\n             When a rule referring to a table is loaded in an anchor, the rule\n             will use the private table if one is defined, and then fallback\n             to the table defined in the main ruleset, if there is one.  This\n             is similar to C rules for variable scope.  It is possible to cre-\n             ate distinct tables with the same name in the global ruleset and\n             in an anchor, but this is often bad design and a warning will be\n             issued in that case.\n\n     -D macro=value\n             Define macro to be set to value on the command line.  Overrides\n             the definition of macro in the ruleset.\n\n     -d      Disable the packet filter.\n\n     -e      Enable the packet filter.\n\n     -F modifier\n             Flush the filter parameters specified by modifier (may be abbre-\n             viated):\n\n             -F nat        Flush the NAT rules.\n             -F queue      Flush the queue rules.\n             -F rules      Flush the filter rules.\n             -F state      Flush the state table (NAT and filter).\n             -F Sources    Flush the source tracking table.\n             -F info       Flush the filter information (statistics that are\n                           not bound to rules).\n             -F Tables     Flush the tables.\n             -F osfp       Flush the passive operating system fingerprints.\n             -F all        Flush all of the above.\n\n     -f file\n             Load the rules contained in file.  This file may contain macros,\n             tables, options, and normalization, queueing, translation, and\n             filtering rules.  With the exception of macros and tables, the\n             statements must appear in that order.\n\n     -g      Include output helpful for debugging.\n\n     -h      Help.\n\n     -i interface\n             Restrict the operation to the given interface.\n\n     -k host\n             Kill all of the state entries originating from the specified\n             host.  A second -k host option may be specified, which will kill\n             all the state entries from the first host to the second host.\n             For example, to kill all of the state entries originating from\n             host:\n\n                   # pfctl -k host\n\n             To kill all of the state entries from host1 to host2:\n\n                   # pfctl -k host1 -k host2\n\n     -N      Load only the NAT rules present in the rule file.  Other rules\n             and options are ignored.\n\n     -n      Do not actually load rules, just parse them.\n\n     -O      Load only the options present in the rule file.  Other rules and\n             options are ignored.\n\n     -o      Enable the ruleset optimizer.  The ruleset optimizer attempts to\n             improve rulesets by removing rule duplication and making better\n             use of rule ordering.  Specifically, it does four things:\n\n             1.   remove duplicate rules\n             2.   remove rules that are a subset of another rule\n             3.   combine multiple rules into a table when advantageous\n             4.   re-order the rules to improve evaluation performance\n\n             A second -o may be specified to use the currently loaded ruleset\n             as a feedback profile to tailor the optimization of the quick\n             rules to the actual network behavior.\n\n             It is important to note that the ruleset optimizer will modify\n             the ruleset to improve performance.  A side effect of the ruleset\n             modification is that per-rule accounting statistics will have\n             different meanings than before.  If per-rule accounting is impor-\n             tant for billing purposes or whatnot, either the ruleset opti-\n             mizer should not be used or a label field should be added to all\n             of the accounting rules to act as optimization barriers.\n\n     -p device\n             Use the device file device instead of the default /dev/pf.\n\n     -q      Only print errors and warnings.\n\n     -R      Load only the filter rules present in the rule file.  Other rules\n             and options are ignored.\n\n     -r      Perform reverse DNS lookups on states when displaying them.\n\n     -s modifier\n             Show the filter parameters specified by modifier (may be abbrevi-\n             ated):\n\n             -s nat         Show the currently loaded NAT rules.\n             -s queue       Show the currently loaded queue rules.  When used\n                            together with -v, per-queue statistics are also\n                            shown.  When used together with -v -v, pfctl will\n                            loop and show updated queue statistics every five\n                            seconds, including measured bandwidth and packets\n                            per second.\n             -s rules       Show the currently loaded filter rules.  When used\n                            together with -v, the per-rule statistics (number\n                            of evaluations, packets and bytes) are also shown.\n                            Note that the ``skip step'' optimization done\n                            automatically by the kernel will skip evaluation\n                            of rules where possible.  Packets passed state-\n                            fully are counted in the rule that created the\n                            state (even though the rule isn't evaluated more\n                            than once for the entire connection).\n             -s Anchors     Show the currently loaded anchors directly\n                            attached to the main ruleset.  If -a anchor is\n                            specified as well, the anchors loaded directly\n                            below the given anchor are shown instead.  If -v\n                            is specified, all anchors attached under the tar-\n                            get anchor will be displayed recursively.\n             -s state       Show the contents of the state table.\n             -s Sources     Show the contents of the source tracking table.\n             -s info        Show filter information (statistics and counters).\n                            When used together with -v, source tracking sta-\n                            tistics are also shown.\n             -s labels      Show per-rule statistics (label, evaluations,\n                            packets, bytes) of filter rules with labels, use-\n                            ful for accounting.\n             -s timeouts    Show the current global timeouts.\n             -s memory      Show the current pool memory hard limits.\n             -s Tables      Show the list of tables.\n             -s osfp        Show the list of operating system fingerprints.\n             -s Interfaces  Show the list of interfaces and interface drivers\n                            available to PF.  When used together with a double\n                            -v, interface statistics are also shown.  -i can\n                            be used to select an interface or a group of\n                            interfaces.\n             -s all         Show all of the above, except for the lists of\n                            interfaces and operating system fingerprints.\n\n     -T command [address ...]\n             Specify the command (may be abbreviated) to apply to the table.\n             Commands include:\n\n             -T kill       Kill a table.\n             -T flush      Flush all addresses of a table.\n             -T add        Add one or more addresses in a table.  Automati-\n                           cally create a nonexisting table.\n             -T delete     Delete one or more addresses from a table.\n             -T replace    Replace the addresses of the table.  Automatically\n                           create a nonexisting table.\n             -T show       Show the content (addresses) of a table.\n             -T test       Test if the given addresses match a table.\n             -T zero       Clear all the statistics of a table.\n             -T load       Load only the table definitions from pf.conf(5).\n                           This is used in conjunction with the -f flag, as\n                           in:\n\n                                 # pfctl -Tl -f pf.conf\n\n             For the add, delete, replace, and test commands, the list of\n             addresses can be specified either directly on the command line\n             and/or in an unformatted text file, using the -f flag.  Comments\n             starting with a `#' are allowed in the text file.  With these\n             commands, the -v flag can also be used once or twice, in which\n             case pfctl will print the detailed result of the operation for\n             each individual address, prefixed by one of the following let-\n             ters:\n\n             A    The address/network has been added.\n             C    The address/network has been changed (negated).\n             D    The address/network has been deleted.\n             M    The address matches (test operation only).\n             X    The address/network is duplicated and therefore ignored.\n             Y    The address/network cannot be added/deleted due to conflict-\n                  ing `!' attributes.\n             Z    The address/network has been cleared (statistics).\n\n             Each table maintains a set of counters that can be retrieved\n             using the -v flag of pfctl.  For example, the following commands\n             define a wide open firewall which will keep track of packets\n             going to or coming from the OpenBSD FTP server.  The following\n             commands configure the firewall and send 10 pings to the FTP\n             server:\n\n                   # printf \"table <test> { ftp.NetBSD.org }\\n \\\n                       pass out to <test> keep state\\n\" | pfctl -f-\n                   # ping -qc10 ftp.NetBSD.org\n\n             We can now use the table show command to output, for each address\n             and packet direction, the number of packets and bytes that are\n             being passed or blocked by rules referencing the table.  The time\n             at which the current accounting started is also shown with the\n             ``Cleared'' line.\n\n                   # pfctl -t test -vTshow\n                      129.128.5.191\n                       Cleared:     Thu Feb 13 18:55:18 2003\n                       In/Block:    [ Packets: 0        Bytes: 0        ]\n                       In/Pass:     [ Packets: 10       Bytes: 840      ]\n                       Out/Block:   [ Packets: 0        Bytes: 0        ]\n                       Out/Pass:    [ Packets: 10       Bytes: 840      ]\n\n             Similarly, it is possible to view global information about the\n             tables by using the -v modifier twice and the -s Tables command.\n             This will display the number of addresses on each table, the num-\n             ber of rules which reference the table, and the global packet\n             statistics for the whole table:\n\n                   # pfctl -vvsTables\n                   --a-r-  test\n                       Addresses:   1\n                       Cleared:     Thu Feb 13 18:55:18 2003\n                       References:  [ Anchors: 0        Rules: 1        ]\n                       Evaluations: [ NoMatch: 3496     Match: 1        ]\n                       In/Block:    [ Packets: 0        Bytes: 0        ]\n                       In/Pass:     [ Packets: 10       Bytes: 840      ]\n                       In/XPass:    [ Packets: 0        Bytes: 0        ]\n                       Out/Block:   [ Packets: 0        Bytes: 0        ]\n                       Out/Pass:    [ Packets: 10       Bytes: 840      ]\n                       Out/XPass:   [ Packets: 0        Bytes: 0        ]\n\n             As we can see here, only one packet - the initial ping request -\n             matched the table, but all packets passing as the result of the\n             state are correctly accounted for.  Reloading the table(s) or\n             ruleset will not affect packet accounting in any way.  The two\n             ``XPass'' counters are incremented instead of the ``Pass'' coun-\n             ters when a ``stateful'' packet is passed but doesn't match the\n             table anymore.  This will happen in our example if someone\n             flushes the table while the ping(8) command is running.\n\n             When used with a single -v, pfctl will only display the first\n             line containing the table flags and name.  The flags are defined\n             as follows:\n\n             c    For constant tables, which cannot be altered outside\n                  pf.conf(5).\n             p    For persistent tables, which don't get automatically killed\n                  when no rules refer to them.\n             a    For tables which are part of the active tableset.  Tables\n                  without this flag do not really exist, cannot contain\n                  addresses, and are only listed if the -g flag is given.\n             i    For tables which are part of the inactive tableset.  This\n                  flag can only be witnessed briefly during the loading of\n                  pf.conf(5).\n             r    For tables which are referenced (used) by rules.\n             h    This flag is set when a table in the main ruleset is hidden\n                  by one or more tables of the same name from anchors attached\n                  below it.\n\n     -t table\n             Specify the name of the table.\n\n     -v      Produce more verbose output.  A second use of -v will produce\n             even more verbose output including ruleset warnings.  See the\n             previous section for its effect on table commands.\n\n     -x level\n             Set the debug level (may be abbreviated) to one of the following:\n\n             -x none       Don't generate debug messages.\n             -x urgent     Generate debug messages only for serious errors.\n             -x misc       Generate debug messages for various errors.\n             -x loud       Generate debug messages for common conditions.\n\n     -z      Clear per-rule statistics.\n\nFILES\n     /etc/pf.conf  Packet filter rules file.\n     /etc/pf.os    Passive operating system fingerprint database.\n\nSEE ALSO\n     pf(4), pf.conf(5), pf.os(5), sysctl.conf(5), ftp-proxy(8),\n     rc(8), rc.conf(8), sysctl(8)\n\nHISTORY\n     The pfctl program and the pf(4) filter mechanism first appeared in\n     OpenBSD 3.0.\n\n\n",
+    "score": 0.1
+  },
+  {
+    "name": "network",
+    "version": "NAME=pfctl\nDESCRIPTION=Control the packet filter and network address translation device\nDATE=2012/06/20-13:38:43-EDT\nSTATE=stable\nHOST=gusbuild4\nUSER=builder\nVERSION=6.5.0\nTAGID=650SP1-166\nPFCTL(8)                                                              PFCTL(8)\n\nNAME\n     pfctl -- control the packet filter (PF) and network address translation\n     (NAT) device\n\nSYNOPSIS\n     pfctl [-AdeghNnOoqRrvz] [-a anchor] [-D macro=value] [-F modifier]\n           [-f file] [-i interface] [-k host] [-p device] [-s modifier] [-t\n           table -T command [address ...]] [-x level]\n\nDESCRIPTION\n     The pfctl utility communicates with the packet filter device using the\n     ioctl interface described in pf(4).  It allows ruleset and parameter con-\n     figuration and retrieval of status information from the packet filter.\n\n     Packet filtering restricts the types of packets that pass through network\n     interfaces entering or leaving the host based on filter rules as\n     described in pf.conf(5).  The packet filter can also replace addresses\n     and ports of packets.  Replacing source addresses and ports of outgoing\n     packets is called NAT (Network Address Translation) and is used to con-\n     nect an internal network (usually reserved address space) to an external\n     one (the Internet) by making all connections to external hosts appear to\n     come from the gateway.  Replacing destination addresses and ports of\n     incoming packets is used to redirect connections to different hosts\n     and/or ports.  A combination of both translations, bidirectional NAT, is\n     also supported.  Translation rules are described in pf.conf(5).\n\n     When the variable pf is set to YES in rc.conf.local(8), the rule file\n     specified with the variable pf_rules is loaded automatically by the rc(8)\n     scripts and the packet filter is enabled.\n\n     The packet filter does not itself forward packets between interfaces.\n     Forwarding can be enabled by setting the sysctl(8) variables\n     net.inet.ip.forwarding and/or net.inet6.ip6.forwarding to 1.  Set them\n     permanently in sysctl.conf(5).\n\n     The pfctl utility provides several commands.  The options are as follows:\n\n     -A      Load only the queue rules present in the rule file.  Other rules\n             and options are ignored.\n\n     -a anchor\n             Apply flags -f, -F, and -s only to the rules in the specified\n             anchor.  In addition to the main ruleset, pfctl can load and\n             manipulate additional rulesets by name, called anchors.  The main\n             ruleset is the default anchor.\n\n             Anchors are referenced by name and may be nested, with the vari-\n             ous components of the anchor path separated by `/' characters,\n             similar to how file system hierarchies are laid out.  The last\n             component of the anchor path is where ruleset operations are per-\n             formed.\n\n             Evaluation of anchor rules from the main ruleset is described in\n             pf.conf(5).\n\n             Private tables can also be put inside anchors, either by having\n             table statements in the pf.conf(5) file that is loaded in the\n             anchor, or by using regular table commands, as in:\n\n                   # pfctl -a foo/bar -t mytable -T add 1.2.3.4 5.6.7.8\n\n             When a rule referring to a table is loaded in an anchor, the rule\n             will use the private table if one is defined, and then fallback\n             to the table defined in the main ruleset, if there is one.  This\n             is similar to C rules for variable scope.  It is possible to cre-\n             ate distinct tables with the same name in the global ruleset and\n             in an anchor, but this is often bad design and a warning will be\n             issued in that case.\n\n     -D macro=value\n             Define macro to be set to value on the command line.  Overrides\n             the definition of macro in the ruleset.\n\n     -d      Disable the packet filter.\n\n     -e      Enable the packet filter.\n\n     -F modifier\n             Flush the filter parameters specified by modifier (may be abbre-\n             viated):\n\n             -F nat        Flush the NAT rules.\n             -F queue      Flush the queue rules.\n             -F rules      Flush the filter rules.\n             -F state      Flush the state table (NAT and filter).\n             -F Sources    Flush the source tracking table.\n             -F info       Flush the filter information (statistics that are\n                           not bound to rules).\n             -F Tables     Flush the tables.\n             -F osfp       Flush the passive operating system fingerprints.\n             -F all        Flush all of the above.\n\n     -f file\n             Load the rules contained in file.  This file may contain macros,\n             tables, options, and normalization, queueing, translation, and\n             filtering rules.  With the exception of macros and tables, the\n             statements must appear in that order.\n\n     -g      Include output helpful for debugging.\n\n     -h      Help.\n\n     -i interface\n             Restrict the operation to the given interface.\n\n     -k host\n             Kill all of the state entries originating from the specified\n             host.  A second -k host option may be specified, which will kill\n             all the state entries from the first host to the second host.\n             For example, to kill all of the state entries originating from\n             host:\n\n                   # pfctl -k host\n\n             To kill all of the state entries from host1 to host2:\n\n                   # pfctl -k host1 -k host2\n\n     -N      Load only the NAT rules present in the rule file.  Other rules\n             and options are ignored.\n\n     -n      Do not actually load rules, just parse them.\n\n     -O      Load only the options present in the rule file.  Other rules and\n             options are ignored.\n\n     -o      Enable the ruleset optimizer.  The ruleset optimizer attempts to\n             improve rulesets by removing rule duplication and making better\n             use of rule ordering.  Specifically, it does four things:\n\n             1.   remove duplicate rules\n             2.   remove rules that are a subset of another rule\n             3.   combine multiple rules into a table when advantageous\n             4.   re-order the rules to improve evaluation performance\n\n             A second -o may be specified to use the currently loaded ruleset\n             as a feedback profile to tailor the optimization of the quick\n             rules to the actual network behavior.\n\n             It is important to note that the ruleset optimizer will modify\n             the ruleset to improve performance.  A side effect of the ruleset\n             modification is that per-rule accounting statistics will have\n             different meanings than before.  If per-rule accounting is impor-\n             tant for billing purposes or whatnot, either the ruleset opti-\n             mizer should not be used or a label field should be added to all\n             of the accounting rules to act as optimization barriers.\n\n     -p device\n             Use the device file device instead of the default /dev/pf.\n\n     -q      Only print errors and warnings.\n\n     -R      Load only the filter rules present in the rule file.  Other rules\n             and options are ignored.\n\n     -r      Perform reverse DNS lookups on states when displaying them.\n\n     -s modifier\n             Show the filter parameters specified by modifier (may be abbrevi-\n             ated):\n\n             -s nat         Show the currently loaded NAT rules.\n             -s queue       Show the currently loaded queue rules.  When used\n                            together with -v, per-queue statistics are also\n                            shown.  When used together with -v -v, pfctl will\n                            loop and show updated queue statistics every five\n                            seconds, including measured bandwidth and packets\n                            per second.\n             -s rules       Show the currently loaded filter rules.  When used\n                            together with -v, the per-rule statistics (number\n                            of evaluations, packets and bytes) are also shown.\n                            Note that the ``skip step'' optimization done\n                            automatically by the kernel will skip evaluation\n                            of rules where possible.  Packets passed state-\n                            fully are counted in the rule that created the\n                            state (even though the rule isn't evaluated more\n                            than once for the entire connection).\n             -s Anchors     Show the currently loaded anchors directly\n                            attached to the main ruleset.  If -a anchor is\n                            specified as well, the anchors loaded directly\n                            below the given anchor are shown instead.  If -v\n                            is specified, all anchors attached under the tar-\n                            get anchor will be displayed recursively.\n             -s state       Show the contents of the state table.\n             -s Sources     Show the contents of the source tracking table.\n             -s info        Show filter information (statistics and counters).\n                            When used together with -v, source tracking sta-\n                            tistics are also shown.\n             -s labels      Show per-rule statistics (label, evaluations,\n                            packets, bytes) of filter rules with labels, use-\n                            ful for accounting.\n             -s timeouts    Show the current global timeouts.\n             -s memory      Show the current pool memory hard limits.\n             -s Tables      Show the list of tables.\n             -s osfp        Show the list of operating system fingerprints.\n             -s Interfaces  Show the list of interfaces and interface drivers\n                            available to PF.  When used together with a double\n                            -v, interface statistics are also shown.  -i can\n                            be used to select an interface or a group of\n                            interfaces.\n             -s all         Show all of the above, except for the lists of\n                            interfaces and operating system fingerprints.\n\n     -T command [address ...]\n             Specify the command (may be abbreviated) to apply to the table.\n             Commands include:\n\n             -T kill       Kill a table.\n             -T flush      Flush all addresses of a table.\n             -T add        Add one or more addresses in a table.  Automati-\n                           cally create a nonexisting table.\n             -T delete     Delete one or more addresses from a table.\n             -T replace    Replace the addresses of the table.  Automatically\n                           create a nonexisting table.\n             -T show       Show the content (addresses) of a table.\n             -T test       Test if the given addresses match a table.\n             -T zero       Clear all the statistics of a table.\n             -T load       Load only the table definitions from pf.conf(5).\n                           This is used in conjunction with the -f flag, as\n                           in:\n\n                                 # pfctl -Tl -f pf.conf\n\n             For the add, delete, replace, and test commands, the list of\n             addresses can be specified either directly on the command line\n             and/or in an unformatted text file, using the -f flag.  Comments\n             starting with a `#' are allowed in the text file.  With these\n             commands, the -v flag can also be used once or twice, in which\n             case pfctl will print the detailed result of the operation for\n             each individual address, prefixed by one of the following let-\n             ters:\n\n             A    The address/network has been added.\n             C    The address/network has been changed (negated).\n             D    The address/network has been deleted.\n             M    The address matches (test operation only).\n             X    The address/network is duplicated and therefore ignored.\n             Y    The address/network cannot be added/deleted due to conflict-\n                  ing `!' attributes.\n             Z    The address/network has been cleared (statistics).\n\n             Each table maintains a set of counters that can be retrieved\n             using the -v flag of pfctl.  For example, the following commands\n             define a wide open firewall which will keep track of packets\n             going to or coming from the OpenBSD FTP server.  The following\n             commands configure the firewall and send 10 pings to the FTP\n             server:\n\n                   # printf \"table <test> { ftp.NetBSD.org }\\n \\\n                       pass out to <test> keep state\\n\" | pfctl -f-\n                   # ping -qc10 ftp.NetBSD.org\n\n             We can now use the table show command to output, for each address\n             and packet direction, the number of packets and bytes that are\n             being passed or blocked by rules referencing the table.  The time\n             at which the current accounting started is also shown with the\n             ``Cleared'' line.\n\n                   # pfctl -t test -vTshow\n                      129.128.5.191\n                       Cleared:     Thu Feb 13 18:55:18 2003\n                       In/Block:    [ Packets: 0        Bytes: 0        ]\n                       In/Pass:     [ Packets: 10       Bytes: 840      ]\n                       Out/Block:   [ Packets: 0        Bytes: 0        ]\n                       Out/Pass:    [ Packets: 10       Bytes: 840      ]\n\n             Similarly, it is possible to view global information about the\n             tables by using the -v modifier twice and the -s Tables command.\n             This will display the number of addresses on each table, the num-\n             ber of rules which reference the table, and the global packet\n             statistics for the whole table:\n\n                   # pfctl -vvsTables\n                   --a-r-  test\n                       Addresses:   1\n                       Cleared:     Thu Feb 13 18:55:18 2003\n                       References:  [ Anchors: 0        Rules: 1        ]\n                       Evaluations: [ NoMatch: 3496     Match: 1        ]\n                       In/Block:    [ Packets: 0        Bytes: 0        ]\n                       In/Pass:     [ Packets: 10       Bytes: 840      ]\n                       In/XPass:    [ Packets: 0        Bytes: 0        ]\n                       Out/Block:   [ Packets: 0        Bytes: 0        ]\n                       Out/Pass:    [ Packets: 10       Bytes: 840      ]\n                       Out/XPass:   [ Packets: 0        Bytes: 0        ]\n\n             As we can see here, only one packet - the initial ping request -\n             matched the table, but all packets passing as the result of the\n             state are correctly accounted for.  Reloading the table(s) or\n             ruleset will not affect packet accounting in any way.  The two\n             ``XPass'' counters are incremented instead of the ``Pass'' coun-\n             ters when a ``stateful'' packet is passed but doesn't match the\n             table anymore.  This will happen in our example if someone\n             flushes the table while the ping(8) command is running.\n\n             When used with a single -v, pfctl will only display the first\n             line containing the table flags and name.  The flags are defined\n             as follows:\n\n             c    For constant tables, which cannot be altered outside\n                  pf.conf(5).\n             p    For persistent tables, which don't get automatically killed\n                  when no rules refer to them.\n             a    For tables which are part of the active tableset.  Tables\n                  without this flag do not really exist, cannot contain\n                  addresses, and are only listed if the -g flag is given.\n             i    For tables which are part of the inactive tableset.  This\n                  flag can only be witnessed briefly during the loading of\n                  pf.conf(5).\n             r    For tables which are referenced (used) by rules.\n             h    This flag is set when a table in the main ruleset is hidden\n                  by one or more tables of the same name from anchors attached\n                  below it.\n\n     -t table\n             Specify the name of the table.\n\n     -v      Produce more verbose output.  A second use of -v will produce\n             even more verbose output including ruleset warnings.  See the\n             previous section for its effect on table commands.\n\n     -x level\n             Set the debug level (may be abbreviated) to one of the following:\n\n             -x none       Don't generate debug messages.\n             -x urgent     Generate debug messages only for serious errors.\n             -x misc       Generate debug messages for various errors.\n             -x loud       Generate debug messages for common conditions.\n\n     -z      Clear per-rule statistics.\n\nFILES\n     /etc/pf.conf  Packet filter rules file.\n     /etc/pf.os    Passive operating system fingerprint database.\n\nSEE ALSO\n     pf(4), pf.conf(5), pf.os(5), sysctl.conf(5), ftp-proxy(8),\n     rc(8), rc.conf(8), sysctl(8)\n\nHISTORY\n     The pfctl program and the pf(4) filter mechanism first appeared in\n     OpenBSD 3.0.\n\n\n",
+    "score": 0.1
+  },
+  {
+    "name": "socket",
+    "version": "NAME=sysctl\nDESCRIPTION=Get or set socket manager operating parameters\nDATE=2010/07/09-13:50:36-EDT\nSTATE=stable\nHOST=mainbuild\nUSER=builder\nVERSION=6.5.0\nTAGID=89\nsysctl - get or set socket manager state\n\nsysctl [-n] variable ...\nsysctl [-n] -w variable=value ...\nsysctl [-n] -a\nsysctl [-n] -A\n",
+    "score": 0.1
+  },
+  {
+    "name": "inet",
+    "version": "192.168.2.1",
+    "score": 0.3
+  },
+  {
+    "name": "addresses",
+    "version": "NAME=ifwatchd\nDESCRIPTION=watch for addresses added to or deleted from interfaces and call up/down scripts for them\nDATE=2012/06/20-13:38:34-EDT\nSTATE=stable\nHOST=gusbuild4\nUSER=builder\nVERSION=6.5.0\nTAGID=650SP1-166\n\nifwatchd: watch for addresses added to or deleted from interfaces \n          and call up/down scripts for them\n\nusage:\n        ifwatchd [-hiqv] [-A arrival-script] [-D departure-script]\n                  [-d down-script] [-u up-script]\n                  [-c carrier-script] [-n no-carrier-script] ifname(s)\n        where:\n         -A <cmd> specify command to run on interface arrival event\n         -c <cmd> specify command to run on interface carrier-detect event\n         -D <cmd> specify command to run on interface departure event\n         -d <cmd> specify command to run on interface down event\n         -n <cmd> specify command to run on interface no-carrier-detect event\n         -h       show this help message\n         -i       no (!) initial run of the up script if the interface\n                  is already up on ifwatchd startup\n         -q       quiet mode, don't syslog informational messages\n         -u <cmd> specify command to run on interface up event\n         -v       verbose/debug output, don't run in background\n\n",
+    "score": 0.1
+  },
+  {
+    "name": "watch",
+    "version": "NAME=ifwatchd\nDESCRIPTION=watch for addresses added to or deleted from interfaces and call up/down scripts for them\nDATE=2012/06/20-13:38:34-EDT\nSTATE=stable\nHOST=gusbuild4\nUSER=builder\nVERSION=6.5.0\nTAGID=650SP1-166\n\nifwatchd: watch for addresses added to or deleted from interfaces \n          and call up/down scripts for them\n\nusage:\n        ifwatchd [-hiqv] [-A arrival-script] [-D departure-script]\n                  [-d down-script] [-u up-script]\n                  [-c carrier-script] [-n no-carrier-script] ifname(s)\n        where:\n         -A <cmd> specify command to run on interface arrival event\n         -c <cmd> specify command to run on interface carrier-detect event\n         -D <cmd> specify command to run on interface departure event\n         -d <cmd> specify command to run on interface down event\n         -n <cmd> specify command to run on interface no-carrier-detect event\n         -h       show this help message\n         -i       no (!) initial run of the up script if the interface\n                  is already up on ifwatchd startup\n         -q       quiet mode, don't syslog informational messages\n         -u <cmd> specify command to run on interface up event\n         -v       verbose/debug output, don't run in background\n\n",
+    "score": 0.1
+  },
+  {
+    "name": "VERSION",
+    "version": "20.26.21",
+    "score": 0.3
+  },
+  {
+    "name": "version",
+    "version": "1.2.8",
+    "score": 0.3
+  },
+  {
+    "name": "deflate",
+    "version": "1.2.3",
+    "score": 0.3
+  },
+  {
+    "name": "exceeding",
+    "version": "21474.83",
+    "score": 0.3
+  },
+  {
+    "name": "copyright",
+    "version": " 1.2.8 ",
+    "score": 0.2
+  },
+  {
+    "name": "network",
+    "version": "NAME=ifconfig\nDESCRIPTION=Utility for configuring network interfaces\nDATE=2012/06/20-13:38:32-EDT\nSTATE=stable\nHOST=gusbuild4\nUSER=builder\nVERSION=6.5.0\nTAGID=650SP1-166\nNAME\n     ifconfig -- configure network interface parameters\n\nSYNOPSIS\n     ifconfig interface address_family [address [dest_address]] [parameters]\n     ifconfig [-hLmvz] interface [protocol_family]\n     ifconfig -a [-bdhLmsuvz] [protocol_family]\n     ifconfig -l [-bdsu]\n     ifconfig -s interface\n     ifconfig -C\n\nDESCRIPTION\n     ifconfig is used to assign an address to a network interface and/or con-\n     figure network interface parameters.  ifconfig must be used at boot time\n     to define the network address of each interface present on a machine; it\n     may also be used at a later time to redefine an interface's address or\n     other operating parameters.\n\n     Available operands for ifconfig:\n\n     address\n             For the DARPA-Internet family, the address is either a host name\n             present in the host name data base, hosts(5), or a DARPA Internet\n             address expressed in the Internet standard ``dot notation''.  For\n             the Xerox Network Systems(tm) family, addresses are\n             net:a.b.c.d.e.f, where net is the assigned network number (in\n             decimal), and each of the six bytes of the host number, a through\n             f, are specified in hexadecimal.  The host number may be omitted\n             on Ethernet interfaces, which use the hardware physical address,\n             and on interfaces other than the first.  For the ISO family,\n             addresses are specified as a long hexadecimal string, as in the\n             Xerox family.  However, two consecutive dots imply a zero byte,\n             and the dots are optional, if the user wishes to (carefully)\n             count out long strings of digits in network byte order.\n\n     address_family\n             Specifies the address_family which affects interpretation of the\n             remaining parameters.  Since an interface can receive transmis-\n             sions in differing protocols with different naming schemes, spec-\n             ifying the address family is recommended.  The address or proto-\n             col families currently supported are ``inet'', ``inet6'',\n             ``atalk'', ``iso'', and ``ns''.\n\n     interface\n             The interface parameter is a string of the form ``name unit'',\n             for example, ``en0''\n\n     The following parameters may be set with ifconfig:\n\n     advbase n       If the driver is a carp(4) pseudo-device, set the base\n                     advertisement interval to n seconds.  This ia an 8-bit\n                     number; the default value is 1 second.\n\n     advskew n       If the driver is a carp(4) pseudo-device, skew the adver-\n                     tisement interval by n.  This is an 8-bit number; the\n                     default value is 0.\n\n                     Taken together the advbase indicate how frequently, in\n                     seconds, the host will advertise the fact that it consid-\n                     ers itself the master of the virtual host.  The formula\n                     is advbase + (advskew / 256).  If the master does not\n                     advertise within three times this interval, this host\n                     will begin advertising as master.\n\n     alias           Establish an additional network address for this inter-\n                     face.  This is sometimes useful when changing network\n                     numbers, and one wishes to accept packets addressed to\n                     the old interface.\n\n     -alias          Remove the specified network address alias.\n\n     arp             Enable the use of the Address Resolution Protocol in map-\n                     ping between network level addresses and link level\n                     addresses (default).  This is currently implemented for\n                     mapping between DARPA Internet addresses and Ethernet\n                     addresses.\n\n     -arp            Disable the use of the Address Resolution Protocol.\n\n     anycast         (inet6 only) Set the IPv6 anycast address bit.\n\n     -anycast        (inet6 only) Clear the IPv6 anycast address bit.\n\n     broadcast mask  (Inet only) Specify the address to use to represent\n                     broadcasts to the network.  The default broadcast address\n                     is the address with a host part of all 1's.\n\n     carpdev iface   If the driver is a carp(4) pseudo-device, attach it to\n                     iface. If not specified, the kernel will attempt to\n                     select an interface with a subnet matching that of the\n                     carp interface.\n\n     debug           Enable driver dependent debugging code; usually, this\n                     turns on extra console error logging.\n\n     -debug          Disable driver dependent debugging code.\n\n     delete          Remove the network address specified.  This would be used\n                     if you incorrectly specified an alias, or it was no\n                     longer needed.  If you have incorrectly set an NS address\n                     having the side effect of specifying the host portion,\n                     removing all NS addresses will allow you to respecify the\n                     host portion.  delete does not work for IPv6 addresses.\n                     Use -alias with explicit IPv6 address instead.\n\n     dest_address    Specify the address of the correspondent on the other end\n                     of a point to point link.\n\n     down            Mark an interface ``down''.  When an interface is marked\n                     ``down'', the system will not attempt to transmit mes-\n                     sages through that interface.  If possible, the interface\n                     will be reset to disable reception as well.  This action\n                     does not automatically disable routes using the inter-\n                     face.\n\n     ipdst           This is used to specify an Internet host who is willing\n                     to receive IP packets encapsulating NS packets bound for\n                     a remote network.  An apparent point to point link is\n                     constructed, and the address specified will be taken as\n                     the NS address and network of the destination.  IP encap-\n                     sulation of CLNP packets is done differently.\n\n     media type      Set the media type of the interface to type.  Some inter-\n                     faces support the mutually exclusive use of one of sev-\n                     eral different physical media connectors.  For example, a\n                     10Mb/s Ethernet interface might support the use of either\n                     AUI or twisted pair connectors.  Setting the media type\n                     to ``10base5'' or ``AUI'' would change the currently\n                     active connector to the AUI port.  Setting it to\n                     ``10baseT'' or ``UTP'' would activate twisted pair.\n                     Refer to the interfaces' driver specific man page for a\n                     complete list of the available types.\n\n     mediaopt opts   Set the specified media options on the interface.  opts\n                     is a comma delimited list of options to apply to the\n                     interface.  Refer to the interfaces' driver specific man\n                     page for a complete list of available options.\n\n     -mediaopt opts  Disable the specified media options on the interface.\n\n     mode mode       If the driver supports the media selection system, set\n                     the specified operating mode on the interface to mode.\n                     For IEEE 802.11 wireless interfaces that support multiple\n                     operating modes this directive is used to select between\n                     802.11a (``11a''), 802.11b (``11b''), and 802.11g\n                     (``11g'') operating modes.\n\n     instance minst  Set the media instance to minst.  This is useful for\n                     devices which have multiple physical layer interfaces\n                     (PHYs).  Setting the instance on such devices may not be\n                     strictly required by the network interface driver as the\n                     driver may take care of this automatically; see the\n                     driver's manual page for more information.\n\n     metric n        Set the routing metric of the interface to n, default 0.\n                     The routing metric is used by the routing protocol\n                     (routed(8)).  Higher metrics have the effect of making a\n                     route less favorable; metrics are counted as addition\n                     hops to the destination network or host.\n\n     mtu n           Set the maximum transmission unit of the interface to n.\n                     Most interfaces don't support this option.\n\n     netmask mask    (inet, inet6, and ISO) Specify how much of the address to\n                     reserve for subdividing networks into sub-networks.  The\n                     mask includes the network part of the local address and\n                     the subnet part, which is taken from the host field of\n                     the address.  The mask can be specified as a single hexa-\n                     decimal number with a leading 0x, with a dot-notation\n                     Internet address, or with a pseudo-network name listed in\n                     the network table networks(5).  The mask contains 1's for\n                     the bit positions in the 32-bit address which are to be\n                     used for the network and subnet parts, and 0's for the\n                     host part.  The mask should contain at least the standard\n                     network portion, and the subnet field should be contigu-\n                     ous with the network portion.\n\n                     For INET and INET6 addresses, the netmask can also be\n                     given with slash-notation after the address (e.g\n                     192.168.17.3/24).\n\n     nsellength n    (ISO only) This specifies a trailing number of bytes for\n                     a received NSAP used for local identification, the\n                     remaining leading part of which is taken to be the NET\n                     (Network Entity Title).  The default value is 1, which is\n                     conformant to US GOSIP.  When an ISO address is set in an\n                     ifconfig command, it is really the NSAP which is being\n                     specified.  For example, in US GOSIP, 20 hex digits\n                     should be specified in the ISO NSAP to be assigned to the\n                     interface.  There is some evidence that a number differ-\n                     ent from 1 may be useful for AFI 37 type addresses.\n\n     state state     Explicitly force the carp(4) pseudo-device to enter this\n                     state.  Valid states are init, backup, and master.\n\n     ssid id         (IEEE 802.11 devices only) Configure the Service Set\n                     Identifier (a.k.a. the network name) for IEEE\n                     802.11-based wireless network interfaces.  The id can\n                     either be any text string up to 32 characters in length,\n                     or a series of up to 64 hexadecimal digits preceded by\n                     ``0x''.  Setting id to the empty string allows the inter-\n                     face to connect to any available access point.\n\n     nwid id         Synonym for ``ssid''.\n\n     hidessid        (IEEE 802.11 devices only) When operating as an access\n                     point, do not broadcast the SSID in beacon frames or\n                     respond to probe request frames unless they are directed\n                     to the ap (i.e., they include the ap's SSID).  By\n                     default, the SSID is included in beacon frames and undi-\n                     rected probe request frames are answered.\n\n     -hidessid       (IEEE 802.11 devices only) When operating as an access\n                     point, broadcast the SSID in beacon frames and answer and\n                     respond to undirected probe request frames (default).\n\n     nwkey key       (IEEE 802.11 devices only) Enable WEP encryption for IEEE\n                     802.11-based wireless network interfaces with the key.\n                     The key can either be a string, a series of hexadecimal\n                     digits preceded by ``0x'', or a set of keys in the form\n                     n:k1,k2,k3,k4, where n specifies which of keys will be\n                     used for all transmitted packets, and four keys, k1\n                     through k4, are configured as WEP keys.  Note that the\n                     order must be match within same network if multiple keys\n                     are used.  For IEEE 802.11 wireless network, the length\n                     of each key is restricted to 40 bits, i.e. 5-character\n                     string or 10 hexadecimal digits, while the WaveLAN/IEEE\n                     Gold cards accept the 104 bits (13 characters) key.\n\n     nwkey persist   (IEEE 802.11 devices only) Enable WEP encryption for IEEE\n                     802.11-based wireless network interfaces with the persis-\n                     tent key written in the network card.\n\n     nwkey persist:key\n                     (IEEE 802.11 devices only) Write the key to the persis-\n                     tent memory of the network card, and enable WEP encryp-\n                     tion for IEEE 802.11-based wireless network interfaces\n                     with the key.\n\n     -nwkey          (IEEE 802.11 devices only) Disable WEP encryption for\n                     IEEE 802.11-based wireless network interfaces.\n\n     apbridge        (IEEE 802.11 devices only) When operating as an access\n                     point, pass packets between wireless clients directly\n                     (default).\n\n     -apbridge       (IEEE 802.11 devices only) When operating as an access\n                     point, pass packets through the system so that they can\n                     be forwarded using some other mechanism.  Disabling the\n                     internal bridging is useful when traffic is to be pro-\n                     cessed with packet filtering.\n\n     pass passphrase\n                     If the driver is a carp(4) pseudo-device, set the authen-\n                     tication key to passphrase.  There is no passphrase by\n                     default\n\n     powersave       (IEEE 802.11 devices only) Enable 802.11 power saving\n                     mode.\n\n     -powersave      (IEEE 802.11 devices only) Disable 802.11 power saving\n                     mode.\n\n     powersavesleep duration\n                     (IEEE 802.11 devices only) Set the receiver sleep dura-\n                     tion in milliseconds for 802.11 power saving mode.\n\n     bssid bssid     (IEEE 802.11 devices only) Set the desired BSSID for IEEE\n                     802.11-based wireless network interfaces.\n\n     -bssid          (IEEE 802.11 devices only) Unset the desired BSSID for\n                     IEEE 802.11-based wireless network interfaces.  The\n                     interface will automatically select a BSSID in this mode,\n                     which is the default.\n\n     chan chan       (IEEE 802.11 devices only) Select the channel (radio\n                     frequency) to be used for IEEE 802.11-based wireless net-\n                     work interfaces.\n\n     -chan           (IEEE 802.11 devices only) Unset the desired channel to\n                     be used for IEEE 802.11-based wireless network inter-\n                     faces.  It doesn't affect the channel to be created for\n                     IBSS or hostap mode.\n     tunnel src_addr[,src_port] dest_addr[,dest_port] (IP tunnel devices only)\n                     Configure the physical source and destination address for\n                     IP tunnel interfaces, including gif(4).  The arguments\n                     src_addr and dest_addr are interpreted as the outer\n                     source/destination for the encapsulating IPv4/IPv6\n                     header.\n\n                     On a gre(4) interface in UDP mode, the arguments src_port\n                     and dest_port are interpreted as the outer source/desti-\n                     nation port for the encapsulating UDP header.\n\n     deletetunnel    Unconfigure the physical source and destination address\n                     for IP tunnel interfaces previously configured with\n                     tunnel.\n\n     create          Create the specified network pseudo-device.\n\n     destroy         Destroy the specified network pseudo-device.\n\n     pltime n        (inet6 only) Set preferred lifetime for the address.\n\n     prefixlen n     (inet and inet6 only) Effect is similar to netmask.  but\n                     you can specify by prefix length by digits.\n\n     deprecated      (inet6 only) Set the IPv6 deprecated address bit.\n\n     -deprecated     (inet6 only) Clear the IPv6 deprecated address bit.\n\n     tentative       (inet6 only) Set the IPv6 tentative address bit.\n\n     -tentative      (inet6 only) Clear the IPv6 tentative address bit.\n\n     eui64           (inet6 only) Fill interface index (lowermost 64bit of an\n                     IPv6 address) automatically.\n\n     link[0-2]       Enable special processing of the link level of the inter-\n                     face.  These three options are interface specific in\n                     actual effect, however, they are in general used to\n                     select special modes of operation.  An example of this is\n                     to enable SLIP compression, or to select the connector\n                     type for some Ethernet cards.  Refer to the man page for\n\n                     the specific driver for more information.\n\n     -link[0-2]      Disable special processing at the link level with the\n                     specified interface.\n\n     up              Mark an interface ``up''.  This may be used to enable an\n                     interface after an ``ifconfig down.''  It happens auto-\n                     matically when setting the first address on an interface.\n                     If the interface was reset when previously marked down,\n                     the hardware will be re-initialized.\n\n     vhid n          If the driver is a carp(4) pseudo-device, set the virtual\n                     host ID to n.  Acceptable values are 1 to 255.\n\n     vlan tag        If the interface is a vlan(4) pseudo-interface, set the\n                     VLAN tag to tag.  This is a 16-bit number which is used\n                     to create an 802.1Q VLAN header for packets sent from the\n                     vlan(4) interface.  Note that vlan and vlanif must be set\n                     at the same time.\n\n     vlanif iface    If the interface is a vlan(4) pseudo-interface, associate\n                     the physical interface iface with it.  Packets transmit-\n                     ted through the vlan(4) interface will be diverted to the\n                     specified physical interface iface with 802.1Q VLAN\n                     encapsulation.  Packets with 802.1Q encapsulation\n                     received by the physical interface with the correct VLAN\n                     tag will be diverted to the associated vlan(4) pseudo-\n                     interface.  The VLAN interface is assigned a copy of the\n                     physical interface's flags and Ethernet address.  If the\n                     vlan(4) interface already has a physical interface asso-\n                     ciated with it, this command will fail.  To change the\n                     association to another physical interface, the existing\n                     association must be cleared first.  Note that vlanif and\n                     vlan must be set at the same time.\n\n     agrport iface   Add iface to the agr(4) interface.\n\n     -agrport iface  Remove iface from the agr(4) interface.\n\n     vltime n        (inet6 only) Set valid lifetime for the address.\n\n     ip4csum         Shorthand of ``ip4csum-tx ip4csum-rx''\n\n     -ip4csum        Shorthand of ``-ip4csum-tx -ip4csum-rx''\n\n     tcp4csum        Shorthand of ``tcp4csum-tx tcp4csum-rx''\n\n     -tcp4csum       Shorthand of ``-tcp4csum-tx -tcp4csum-rx''\n\n     udp4csum        Shorthand of ``udp4csum-tx udp4csum-rx''\n\n     -udp4csum       Shorthand of ``-udp4csum-tx -udp4csum-rx''\n\n     tcp6csum        Shorthand of ``tcp6csum-tx tcp6csum-rx''\n\n     -tcp6csum       Shorthand of ``-tcp6csum-tx -tcp6csum-rx''\n\n     udp6csum        Shorthand of ``udp6csum-tx udp6csum-rx''\n\n     -udp6csum       Shorthand of ``-udp6csum-tx -udp6csum-rx''\n\n     ip4csum-tx      Enable hardware-assisted IPv4 header checksums for the\n                     out-bound direction.\n\n     -ip4csum-tx     Disable hardware-assisted IPv4 header checksums for the\n                     out-bound direction.\n\n     ip4csum-rx      Enable hardware-assisted IPv4 header checksums for the\n                     in-bound direction.\n\n     -ip4csum-rx     Disable hardware-assisted IPv4 header checksums for the\n                     in-bound direction.\n\n     tcp4csum-tx     Enable hardware-assisted TCP/IPv4 checksums for the out-\n                     bound direction.\n\n     -tcp4csum-tx    Disable hardware-assisted TCP/IPv4 checksums for the out-\n                     bound direction.\n\n     tcp4csum-rx     Enable hardware-assisted TCP/IPv4 checksums for the in-\n                     bound direction.\n\n     -tcp4csum-rx    Disable hardware-assisted TCP/IPv4 checksums for the in-\n                     bound direction.\n\n     udp4csum-tx     Enable hardware-assisted UDP/IPv4 checksums for the out-\n                     bound direction.\n\n     -udp4csum-tx    Disable hardware-assisted UDP/IPv4 checksums for the out-\n                     bound direction.\n\n     udp4csum-rx     Enable hardware-assisted UDP/IPv4 checksums for the in-\n                     bound direction.\n\n     -udp4csum-rx    Disable hardware-assisted UDP/IPv4 checksums for the in-\n                     bound direction.\n\n     tcp6csum-tx     Enable hardware-assisted TCP/IPv6 checksums for the out-\n                     bound direction.\n\n     -tcp6csum-tx    Disable hardware-assisted TCP/IPv6 checksums for the out-\n                     bound direction.\n\n     tcp6csum-rx     Enable hardware-assisted TCP/IPv6 checksums for the in-\n                     bound direction.\n\n     -tcp6csum-rx    Disable hardware-assisted TCP/IPv6 checksums for the in-\n                     bound direction.\n\n     udp6csum-tx     Enable hardware-assisted UDP/IPv6 checksums for the out-\n                     bound direction.\n\n     -udp6csum-tx    Disable hardware-assisted UDP/IPv6 checksums for the out-\n                     bound direction.\n\n     udp6csum-rx     Enable hardware-assisted UDP/IPv6 checksums for the in-\n                     bound direction.\n\n     -udp6csum-rx    Disable hardware-assisted UDP/IPv6 checksums for the in-\n                     bound direction.\n\n     tso4            Enable hardware-assisted TCP/IPv4 segmentation on inter-\n                     faces that support it.\n\n     -tso4           Disable hardware-assisted TCP/IPv4 segmentation on inter-\n                     faces that support it.\n\n     The following parameters are specific to IEEE 802.11 wireless interfaces:\n     list active\n                   Display the list of channels available for use taking into\n                   account any restrictions set with the chanlist directive.\n                   See the description of list chan for more information.\n\n     list caps\n                   Display the adaptor's capabilities, including the \n                   operating modes supported.\n\n     list chan\n                   Display the list of channels available for use. Channels \n                   are shown with their IEEE channel number, equivalent \n                   frequency, and usage modes. Channels identified as `11g' \n                   are also usable in `11b' mode. Channels identified as \n                   `11a Turbo' may be used only for Atheros' Static Turbo \n                   mode (specified with mediaopt turbo). Channels marked \n                   with a `*' have a regulatory constraint that they be \n                   passively scanned. This means a station is not permitted\n                   to transmit on the channel until it identifies the \n                   channel is being used for 802.11 communication; typically \n                   by hearing a beacon frame from an access point operating \n                   on the channel. list freq is another way of requesting \n                   this information.\n     list mac\n                   Display the current MAC Access Control List state. \n                   Each address is prefixed with a character that indicates \n                   the current policy applied to it: `+' indicates the \n                   address is allowed access, `-' indicates the address is \n                   denied access, `*' indicates the address is present but \n                   the current policy open (so the ACL is not consulted).\n\n     list scan\n                   Display the access points and/or ad-hoc neighbors located\n                   in the vicinity. The -v flag may be used to display long \n                   SSIDs. This information may be updated automatically by \n                   the adaptor and/or with a scan request. list ap is \n                   another way of requesting this information.\n\n     list sta\n                   When operating as an access point display the stations \n                   that are currently associated. When operating in ad-hoc \n                   mode display stations identified as neighbors in the IBSS.  \n                   Capabilities advertised by the stations are described \n                   under the scan request. Depending on the capabilities of\n                   the stations the following flags can be included in \n                   the output:\n\n                    A      Authorized. Indicates that the station is \n                           permitted to send/receive data frames.\n\n                    E      Extended Rate Phy (ERP). Indicates that the \n                           station is operating in an 802.11g network using \n                           extended transmit rates.\n\n                    P      Power Save. Indicates that the station is \n                           operating in power save mode.\n\n                    Q      Quality of Service (QoS). Indicates that the \n                           station is using QoS encapsulation for data frame. \n                           QoS encapsulation is enabled only when WME mode \n                           is enabled.\n\n     list wme\n                    Display the current parameters to use when operating \n                    in WME mode. When WME mode is enabled for an adaptor this \n                    information will be displayed with the regular status; \n                    this command is mostly useful for examining parameters \n                    when WME mode is disabled. See the description of the wme\n                    directive for information on the various parameters.\n\n     scan    \n                    Initiate a scan of neighboring stations, wait for it to \n                    complete, and display all stations found. Only the \n                    super-user can initiate a scan. Depending on the \n                    capabilities of the APs, the following flags can be \n                    included in the output:\n\n                    E      Extended Service Set (ESS). Indicates that the \n                           station is part of an infrastructure network \n                           (in contrast to an IBSS/ad-hoc network).\n\n                    I      IBSS/ad-hoc network. Indicates that the station is\n                           part of an ad-hoc network (in contrast to an ESS \n                           network).\n\n                    P      Privacy. Data confidentiality is required for all \n                           data frames exchanged within the BSS. This means \n                           that this BSS requires the station to use \n                           cryptographic means such as WEP, TKIP or AES-CCMP \n                           to encrypt/decrypt data frames being exchanged \n                           with others.\n\n                    S      Short Preamble. Indicates that the network is \n                           using short preambles (defined in 802.11b High \n                           Rate/DSSS PHY, short preamble utilizes a 56 bit \n                           sync field in contrast to a 128 bit field used \n                           in long preamble mode).\n\n                    s      Short slot time. Indicates that the network is \n                           using a short slot time.\n\n                    The list scan request can be used to show recent scan \n                    results without initiating a new scan.\n\n                    The -v flag may be used to prevent the shortening of \n                    long SSIDs.\n\n     ifconfig displays the current configuration for a network interface when\n     no optional parameters are supplied.  If a protocol family is specified,\n     ifconfig will report only the details specific to that protocol family.\n\n     If the -s flag is passed before an interface name, ifconfig will attempt\n     to query the interface for its media status.  If the interface supports\n     reporting media status, and it reports that it does not appear to be con-\n     nected to a network, ifconfig will exit with status of 1 (false); other-\n     wise, it will exit with a zero (true) exit status.  Not all interface\n     drivers support media status reporting.\n\n     If the -m flag is passed before an interface name, ifconfig will display\n     all of the supported media for the specified interface.  If the -L flag\n     is supplied, address lifetime is displayed for IPv6 addresses, as time\n     offset string.\n\n     Optionally, the -a flag may be used instead of an interface name.  This\n     flag instructs ifconfig to display information about all interfaces in\n     the system.  -d limits this to interfaces that are down, -u limits this\n     to interfaces that are up, -b limits this to broadcast interfaces, and -s\n     omits interfaces which appear not to be connected to a network.\n\n     The -l flag may be used to list all available interfaces on the system,\n     with no other additional information.  Use of this flag is mutually\n     exclusive with all other flags and commands, except for -d (only list\n     interfaces that are down), -u (only list interfaces that are up), -s\n     (only list interfaces that may be connected), -b (only list broadcast\n     interfaces).\n\n     The -C flag may be used to list all of the interface cloners available on\n     the system, with no additional information.  Use of this flag is mutually\n     exclusive with all other flags and commands.\n\n     The -v flag prints statistics on packets sent and received on the given\n     interface.  If -h is used in conjunction with -v, the byte statistics\n     will be printed in \"human-readable\" format.  The -z flag is identical to\n     the -v flag except that it zeros the interface input and output statis-\n     tics after printing them.\n\n     Only the super-user may modify the configuration of a network interface.\n\nDIAGNOSTICS\n     Messages indicating the specified interface does not exist, the requested\n     address is unknown, or the user is not privileged and tried to alter an\n     interface's configuration.\n\n",
+    "score": 0.1
+  },
+  {
+    "name": "openssh-client",
+    "version": ">= 1:8.9p1-3",
+    "score": 1
+  },
+  {
+    "name": "openssh-server",
+    "version": ">= 1:8.9p1-3",
+    "score": 1
+  },
+  {
+    "name": "dpkg",
+    "version": ">= 1.17.5",
+    "score": 1
+  },
+  {
+    "name": "adduser",
+    "version": ">= 3.10",
+    "score": 1
+  },
+  {
+    "name": "dpkg",
+    "version": ">= 1.7.0",
+    "score": 1
+  },
+  {
+    "name": "libfido2-1",
+    "version": ">= 1.8.0",
+    "score": 1
+  },
+  {
+    "name": "libssl3",
+    "version": ">= 3.0.1",
+    "score": 1
+  },
+  {
+    "name": "libpam-modules",
+    "version": ">= 0.72-9",
+    "score": 1
+  },
+  {
+    "name": "adduser",
+    "version": ">= 3.9",
+    "score": 1
+  },
+  {
+    "name": "dpkg",
+    "version": ">= 1.9.0",
+    "score": 1
+  },
+  {
+    "name": "libkrb5-3",
+    "version": ">= 1.13~alpha1+dfsg",
+    "score": 1
+  },
+  {
+    "name": "libpam-runtime",
+    "version": ">= 0.76-14",
+    "score": 1
+  },
+  {
+    "name": "lsb-base",
+    "version": ">= 4.1+Debian3",
+    "score": 1
+  },
+  {
+    "name": "openssh-client",
+    "version": "= 1:8.9p1-3",
+    "score": 1
+  },
+  {
+    "name": "ucf",
+    "version": ">= 0.28",
+    "score": 1
+  },
+  {
+    "name": "android",
+    "version": "1",
+    "score": 0.9
+  },
+  {
+    "name": "system",
+    "version": "NAME=pidin\nDESCRIPTION=Display system statistics\nDATE=2012/06/20-13:52:36-EDT\nSTATE=stable\nHOST=gusbuild4\nUSER=builder\nVERSION=6.5.0\nTAGID=650SP1-166\npidin [options] argument - display system stats \n-d delay   delay period in tenths of a second\n-F format  a string consisting of format identifiers\n-f formats contiguous string of format codes (-f mbe = -F %m %b %e)\n-h         this message\n-k         print PID & NID data until an error occurs\n-l         display statistics at intervals decided by -d option\n-M formats format string (as in printf()) \n-n node    remote QNX node you are interested in\n-o prio    run at prio priority \n-P pid     process family (pid or name) you are interested in\n-p pid     process (pid or name) you are interested in\nFormats\nA - arguments\na - pid\nB - what you are blocked on\nb - tid\nc - code size (process)\nd - data size (process)\nE - environment\nf - process flags\ne - parent pid\nH - extended scheduling\nh - thread name\nI - pid and tid\ni - runmask and inherit mask\nJ - state of the tid\nK - what kernel call was executed last\nl - last CPU the thread ran on\nM - memory owned by the pid\nm - stack size (process)\nN - short name of the process\nn - long name of process\no - coids/fds of the process \nP - parent group\np - prio of thread\nQ - interrupts\nq - backtrace\nR - timers\nS - signal ignore mask\ns - signal queued mask\nT - number of threads\n[ - channels\n\nIf no format is given then \"%a %b %N %p %J %B\" is used.\n\nWhere argument is one of:\n  arg, backtrace, channels, env, extsched, fam, fds, flags, info, irqs, map,\n  mem, net, pmem, rc, regs, rmasks, sched, sig, sess, threads, timers, times,\n  ttimes, user\n  or\n  syspage{=section}\n  where section is one of:\n\tsystem_private, qtime, callout, cpuinfo, cacheattr, asinfo,\n\thwinfo, typed_strings, strings, intrinfo, smp\n",
+    "score": 0.1
+  },
+  {
+    "name": "ccbuild",
+    "version": "NAME=libsqlite3.so\nDESCRIPTION=SQLite Library\nDATE=2013/01/18-10:09:57-EST\nSTATE=stable\nHOST=ccbuild\nUSER=builder\nVERSION=20.26.21\nTAGID=3579@688435M\n",
+    "score": 0.1
+  },
+  {
+    "name": "libsqlite3",
+    "version": "NAME=libsqlite3.so\nDESCRIPTION=SQLite Library\nDATE=2013/01/18-10:09:57-EST\nSTATE=stable\nHOST=ccbuild\nUSER=builder\nVERSION=20.26.21\nTAGID=3579@688435M\n",
+    "score": 0.1
+  },
+  {
+    "name": "mount",
+    "version": "NAME=mount\nDESCRIPTION=Mount a filesystem\nDATE=2012/06/20-13:52:11-EDT\nSTATE=stable\nHOST=gusbuild4\nUSER=builder\nVERSION=6.5.0\nTAGID=650SP1-166\nUsage: mount [-abwruv] -t type [-o options] [special] mntpoint\n       mount [-abwruv] -T type [-o options] special [mntpoint]\n       mount [-abwruv] -e [-t|T type] [-o options] special [mntpoint]\n       mount \n\nWhere:\n       -a Mount all devices listed in the fstab file. If type provided, \n          mount only those entries. This option is ignored if a special \n          device or mountpoint is specified.\n       -b Ignore fstab file. \n       -o Gives server-specific options\n       -r Mount read only \n       -T Indicates the special device may not by a real device \n          but rather a hint for the server.  The server will \n          autocreate an appropriate mountpoint if mntpoint is \n          not specified.\n       -t Indicates the mount request should only go to the server\n          who created/is responsible for the special device.  If \n          the special device doesn't exist then this option behaves \n          the same as -T.\n       -e Enumerate the device given by special\n       -u Mount for update (remount) \n       -v Increases the verbosity\n       -w Mount read/write\n\nNote: Not all servers will support all the mount options \n      (in particular remounting and enumerating).\n\n'special' is the name of the special device\n\n'type' may include (among others):\n      nfs, cd (for iso9660), qnx4, dos, ext2, flash, io-pkt\n\nExamples:\n    Enumerate the partition table:\n    % mount -e /dev/hd0 \n    Mount a QNX4 filesystem partition\n    % mount -t qnx4 /dev/hd0t77 /mnt/fs\n    Mount an NFS filesystem\n    % mount -T nfs 10.1.0.22:/home /mnt/home\n    Mount the QNET network protocol\n    % mount -T io-pkt /lib/dll/lsm-qnet.so\n    Mount an NFSv3 filesystem\n    % mount -T nfs -o ver3 10.1.0.22:/home /mnt/home\n",
+    "score": 0.1
+  },
+  {
+    "name": "search",
+    "version": "NAME=grep\nDESCRIPTION=search text for regular expressions\nDATE=2010/07/09-14:56:31-EDT\nSTATE=stable\nHOST=mainbuild\nUSER=builder\nVERSION=6.5.0\nTAGID=89\n%-grep\n%C\t[-E|-F] [-chilnqrRsvx] [-e pattern | -f pattern_file]... [file ...]\n%C\t[-E|-F] [-chilnqrRsvx] pattern [file ...]\nWhere:\n -E            Use Extended Regular Expressions.\n -F            Use Fixed Strings.\n -c            Only print count of selected lines.\n -i            Ignore upper-case/lower-case distinctions.\n -h            Do not display filenames.\n -l            Print pathname once.\n -n            Precede each output line with the line number.\n -q            Produce no output.\n -r,-R         Recursive\n -s            Suppress error messages on file open errors.\n -v            Select lines not matching specified patterns.\n -x            Match pattern(s) exactly.\n -e pattern    Specify a search pattern.\n -f pat_file   Specify a file of search patterns.\n%-egrep\n%C\t[-cilnrRsvx] [-e pattern | -f pattern_file]... [file ...]\n%C\t[-cilnrRsvx] pattern [file ...]\nWhere:\n -c            Only print count of selected lines.\n -i            Ignore upper-case/lower-case distinctions.\n -h            Do not display filenames.\n -l            Print pathname once.\n -n            Precede each output line with the line number.\n -q            Produce no output.\n -r,-R         Recursive\n -s            Suppress error messages on file open errors.\n -v            Select lines not matching specified patterns.\n -x            Match pattern(s) exactly.\n -e pattern    Specify a search pattern.\n -f pat_file   Specify a file of search patterns.\n%-fgrep\n%C\t[-cilnrRsvx] [-e pattern | -f pattern_file]... [file ...]\n%C\t[-cilnrRsvx] pattern [file ...]\nWhere:\n -c            Only print count of selected lines.\n -i            Ignore upper-case/lower-case distinctions.\n -l            Print pathname once.\n -n            Precede each output line with the line number.\n -q            Produce no output.\n -r,-R         Recursive\n -s            Suppress error messages on file open errors.\n -v            Select lines not matching specified patterns.\n -x            Match pattern(s) exactly.\n -e pattern    Specify a search pattern.\n -f pat_file   Specify a file of search patterns.\n",
+    "score": 0.1
+  },
+  {
+    "name": "device",
+    "version": "NAME=umount\nDESCRIPTION=Unmount a device\nDATE=2010/07/09-15:09:49-EDT\nSTATE=stable\nHOST=mainbuild\nUSER=builder\nVERSION=6.5.0\nTAGID=89\n%C [-v] [-f] path [path ...]\n\nWhere:\n    path - The root mountpoint to be unmounted\n    -f   - Forces an unmount \n    -v   - Add verbosity\n",
+    "score": 0.1
+  },
+  {
+    "name": "system",
+    "version": "NAME=fs-qnx4.so\nDESCRIPTION=QNX4 filesystem library\nDATE=2012/06/20-13:46:12-EDT\nSTATE=stable\nHOST=gusbuild4\nUSER=builder\nVERSION=6.5.0\nTAGID=650SP1-166\n%C - QNX4 file system module for Neutrino\n\nThis module is loaded by the \"io-blk\" module (from a \"devb-*\" driver).\n\n[qnx4 <options>]\n\nOptions:\n  bitmap=    Set pre-reading of \".bitmap\" (always,NONRMV,lazy)\n  grown      Allow persistent over-grown files (sticky O_APPEND allocation)\n  noembed    Never embed inode details - always place in fixed-size \".inodes\"\n  overalloc  Enable a more aggressive file extent over-allocation heuristic\n  unbusy     Attempt to correct \"busy\" files (power-loss) by truncation\n\nRefer also to the mount/file-system options of \"io-blk.so\".\n",
+    "score": 0.1
+  },
+  {
+    "name": "pseudo",
+    "version": "NAME=devc-pty\nDESCRIPTION=Character device driver for the pseudo-terminals (ptys)\nDATE=2012/06/20-13:41:16-EDT\nSTATE=stable\nHOST=gusbuild4\nUSER=builder\nVERSION=6.5.0\nTAGID=650SP1-166\n%C - Pseudo-terminal driver\n\n%C [options] &\nOptions:\n -C number    Size of canonical input buffer (default 256)\n -I number    Size of raw input buffer (default 256)\n -O number    Size of output buffer (default 1536)\n -n number    Number of pty's to create (default 8)\n -v           Increase verbosity\n",
+    "score": 0.1
+  },
+  {
+    "name": "terminal",
+    "version": "NAME=devc-pty\nDESCRIPTION=Character device driver for the pseudo-terminals (ptys)\nDATE=2012/06/20-13:41:16-EDT\nSTATE=stable\nHOST=gusbuild4\nUSER=builder\nVERSION=6.5.0\nTAGID=650SP1-166\n%C - Pseudo-terminal driver\n\n%C [options] &\nOptions:\n -C number    Size of canonical input buffer (default 256)\n -I number    Size of raw input buffer (default 256)\n -O number    Size of output buffer (default 1536)\n -n number    Number of pty's to create (default 8)\n -v           Increase verbosity\n",
+    "score": 0.1
+  },
+  {
+    "name": "command",
+    "version": "NAME=shutdown\nDESCRIPTION=shutdown, a command-line utility to properly shut down a QNX Neutrino system\nDATE=2012/06/20-13:52:40-EDT\nSTATE=stable\nHOST=gusbuild4\nUSER=builder\nVERSION=6.5.0\nTAGID=650SP1-166\n%C - shut down the system (Neutrino)\n\n%C\t[options]\nOptions:\n -S type  Shutdown type. Type: system|reboot (default:reboot).\n -f       Fast shutdown.\n -n node  Node to shut down. Default is current node.\n -b       Shut down but do not reboot.  May not be used with -n node.\n -q       Quiet.\n -v       Verbose.\n",
+    "score": 0.1
+  },
+  {
+    "name": "crash",
+    "version": "NAME=dumper\nDESCRIPTION=Process crash dump file creation daemon\nDATE=2012/06/20-13:46:32-EDT\nSTATE=stable\nHOST=gusbuild4\nUSER=builder\nVERSION=6.5.0\nTAGID=650SP1-166\n%C - Elf Core Dumper (QNX Neutrino)\n\n%C [-p pid] [-d dump directory] [-n][-v][-m]\n    -d dump directory          Directory in which to place dumps.\n                               Default is home directory of user that started\n                               process, or /tmp if none.\n    -m                         Suppress dumping of memory\n    -P                         Dump out physical memory mappings\n    -t                         Only dump the stack of the errant thread\n    -n                         Create sequential dump files.\n    -p pid                     Dump specific process, then exit.\n    -s size[G|M|K]             Set maximum core file size in bytes\n    -v                         Operate verbosely\n    -w                         Make core files world readable\n    -z num                     gzip core files. num is the compression level.\n                               Must between 1 (fastest) and 9 (best compressed)\n",
+    "score": 0.1
+  },
+  {
+    "name": "system",
+    "version": "NAME=slogger\nDESCRIPTION=QNX system logging daemon\nDATE=2012/06/20-13:48:06-EDT\nSTATE=stable\nHOST=gusbuild4\nUSER=builder\nVERSION=6.5.0\nTAGID=650SP1-166\n%C - System logger\n\n%C\t-f severity -l fname[,size] -s size -v\n\nOptions:\n -f severity      Filter logged events based upon their severity (default: 7)\n                  0-highest severity  7-lowest severity\n -l fname[,size]  Log events, filtered according to -f option, to this file. \n                  If size option specified (in kilobytes), alternate between two files, \n                  fname0 and fname1, as the files reach the specified size. \n -s size          Size of in-memory log buffer in K\n -m\t\t\tUse CLOCK_MONOTONIC as clock source (default CLOCK_REALTIME)\n -u eventId\t\tGenerate UserStrEvent for all message received using the event id (default not generate event)\n -v               Be verbose\n -c               Open logfile with O_SYNC to forcibly commit logged events\n                  to disk.\n",
+    "score": 0.1
+  },
+  {
+    "name": "default",
+    "version": "NAME=route\nDESCRIPTION=Utility to configure TCP/IP routes\nDATE=2012/06/20-13:38:49-EDT\nSTATE=stable\nHOST=gusbuild4\nUSER=builder\nVERSION=6.5.0\nTAGID=650SP1-166\n%C [-f] [-n] [-q] [-v] command [[modifiers] args]\r\n\r\nOptions:\r\n -f      Remote all routes. Can be used with command options.  \r\n -n      Prevent attempts to print host and network names symbolically\r\n -v      (verbose) Print additional details.\r\n -q      Suppress all output.\r\n\r\nWhere:\r\n add         Add a route.\r\n flush       Remove all routes.\r\n delete      Delete a specific route.\r\n change      Change aspects of a route (such as its gateway).\r\n show        Display route table (similar to netstat -r).  \r\n get         Display particular route.\r\n monitor     Continuously report changes in routing tables.\r\n\r\n",
+    "score": 0.1
+  },
+  {
+    "name": "libgd3",
+    "version": ">= 2.1.0~alpha~",
+    "score": 1
+  },
+  {
+    "name": "libpcsclite1",
+    "version": ">= 1.3.0",
+    "score": 1
+  },
+  {
+    "name": "GOST",
+    "version": "34.11",
+    "score": 0.3
+  },
+  {
+    "name": "GOST",
+    "version": "34.10",
+    "score": 0.3
+  },
+  {
+    "name": "daemon",
+    "version": "NAME=mq\nDESCRIPTION=POSIX message queue daemon\nDATE=2010/07/09-14:17:36-EDT\nSTATE=stable\nHOST=mainbuild\nUSER=builder\nVERSION=6.5.0\nTAGID=89\n%C - POSIX message queue daemon\n\nOptions:\n  -m    Set the default mq_maxmsg for a NULL mq_attr (64 msgs)\n  -s    Set the default mq_msgsize for a NULL mq_attr (256 bytes)\n  -N    Set the pathname of the directory for message queues (\"/dev/mq\")\n  -d    Do not daemonize\n",
+    "score": 0.1
+  },
+  {
+    "name": "daemon",
+    "version": "NAME=pipe\nDESCRIPTION=POSIX pipe daemon\nDATE=2010/07/09-14:21:05-EDT\nSTATE=stable\nHOST=mainbuild\nUSER=builder\nVERSION=6.5.0\nTAGID=89\n%C - POSIX pipe daemon\n\n%C [-1] [-a <size>] [-P] [-s <size>] [-d] &\n\nOptions:\n  -1    Unblock select for writing when _PC_PIPE_BUF available (default 1 byte)\n  -a    Set atomic write size (_PC_PIPE_BUF, default 5120 bytes)\n  -P    Synchronise modification of POSIX attributes to host filesystem\n  -s    Set total pipe buffer size (default 5120 bytes)\n  -d    Do not daemonize\n",
+    "score": 0.1
+  }
+]
